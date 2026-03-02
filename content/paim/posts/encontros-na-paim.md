@@ -41,7 +41,7 @@ foto: Explode!/ ©Carol Godefroid
 
 Vanessa Andreotti atualmente é professora titular da Cátedra de Pesquisa Canadense em questões relacionadas à globalização, desigualdades e transformações sociais através da educação e professora associada efetiva do Departamento de Estudos Educacionais da Faculdade de Educação, na Universidade de British Columbia em Vancouver, no Canadá.
 
-\[portfolio\_slideshow exclude="325,326,327,328,329,569"\]
+{{< slideshow images="1I5A5885.jpg|1I5A5893.jpg|1I5A5929.jpg|1I5A5918.jpg|1I5A5922.jpg|1I5A5925.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes
 
@@ -49,6 +49,6 @@ fotos ©Leandro Moraes
 
 * * *
 
-**KEIR & KADIJA** - setembro de 2017 \[portfolio\_slideshow exclude="220,221,225,332,336,337,338,569"\]
+**KEIR & KADIJA** - setembro de 2017 <!-- slideshow: no images found -->
 
 fotos ©Leandro Moraes

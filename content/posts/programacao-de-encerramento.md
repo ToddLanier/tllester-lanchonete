@@ -22,13 +22,13 @@ No início de 2018, hospedamos o fotógrafo Akinbode Akinbiyi, baseado em Berlim
 
  
 
-**Charrete com o KTH Royal Institute of Technology de Estocolmo** [portfolio\_slideshow size=full include="959,941,942,960,968,969,943,944,945,946,947,948"]
+**Charrete com o KTH Royal Institute of Technology de Estocolmo** {{< slideshow images="Screen-Shot-2019-02-01-at-10.29.18.png|Screen-Shot-2019-02-01-at-09.53.19.png|Screen-Shot-2019-02-01-at-09.54.44.png|Screen-Shot-2019-02-01-at-10.30.26.png|Screen-Shot-2019-02-01-at-10.36.00.png|Screen-Shot-2019-02-01-at-10.37.01.png|Screen-Shot-2019-02-01-at-09.57.56.png|Screen-Shot-2019-02-01-at-09.59.11.png|Screen-Shot-2019-02-01-at-10.00.19.png|Screen-Shot-2019-02-01-at-10.00.44.png|Screen-Shot-2019-02-01-at-10.02.01.png|Screen-Shot-2019-02-01-at-10.02.17.png" path="/lanchonete/images/" >}}
 * * *
 
-**Visita à Ocupação 9 de Julho com o KTH Royal Institute of Technology e Akinbode Akinbiyi** [portfolio\_slideshow size=full include="965,966,967"]
+**Visita à Ocupação 9 de Julho com o KTH Royal Institute of Technology e Akinbode Akinbiyi** {{< slideshow images="Screen-Shot-2019-02-01-at-10.34.07.png|Screen-Shot-2019-02-01-at-10.34.40.png|Screen-Shot-2019-02-01-at-10.34.54.png" path="/lanchonete/images/" >}}
 * * *
 
-**Examinando a Migração Africana no Centro de São Paulo, Caminhando com Akinbode Akinbiyi (e KTH)** [portfolio\_slideshow size=full include="961,962,949,963,951,953"]
+**Examinando a Migração Africana no Centro de São Paulo, Caminhando com Akinbode Akinbiyi (e KTH)** <!-- slideshow: no images found -->
 * * *
 
 **Conferência Open Engagement no Queens Museum (Para fora: NYC)**
@@ -43,7 +43,7 @@ Apresentação de Raphael Daibert e Paula Van Erven (Lanchonete.org), com o parc
 
 ![](/lanchonete/images/image6-350x500.png)
 
-[portfolio\_slideshow size=full include="955,956,957,958"]
+{{< slideshow images="Screen-Shot-2019-02-01-at-10.16.05.png|Screen-Shot-2019-02-01-at-10.16.45.png|Screen-Shot-2019-02-01-at-10.17.05.png|Screen-Shot-2019-02-01-at-10.17.32.png" path="/lanchonete/images/" >}}
 Em parceria com a Escola da Cidade e os arquitetos do Habita-Cidade, o Lanchonete.org desenvolveu o curso livre: “Poder local – estratégias em prol da comunidade: Desenvolvimento de projetos coletivos com e para comunidades”. O curso apresentou e debateu estratégias no sentido de como trabalhar em parceria com uma comunidade e como facilitar e garantir dinâmicas comunitárias. O local de atuação e diálogo encontra-se no [Museu da Vizinhança](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/), no Conjunto Santos Dumont. Um parceiro diferente do Lanchonete.org ministrou cada sessão de aula, que sempre terminavam com o tradicional Almoço de Segunda.
 
 \*Veja o programa de estudo [aqui](/lanchonete/pdfs/aulas-Poder-Local-1.pdf)
@@ -76,7 +76,7 @@ Lanchonete.org e o Coletivo Coletores começaram a trabalhar juntos em 2016, dur
 
 Somando forças depois de anos de diversas parcerias, Coletivo Coletores e Lanchonete.org fizeram a co-curadoria e produziram 'Corpos Cartográficos', uma programação pública oferecida durante a semana de abertura da Bienal de São Paulo de 2018, considerando histórias de comunidades, lembranças, a cidade e todas suas contradições, assim, reconhecendo a relação entre o Centro de São Paulo e São Matheus na Zona Leste, muitas vezes considerada estar localizada na 'periferia' da cidade.
 
-[portfolio\_slideshow size=full include="902,901,900,899,898,897,890,889"\] fotos: Daniela Cordeiro e Coletivo Via
+{{< slideshow images="image8.jpg|image18.jpg|image15.jpg|image13.jpg|image12.jpg|image19.png|image2.png|image1.png" path="/lanchonete/images/" >}} fotos: Daniela Cordeiro e Coletivo Via
 
 É possível representar histórias ainda não contadas? Como fomentar momentos de encontro que não carecem de presença física? Como criar lugares de aprendizagem em trânsito apenas no correr do tempo?
 

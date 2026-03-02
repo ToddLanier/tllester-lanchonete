@@ -20,7 +20,7 @@ title: "Café Imaginário no Museu da Vizinhança"
 type: "post"
 ---
 
-\[portfolio\_slideshow size=full\]
+{{< slideshow images="1I5A9502.jpg|1I5A9521.jpg|1I5A9388.jpg|1I5A9442-e1554644112736.jpg|1I5A9460.jpg|1I5A9507.jpg|1I5A9432.jpg|1I5A9491.jpg|1I5A9515.jpg|1I5A9460-1.jpg|1I5A9465.jpg|1I5A9469.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes
 

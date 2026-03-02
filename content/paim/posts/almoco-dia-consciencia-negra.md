@@ -20,7 +20,7 @@ type: "post"
 
 Na ocasião do Dia da Consciência Negra, o tradicional Almoço de Segundas no Museu da Vizinhança se voltou à temática, e ocorreu em torno de debates levantados pelo Coletivo Amem. Na cozinha, as delícias dos queridos Jonas Van e Abdoulaye Guibila.
 
-\[portfolio\_slideshow size=full\]
+{{< slideshow images="1I5A1533.jpg|1I5A1535.jpg|1I5A1566.jpg|1I5A1604.jpg|1I5A1547-copy.jpg|1I5A1541-copy.jpg|1I5A5088-copy.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes
 

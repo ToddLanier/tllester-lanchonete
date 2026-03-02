@@ -561,3 +561,117 @@ p {
     grid-template-columns: 1fr;
   }
 }
+
+/* ===== Gallery & Slideshow Shortcodes (Issue 11) ===== */
+
+/* Gallery grid */
+.wp-gallery {
+  display: grid;
+  gap: 6px;
+  margin: 1.5em 0;
+}
+.wp-gallery-cols-2 { grid-template-columns: repeat(2, 1fr); }
+.wp-gallery-cols-3 { grid-template-columns: repeat(3, 1fr); }
+.wp-gallery-cols-4 { grid-template-columns: repeat(4, 1fr); }
+.wp-gallery-cols-5 { grid-template-columns: repeat(5, 1fr); }
+.wp-gallery-cols-6 { grid-template-columns: repeat(6, 1fr); }
+
+.gallery-item {
+  margin: 0;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.gallery-item a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.2s;
+}
+.gallery-item img:hover { opacity: 0.85; }
+
+@media (max-width: 600px) {
+  .wp-gallery-cols-4,
+  .wp-gallery-cols-5,
+  .wp-gallery-cols-6 { grid-template-columns: repeat(3, 1fr); }
+  .wp-gallery-cols-2,
+  .wp-gallery-cols-3 { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Slideshow */
+.wp-slideshow {
+  position: relative;
+  margin: 1.5em 0;
+}
+.wp-slideshow-track {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 6px;
+  scrollbar-width: none;
+}
+.wp-slideshow-track::-webkit-scrollbar { display: none; }
+.slideshow-item {
+  flex: 0 0 auto;
+  width: calc(100% - 80px);
+  max-height: 520px;
+  scroll-snap-align: start;
+  margin: 0;
+  overflow: hidden;
+}
+.slideshow-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.wp-slideshow-nav {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 8px;
+}
+.slideshow-prev, .slideshow-next {
+  background: #372490;
+  color: #fff;
+  border: none;
+  width: 36px;
+  height: 36px;
+  font-size: 1.4em;
+  cursor: pointer;
+  border-radius: 50%;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.slideshow-prev:hover, .slideshow-next:hover { background: #E12D1E; }
+
+/* Caption (figure with caption) */
+figure.wp-caption {
+  margin: 1em 0;
+  max-width: 100%;
+}
+figure.wp-caption.alignleft {
+  float: left;
+  margin-right: 1.5em;
+  margin-bottom: 0.5em;
+}
+figure.wp-caption.alignright {
+  float: right;
+  margin-left: 1.5em;
+  margin-bottom: 0.5em;
+}
+figure.wp-caption.aligncenter { margin: 1em auto; text-align: center; }
+figure.wp-caption img { display: block; max-width: 100%; height: auto; }
+figure.wp-caption figcaption {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 4px;
+  font-style: italic;
+}

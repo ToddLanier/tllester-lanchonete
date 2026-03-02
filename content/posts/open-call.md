@@ -9,7 +9,7 @@ title: "Deixando em aberto"
 type: "post"
 ---
 
-[gallery columns="2" ids="1336,1337,1338,1339"]
+{{< gallery images="CSD-Departure-Elevations-01-19-21-1-4-1-page-001-1.jpg|CSD-Departure-Elevations-01-19-21-1-4-1-page-002.jpg|CSD-Departure-Elevations-01-19-21-1-4-1-page-003.jpg|CSD-Departure-Elevations-01-19-21-1-4-1-page-004.jpg" path="/lanchonete/images/" columns="2" >}}
 Para os propósitos deste site, termos como "Deixando em Aberto" e "Toque Final" são figurativos.
 
 Através de um [Ciclo de Pós-Planejamento](https://lanchonete.org/en/2018/09/programacao-de-encerramento/), Lanchonete.org conduziu uma programação pública de uma no (2018) para permitir que processos contínuos tenham finais naturais, e para receber comentários e avaliações sobre o trabalho em geral. 'Paim, toque final"([parte 1](https://lanchonete.org/en/2020/09/paim-final-touch/) e [parte 2](https://lanchonete.org/en/2021/04/paim-toque-final-pt-2/)) descreve como alguns participantes do Lanchonete.org continuaram a trabalhar à partir do Bar do Tarcísio (lanchonete) e com os moradores do Conjunto Santos Dumont, e de fato desta maneira nós estamos 'Deixando em Aberto' a nova rede que foi criada durante o projeto Lanchonete.org, de cinco anos (2013-2017).

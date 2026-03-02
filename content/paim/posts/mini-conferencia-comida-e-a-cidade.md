@@ -27,6 +27,6 @@ type: "post"
 
 Como primeiro evento parte da programação do Museu da Vizinhança, tivemos uma conversa ao redor do tema comida e a cidade com artistas, cozinheirxs, ativistas e pensadores locais e internacionais.
 
-\[portfolio\_slideshow size=full\]
+{{< slideshow images="1I5A4468.jpg|1I5A4470.jpg|1I5A4475.jpg|1I5A4485.jpg|1I5A4494.jpg|1I5A4499.jpg|1I5A4529.jpg|1I5A4555.jpg|1I5A4587.jpg|1I5A4611.jpg|1I5A4634.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes

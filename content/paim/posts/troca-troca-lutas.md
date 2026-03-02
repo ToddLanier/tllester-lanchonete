@@ -32,6 +32,6 @@ A partir de experiências compartilhadas pelxs presentes, a ideia foi ter uma co
 
 Na cozinha, xs queridxs Abdoulaye Le Sultan Guibila e Jonas Van não nos deixaram passar fome!
 
-\[portfolio\_slideshow size=full\]
+{{< slideshow images="1I5A1278.jpg|1I5A1279.jpg|1I5A1280.jpg|1I5A1287.jpg|1I5A1293.jpg|1I5A1323.jpg|1I5A1330.jpg|1I5A1349.jpg|1I5A1354.jpg|1I5A1380.jpg|1I5A1392.jpg|1I5A1402.jpg|1I5A1416.jpg|1I5A1445.jpg|1I5A1452.jpg|1I5A1472.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes

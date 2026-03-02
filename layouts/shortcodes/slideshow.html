@@ -1,0 +1,33 @@
+{{- $images := split (.Get "images") "|" -}}
+{{- $path := .Get "path" | default "" -}}
+{{- $id := printf "slideshow-%d" now.UnixNano -}}
+<div class="wp-slideshow" id="{{ $id }}">
+  <div class="wp-slideshow-track">
+    {{- range $images -}}
+      {{- $img := trim . " " -}}
+      {{- if $img -}}
+      <figure class="slideshow-item">
+        <a href="{{ $path }}{{ $img }}" target="_blank" rel="noopener">
+          <img src="{{ $path }}{{ $img }}" alt="" loading="lazy" />
+        </a>
+      </figure>
+      {{- end -}}
+    {{- end -}}
+  </div>
+  <div class="wp-slideshow-nav">
+    <button class="slideshow-prev" onclick="slideshowNav('{{ $id }}', -1)" aria-label="Previous">&#8249;</button>
+    <button class="slideshow-next" onclick="slideshowNav('{{ $id }}', 1)" aria-label="Next">&#8250;</button>
+  </div>
+</div>
+<script>
+(function() {
+  function slideshowNav(id, dir) {
+    var track = document.getElementById(id).querySelector('.wp-slideshow-track');
+    var items = track.querySelectorAll('.slideshow-item');
+    if (!items.length) return;
+    var w = items[0].offsetWidth + parseInt(getComputedStyle(items[0]).marginRight || 0);
+    track.scrollBy({ left: dir * w, behavior: 'smooth' });
+  }
+  window.slideshowNav = window.slideshowNav || slideshowNav;
+})();
+</script>

@@ -16,6 +16,6 @@ type: "post"
 
 O [Coletivo Amem](https://www.facebook.com/Coletivo-Amem-284867401953444/) realizou uma residência no Museu da Vizinhança a convite de Lanchonete, integrando a série de residências do Museu da Vizinhança. Juntamente com [Loka de Efavirenz](https://www.facebook.com/LokadeEfavirenz/), o [coletivo Amem](https://www.facebook.com/Coletivo-Amem-284867401953444/) propôs encontros com artistas e ativistas negrxs para discutir sobre saúde, arte e estratégias de enfrentamento à epidemia da aids, com bate-papos, comes e bebes, e a exibição do documentário "Fogo nas Veias".
 
-\[portfolio\_slideshow size=full\]
+<!-- slideshow: no images found -->
 
 fotos ©Leandro Moraes

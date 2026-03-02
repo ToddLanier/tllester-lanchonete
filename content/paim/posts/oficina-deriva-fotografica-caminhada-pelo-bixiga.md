@@ -18,7 +18,7 @@ title: "Oficina Deriva Fotográfica - Caminhada Pelo Bixiga"
 type: "post"
 ---
 
-\[portfolio\_slideshow\]
+{{< slideshow images="1I5A1607.jpg|1I5A1613.jpg|1I5A1636.jpg|1I5A1673.jpg|1I5A1683.jpg|1I5A1727.jpg|1I5A1748.jpg|1I5A1795.jpg|1I5A1826.jpg|1I5A1845.jpg|1I5A4452.jpg|1I5A4455.jpg|1I5A4466.jpg|1I5A4474.jpg|1I5A4489.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes
 

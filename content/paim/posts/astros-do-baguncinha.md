@@ -26,7 +26,7 @@ title: "Astros do Baguncinha"
 type: "post"
 ---
 
-\[portfolio\_slideshow\]
+{{< slideshow images="bag01.jpg|bag02.jpg|bag03.jpg|bag04.jpg|bag05.jpg|bag06.jpg|bag07.jpg|bag08.jpg|bag09.jpg|bag10.jpg|bag11.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes
 

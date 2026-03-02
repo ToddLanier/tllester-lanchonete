@@ -1,0 +1,16 @@
+{{- $images := split (.Get "images") "|" -}}
+{{- $path := .Get "path" | default "" -}}
+{{- $columns := .Get "columns" | default "4" -}}
+{{- $id := printf "gallery-%d" now.UnixNano -}}
+<div class="wp-gallery wp-gallery-cols-{{ $columns }}" id="{{ $id }}">
+  {{- range $images -}}
+    {{- $img := trim . " " -}}
+    {{- if $img -}}
+    <figure class="gallery-item">
+      <a href="{{ $path }}{{ $img }}" class="gallery-lightbox" data-gallery="{{ $id }}">
+        <img src="{{ $path }}{{ $img }}" alt="" loading="lazy" />
+      </a>
+    </figure>
+    {{- end -}}
+  {{- end -}}
+</div>

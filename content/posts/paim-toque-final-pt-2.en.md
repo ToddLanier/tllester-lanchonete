@@ -20,5 +20,5 @@ At some point [Thiago Correia Gonçalves](https://lanchonete.org/en/2020/09/thi
 
  
 
-[gallery columns="2" link="file" size="medium" ids="1357,1358,1359,1360"]
+{{< gallery images="WhatsApp-Image-2020-12-30-at-4.13.59-PM-1.jpeg|WhatsApp-Image-2020-12-30-at-4.12.58-PM-1.jpeg|WhatsApp-Image-2020-12-17-at-10.38.33-AM-1.jpeg|WhatsApp-Image-2020-12-17-at-10.36.55-AM-1.jpeg" path="/lanchonete/images/" columns="2" >}}
 The intervention by Lavi and Thiago sets up the next phase, which is a technology-focused project with local youth. AR imagery of the airplanes (with additional historical information on the modernist period in which the buildings were constructed) will be created and accessible via smart phones and tablets. Working with local youth, we'll solicit input on the LED installation design from their parents, whilst maintaining the discussion on a garden at Paim refreshed by Calel's previous intervention. At the same time the team coming together to implement the LED installation grew to include lighting architect, Orlando Marques. Orlando suggested that we consider the Paulista-facing lateral facade of 14 Bis for a variety of reasons. This opened up the Centro-facing facade for another long-standing idea, which is the design of a Conjunto logo. See the latest designs under [Leaving Open](https://lanchonete.org/en/2018/09/open-call/).

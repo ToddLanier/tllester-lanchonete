@@ -19,7 +19,7 @@ _Por_ Pierre Michel Jean _Tradução_ Raphael Daibert
 
  
 
-[gallery link="file" size="medium" columns="2" ids="51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,79,80"]
+{{< gallery images="MJ_5211.jpg|MJ_5359.jpg|MJ_5365.jpg|MJ_5701.jpg|MJ_6040.jpg|MJ_6755.jpg|MJ_6846.jpg|MJ_6876.jpg|MJ_7476.jpg|MJ_7508.jpg|MJ_7640.jpg|MJ_7656.jpg|MJ_7673.jpg|MJ_7679.jpg|MJ_7689.jpg|MJ_7977.jpg|MJ_8343.jpg|MJ_8367.jpg|MJ_8456.jpg|MJ_8474.jpg|MJ_8492.jpg|MJ_8507.jpg|MJ_8619.jpg|MJ_8714.jpg|MJ_8759.jpg|MJ_8995.jpg|MJ_9047.jpg|MJ_9069.jpg|MJ_9099.jpg" path="/episodiohaiti/posts/images/" columns="2" >}}
  
 
 * * *

@@ -22,13 +22,13 @@ Early in 2018 we hosted Berlin-based photographer, Akinbode Akinbiyi. His work b
 
  
 
-**Charrette With KTH Royal Institute of Technology of Stockholm** [portfolio\_slideshow size=full include="959,941,942,960,968,969,943,944,945,946,947,948"]
+**Charrette With KTH Royal Institute of Technology of Stockholm** {{< slideshow images="Screen-Shot-2019-02-01-at-10.29.18.png|Screen-Shot-2019-02-01-at-09.53.19.png|Screen-Shot-2019-02-01-at-09.54.44.png|Screen-Shot-2019-02-01-at-10.30.26.png|Screen-Shot-2019-02-01-at-10.36.00.png|Screen-Shot-2019-02-01-at-10.37.01.png|Screen-Shot-2019-02-01-at-09.57.56.png|Screen-Shot-2019-02-01-at-09.59.11.png|Screen-Shot-2019-02-01-at-10.00.19.png|Screen-Shot-2019-02-01-at-10.00.44.png|Screen-Shot-2019-02-01-at-10.02.01.png|Screen-Shot-2019-02-01-at-10.02.17.png" path="/lanchonete/images/" >}}
 * * *
 
-**Visit to the 9 de Julho Occupation with KTH Royal Institute of Technology and Akinbode Akinbiyi** [portfolio\_slideshow size=full include="965,966,967"]
+**Visit to the 9 de Julho Occupation with KTH Royal Institute of Technology and Akinbode Akinbiyi** {{< slideshow images="Screen-Shot-2019-02-01-at-10.34.07.png|Screen-Shot-2019-02-01-at-10.34.40.png|Screen-Shot-2019-02-01-at-10.34.54.png" path="/lanchonete/images/" >}}
 * * *
 
-**Examining African Migration in São Paulo's Centro, Walking with Akinbode Akinbiyi (and KTH)** [portfolio\_slideshow size=full include="961,962,949,963,951,953"]
+**Examining African Migration in São Paulo's Centro, Walking with Akinbode Akinbiyi (and KTH)** <!-- slideshow: no images found -->
 * * *
 
 **Open Engagement conference at the Queens Museum (Outbound: NYC)**
@@ -43,7 +43,7 @@ Presentation by Raphael Daibert and Paula Van Erven (Lanchonete.org), and Keir J
 
 ![](/lanchonete/images/image6-350x500.png)
 
-[portfolio\_slideshow size=full include="955,956,957,958"]
+{{< slideshow images="Screen-Shot-2019-02-01-at-10.16.05.png|Screen-Shot-2019-02-01-at-10.16.45.png|Screen-Shot-2019-02-01-at-10.17.05.png|Screen-Shot-2019-02-01-at-10.17.32.png" path="/lanchonete/images/" >}}
 In partnership with the Escola da Cidade and architects from Habita-Cidade, Lanchonete.org developed the open course: “Local power -- strategies for the community: developing collective projects with and for communities.” The course presented and debated strategies on how to work in partnership with a community e how to facilitate community dynamics. It took place in the [Neighborhood Museum](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/), in the Santos Dumont Complex. The classes had a different partner of Lanchonete.org come to speak at each session, and ended with the traditional Monday Lunches.
 
 \*See course syllabus [here](/lanchonete/pdfs/aulas-Poder-Local-1.pdf)
@@ -76,7 +76,7 @@ Lanchonete.org and Coletivos Coletores began working together in 2016 during [Zo
 
 Joining forces after years and several partnerships, Coletivo Coletores and Lanchonete.org co-curated and produced 'Corporal Cartographies', a public programme offered during the opening week of the 2018 São Paulo Biennial considering community histories, memory, the city and all of its contradictions, thereby acknowledging the relationship between São Paulo's Centro and São Mateus in its East Zone, often called the 'periphery'.
 
-[portfolio\_slideshow size=full include="902,901,900,899,898,897,890,889"\] photos: Daniela Cordeiro e Coletivo Via
+{{< slideshow images="image8.jpg|image18.jpg|image15.jpg|image13.jpg|image12.jpg|image19.png|image2.png|image1.png" path="/lanchonete/images/" >}} photos: Daniela Cordeiro e Coletivo Via
 
 Is it possible to represent stories that have not yet been told? How are moments of encounter, that contain a physical presence, instigated? How are places of learning in transit created only throughout the passage of time?
 

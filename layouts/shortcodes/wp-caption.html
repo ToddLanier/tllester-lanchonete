@@ -1,0 +1,9 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $align := .Get "align" | default "" -}}
+{{- $width := .Get "width" | default "" -}}
+<figure class="wp-caption{{ if $align }} {{ $align }}{{ end }}"{{ if $width }} style="width:{{ $width }}px"{{ end }}>
+  <img src="{{ $src }}" alt="{{ $alt }}"{{ if $width }} style="max-width:{{ $width }}px"{{ end }} />
+  {{- if $caption -}}<figcaption>{{ $caption }}</figcaption>{{- end -}}
+</figure>

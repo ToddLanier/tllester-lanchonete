@@ -21,14 +21,14 @@ O evento **“Arte e feminismos no combate ao autoritarismo”** foi um encontro
 
 Além das três mesas de debate houve lançamentos do _[Jornal de Borda 3](http://www.tendadelivros.com.br/pd-31f201-jornal-de-borda-03.html "Jornal de Borda 3")_ e [Ensaio 6 – “Por que não](http://www.edicoesaurora.com/6-por-que-nao-houve-grandes-mulheres-artistas-linda-nochlin/) houve grandes mulheres artistas?” de Linda Nochlin, no .Aurora.
 
-[gallery link="file" size="large" voltata\_gallery\_type="bootstrap" ids="616,617,618,619,620,621,622,623,624,625,626,627,628"]
+{{< gallery images="1a_Mesa_debatedoras.jpg|1a_mesa.jpg|1a_mesa3.jpg|1a_mesa4.jpg|1a_mesa7.jpg|1a_mesa8.jpg|2a-mesa.jpg|2a_mesa3.jpg|2a_mesa7.jpg|2a_mesa8.jpg|2a_mesa10.jpg|2a_mesa11.jpg|2amesa_debatedoras.jpg" path="/cidadequeer/posts/images/" columns="4" >}}
 **CONTEXTO**
 
 Neste exato momento, muitos artistas ocupam prédios da Funarte em cidades brasileiras. A reitoria da Unicamp está ocupada, e os secundaristas lutam pelo direito à educação. Entre as reivindicações dos que resistem está a volta da presidenta democraticamente eleita.
 
 A primeira mulher presidente do país foi destituída do cargo em plena Conferência Nacional de Mulheres, momento em que se apontava a necessidade de criação do Sistema Nacional de Políticas para as Mulheres.
 
-[gallery link="file" size="large" voltata\_gallery\_type="bootstrap" ids="629,630,631,632,633,635,636,637,638,639,640"]
+{{< gallery images="2amesa.jpg|2amesa2.jpg|3a-mesa.jpg|3a_mesa5.jpg|3amesa.jpg|3amesa2.jpg|3amesa4.jpg|3amesa5.jpeg|intervalo.jpg|mesa-de-lancamentos.jpeg|pessoalendo.jpeg" path="/cidadequeer/posts/images/" columns="4" >}}
 **PROGRAMAÇÃO**
 
 **11-13h / Combate 1: Ativismo, direitos sexuais e feminismos** **Debatedorxs** **Rita Quadros /** ativista lésbica feminista **Jackeline Romio /** ativista do feminismo negro **Mediação: Fernanda Grigolin /** Jornal de Borda | Tenda de Livros

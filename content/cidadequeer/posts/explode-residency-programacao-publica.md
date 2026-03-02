@@ -228,7 +228,7 @@ http://www.danielcflima.com/ https://issuu.com/invisiveisproducoes
 
  
 
-[caption id="attachment\_1222" align="alignleft" width="200"\]![Diane Lima](images/dianelima-fotode_alile_dara_onawale-200x300.jpg) Foto de Alile Dara Onawale[/caption]
+{{< wp-caption src="images/dianelima-fotode_alile_dara_onawale-200x300.jpg" alt="Diane Lima" caption="Foto de Alile Dara Onawale" align="left" width="200" >}}
 AFROTRANSCENDENCE
 
 Dirigida por Yasmin Thayná e escrita por Diane Lima, a série de 12 capítulos discute racismo, memória, práticas artísticas e as necessidade de produzirmos conhecimento como ato político.

@@ -13,7 +13,7 @@ type: "page"
 **fotos** Laura Daviña  
   
 
-[gallery columns="6" link="file" size="thumbnail" ids="580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596"\]  
+{{< gallery images="DSCF4402.jpg|DSCF4404.jpg|DSCF4407.jpg|DSCF4408.jpg|DSCF4409.jpg|DSCF4410.jpg|DSCF4414.jpg|DSCF4415.jpg|DSCF4416.jpg|DSCF4418.jpg|DSCF4419.jpg|DSCF4422.jpg|DSCF4423.jpg|DSCF4429.jpg|DSCF4430.jpg|DSCF4435.jpg|DSCF4439.jpg" path="/cidadequeer/pages/images/" columns="6" >}}
 
 O projeto Cidade Queer tentou, em seu programa, descentralizar na cidade a discussão sobre os modos de vida não normativos, entendendo que esse conceito − muito discutido em âmbitos acadêmicos e de maior poderio econômico − é vivido cotidianamente em outros locais.
 

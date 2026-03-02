@@ -9,7 +9,7 @@ title: "Leaving Open"
 type: "post"
 ---
 
-[gallery columns="2" ids="1336,1337,1338,1339"]
+{{< gallery images="CSD-Departure-Elevations-01-19-21-1-4-1-page-001-1.jpg|CSD-Departure-Elevations-01-19-21-1-4-1-page-002.jpg|CSD-Departure-Elevations-01-19-21-1-4-1-page-003.jpg|CSD-Departure-Elevations-01-19-21-1-4-1-page-004.jpg" path="/lanchonete/images/" columns="2" >}}
  
 
 For the purposes of this site, terms like 'Leaving Open' and 'Final Touch' are figurative.

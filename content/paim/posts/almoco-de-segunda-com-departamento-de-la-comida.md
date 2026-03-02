@@ -28,6 +28,6 @@ Durante a programação do Museu da Vizinhança, que foi de outubro a dezembro d
 
 Nesta edição do almoço, as residentes de Lanchonete.org vindas de Porto Rico, Isabel Gandía e Tara Rodriguez, que desenvolvem o projeto Departamento de la Comida, ofereceram um cardápio a partir dos ingredientes encontrados na feira da Bela Vista.
 
-\[portfolio\_slideshow size=full\]
+{{< slideshow images="1I5A5082.jpg|1I5A5084.jpg|1I5A5094.jpg|1I5A5111.jpg|1I5A5094-1.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes

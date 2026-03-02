@@ -16,6 +16,6 @@ Os moradores/as participantes da oficina também levaram as câmeras para casa d
 
 Os resultados finais foram impressos e expostos durante a festa de fim de ano e de encerramento do Museu, que aconteceu no térreo do Conjunto Santos Dumont.
 
-\[portfolio\_slideshow size=full\]
+{{< slideshow images="1I5A0004.jpg|1I5A0013.jpg|1I5A9966.jpg|1I5A9973.jpg|1I5A9975.jpg|1I5A9983.jpg|1I5A9994.jpg" path="/paim/posts/images/" >}}
 
 fotos ©Leandro Moraes
