@@ -22,13 +22,13 @@ Acreditamos nessa imersão e nesse modo de aprendizagem baseado na escuta, como 
 
  
 
-![explode_residentes](images/explode_residentes-650x433.jpg)
+![explode_residentes](../images/explode_residentes-650x433.jpg)
 
 [Conheça a lista de residentes](/cidadequeer/posts/explode-residency-residentes/)
 
  
 
-![explode_convites_programacaopublica](images/explode_convites_programacaopublica-650x433.jpg)
+![explode_convites_programacaopublica](../images/explode_convites_programacaopublica-650x433.jpg)
 
 [Confira a programação pública da residência](/cidadequeer/posts/explode-residency-programacao-publica/)
 

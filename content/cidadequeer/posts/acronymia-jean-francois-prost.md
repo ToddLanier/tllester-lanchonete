@@ -18,7 +18,7 @@ type: "post"
 
 Seu projeto intitulado Acronymia tomou forma anteriormente na Bienal de Liverpool, em 2006. Por meio de diversos eventos, em diversos locais e com um público variado em cada um deles, uma versão do projeto artístico se realizou em São Paulo durante os meses do artista na cidade.  
 
-![IMG_6790](images/IMG_6790-650x433.jpg)**fotos** Jean-François Prost, **modelos** Lua Lucas  
+![IMG_6790](../images/IMG_6790-650x433.jpg)**fotos** Jean-François Prost, **modelos** Lua Lucas  
 
 Com o intuito de explorar uma linguagem além da comercial normalmente utilizada quando são empregadas as siglas, esses novos acrônimos não convencionais foram criados a partir de diversos encontros com diferentes artistas e pessoas do meio da arquitetura, da antropologia, geografia urbana, performance etc. Em parceria com o projeto desenvolvido no Ponto Aurora, intitulado Laboratório Gráfico Desviante, certas “acronímias” indecifráveis foram tomando forma progressivamente, trazendo consigo algum significado relacionado ao espaço público, às relações das pessoas com a cidade.
 

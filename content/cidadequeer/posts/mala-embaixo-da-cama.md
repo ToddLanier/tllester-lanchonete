@@ -27,7 +27,7 @@ Para informações sobre todas nossas atividades, acesse: [cidadequeer.lanchonet
 
 Evento no facebook: [www.facebook.com/events/1236011423110336/](https://www.facebook.com/events/1236011423110336/ "facebook")    --     **Suitcase Under the Bed** As part of a serie of public events by [Cidade Queer](http://cidadeDESVIANTE.lanchonete.org/) ([Lanchonete.org](http://lanchonete.org/) + [Musagetes](http://musagetes.ca/)), with local and international guests, for September 9th at 18h, in partnership with .Aurora, we would like to invite you to take part of the workshop “Suitcase Under the Bed” by the artists Ajamu Ikwe-Tyehimba, Patrick Hebert and Eduardo Carrera:
 
-![mala_EN](images/mala_EN.jpg)
+![mala_EN](../images/mala_EN.jpg)
 
 What are the items have you kept, cherished and cared for in relation to your own or someone else’s sexual and gender identity? Have some of these items never seen the light of day? What are the memories, feelings, emotions, secrets, gossip associated with these materials?
 

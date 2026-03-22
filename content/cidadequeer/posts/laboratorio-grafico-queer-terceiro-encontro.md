@@ -14,18 +14,18 @@ No terceiro encontro o incômodo com a tradução ou não-tradução do termo _q
 
 Para instalar é só clicar no link: [https://chrome.google.com/webstore/detail/laborat%C3%B3rio-gr%C3%A1fico-cidad/dfajjdldolemeglihppihihacdhhcmgj](https://chrome.google.com/webstore/detail/laborat%C3%B3rio-gr%C3%A1fico-cidad/dfajjdldolemeglihppihihacdhhcmgj).
 
-![Screen Shot 2016-08-20 at 7.33.03 PM](images/Screen-Shot-2016-08-20-at-7.33.03-PM.png)![Screen Shot 2016-08-20 at 7.33.23 PM](images/Screen-Shot-2016-08-20-at-7.33.23-PM.png)
+![Screen Shot 2016-08-20 at 7.33.03 PM](../images/Screen-Shot-2016-08-20-at-7.33.03-PM.png)![Screen Shot 2016-08-20 at 7.33.23 PM](../images/Screen-Shot-2016-08-20-at-7.33.23-PM.png)
 
  
 
-Outro exercício realizado foi em relação a questão do gênero em nossa língua. Fabio Morais partiu da tradução do primeiro parágrafo do Manifesto do Ciborgue da Donna Haraway para colocar o texto apenas no masculino e outra versão apenas no feminino, lado a lado. Seria possível uma versão neutra? ![fabiomorais](images/fabiomorais-650x460.png)
+Outro exercício realizado foi em relação a questão do gênero em nossa língua. Fabio Morais partiu da tradução do primeiro parágrafo do Manifesto do Ciborgue da Donna Haraway para colocar o texto apenas no masculino e outra versão apenas no feminino, lado a lado. Seria possível uma versão neutra? ![fabiomorais](../images/fabiomorais-650x460.png)
 
  
 
-![IMG_5916](images/IMG_5916-300x300.jpg)A solução de uma nova vogal para a escrita cuír latina está sendo estudada por Laura Daviña que desenhou alguns tipos e criou possibilidades de substituição na tipografia Times. Cuirificando a fonte para criar a Cuir Roman Times. A proposta do laboratório acabou tomando um caminho de reforma da língua e não a estética. O gráfico tentará dar conta da representação/tradução do não-normativo.
+![IMG_5916](../images/IMG_5916-300x300.jpg)A solução de uma nova vogal para a escrita cuír latina está sendo estudada por Laura Daviña que desenhou alguns tipos e criou possibilidades de substituição na tipografia Times. Cuirificando a fonte para criar a Cuir Roman Times. A proposta do laboratório acabou tomando um caminho de reforma da língua e não a estética. O gráfico tentará dar conta da representação/tradução do não-normativo.
 
  
 
-![IMG_5911](images/IMG_5911-1024x1024.jpg)
+![IMG_5911](../images/IMG_5911-1024x1024.jpg)
 
-![Screen Shot 2016-06-23 at 3.14.52 AM](images/Screen-Shot-2016-06-23-at-3.14.52-AM.png)
+![Screen Shot 2016-06-23 at 3.14.52 AM](../images/Screen-Shot-2016-06-23-at-3.14.52-AM.png)

@@ -10,7 +10,7 @@ title: "Laboratório gráfico queer — cartazes"
 type: "post"
 ---
 
-O [cartaz](images/cartaz_ATAQUE_Freud.jpg) acima foi produzido a partir das frases do Freud sobre o conceito de "uncanny", estranho familiar, e utilizando, como base, as palavras análogas a queer, levantadas e discutidas durante os encontros do laboratório gráfico desviante.
+O [cartaz](../images/cartaz_ATAQUE_Freud.jpg) acima foi produzido a partir das frases do Freud sobre o conceito de "uncanny", estranho familiar, e utilizando, como base, as palavras análogas a queer, levantadas e discutidas durante os encontros do laboratório gráfico desviante.
 
  
 
@@ -20,6 +20,6 @@ O [cartaz](images/cartaz_ATAQUE_Freud.jpg) acima foi produzido a partir das fras
 
    
 
-![cartaz_ataque_freud2](images/cartaz_ATAQUE_Freud2-495x700.jpg)
+![cartaz_ataque_freud2](../images/cartaz_ATAQUE_Freud2-495x700.jpg)
 
 Cartaz realizado a partir de frase de Vito Acconci com interferência de linhas retiradas do mapa de São Paulo vetorizado.

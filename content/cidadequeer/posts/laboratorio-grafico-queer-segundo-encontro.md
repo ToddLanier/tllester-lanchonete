@@ -18,13 +18,13 @@ title: "Laboratório gráfico queer — encontro 2"
 type: "post"
 ---
 
-![Screen Shot 2016-06-05 at 7.19.03 PM](images/Screen-Shot-2016-06-05-at-7.19.03-PM-300x269.png)O segundo encontro se inicia com a retomada da questão da tradução do termo _queer_ e o problema das línguas latinas referente ao gênero.
+![Screen Shot 2016-06-05 at 7.19.03 PM](../images/Screen-Shot-2016-06-05-at-7.19.03-PM-300x269.png)O segundo encontro se inicia com a retomada da questão da tradução do termo _queer_ e o problema das línguas latinas referente ao gênero.
 
 Abordar _queer_ para além da questão de gênero e sexualidade é trazer de volta suas raízes etimológicas/históricas? Tudo o que não se encontra em definitivo, categorizado, catalogado, é _queer_? O artista-ornitorrinco. O ciborgue, awkward, unheimlich (o estranho familiar, inquietante, ameaçador). Mais interessante talvez do que a tradução do termo seria fazer uma lista de palavras análogas para dar conta de _queer_ enquanto conceito que queremos abordar no Laboratório e no projeto Cidade Queer.
 
 > "Podemos reunir todas aquelas propriedades de pessoas, coisas, impressões sensórias, experiências e situações que despertam em nós o sentimento de estranheza, e inferir, então, a natureza desconhecida do estranho a partir de tudo o que esses exemplos têm em comum"
 
-![LGQ4](images/LGQ4-650x406.jpg)
+![LGQ4](../images/LGQ4-650x406.jpg)
 
  
 

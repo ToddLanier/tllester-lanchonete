@@ -12,4 +12,5 @@ title: "EXPLODE!  —  Janta #7 / #8  — ATAQUE!"
 type: "post"
 ---
 
-![CQ_convite_EN](images/CQ_convite_EN.jpg)
+![CQ_convite_EN](../images/CQ_convite_EN.jpg)
+

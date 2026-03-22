@@ -24,13 +24,13 @@ _**Aretha Sadick**_
 
  
 
-![caduoliveira_revolta4](images/caduoliveira_revolta4-225x300.jpg)_**Cadu Oliveira**_ – MBA em Gestão de Pessoas pela Anhanguera, formado em Marketing e Vendas pela Universidade Anhembi Morumbi. Com Iniciação em CNV( comunicação não violenta, com Sandra Caselato e Yuri Haasz -julho de 2015) e Justiça Restaurativa(desde maio desse ano com Mônica Mumi). Faz extensão para a Formação para Educadores: Coordenação de Grupos de Juventudes( desde de agosto desse ano com Helena Lucchino). Envolvido em ações de voluntariado desde 1996, hoje militante no coletivo Revolta Da Lâmpada e no Grupo Cume. Também fez parte da produção da 1ª Conferência [SSEX BBOX\]/Mix Brasil. Mediou e compôs  mesas de debate sobre Diversidade Sexual e de Gênero na USP( Faculdade de Educação), Casper Líbero, Fesp e UNIP.No Festival Afreaka mediou uma mesa sobre a interseccionalidade entre negros e LGBTs com participação de Ezio Rosa do Bicha Nago e de Fauzia Mangóre do Lambda Mozi(Moçambique). Compôs as mesas de Divulgação da Crowdfunding para realização do documentário Eu\_JeanWyllys, sobre vídeo ativismo e feminismos. Ministrou oficinas nas ocupações secundaristas de Jundiaí e região usando o documentário Vozeria como mote para a discussão de gênero e sexualidade. Participou da semana da Juventude em Jundiaí com o tema #SomosTodosDiferentes, falando sobre as diferentes opressões ligadas ao gênero, etnia, sexualidades e classe. Conselheiro de Cultura LGBT da Secretaria de Cultura de Jundiaí.
+![caduoliveira_revolta4](../images/caduoliveira_revolta4-225x300.jpg)_**Cadu Oliveira**_ – MBA em Gestão de Pessoas pela Anhanguera, formado em Marketing e Vendas pela Universidade Anhembi Morumbi. Com Iniciação em CNV( comunicação não violenta, com Sandra Caselato e Yuri Haasz -julho de 2015) e Justiça Restaurativa(desde maio desse ano com Mônica Mumi). Faz extensão para a Formação para Educadores: Coordenação de Grupos de Juventudes( desde de agosto desse ano com Helena Lucchino). Envolvido em ações de voluntariado desde 1996, hoje militante no coletivo Revolta Da Lâmpada e no Grupo Cume. Também fez parte da produção da 1ª Conferência [SSEX BBOX\]/Mix Brasil. Mediou e compôs  mesas de debate sobre Diversidade Sexual e de Gênero na USP( Faculdade de Educação), Casper Líbero, Fesp e UNIP.No Festival Afreaka mediou uma mesa sobre a interseccionalidade entre negros e LGBTs com participação de Ezio Rosa do Bicha Nago e de Fauzia Mangóre do Lambda Mozi(Moçambique). Compôs as mesas de Divulgação da Crowdfunding para realização do documentário Eu\_JeanWyllys, sobre vídeo ativismo e feminismos. Ministrou oficinas nas ocupações secundaristas de Jundiaí e região usando o documentário Vozeria como mote para a discussão de gênero e sexualidade. Participou da semana da Juventude em Jundiaí com o tema #SomosTodosDiferentes, falando sobre as diferentes opressões ligadas ao gênero, etnia, sexualidades e classe. Conselheiro de Cultura LGBT da Secretaria de Cultura de Jundiaí.
 
 **_Cadu Oliveira_** – Involved with volunteer work since 1996, today he is a militant in Revolta da Lâmpada collective and Cume Collective. Cadu also had been part of [SSEX BBOX\] Conference. He was invited to be part of and mediate roundtable discussions in UNIP Jundiaí, FESP, Cásper Líbero-SP and USP. He has an MBA in HR in Anhanguera-SP and studied Marketing & Sales at the Universidade Anhembi Morumbi.
 
  
 
-![Claudio Bueno](images/13620004_10208201019957678_7878409329860581951_n-300x300.jpg)
+![Claudio Bueno](../images/13620004_10208201019957678_7878409329860581951_n-300x300.jpg)
 
 _**Claudio Bueno**_, 1983, São Paulo. É artista multimídia, professor, doutor em Artes Visuais pela ECA-USP, 2015, com a tese intitulada “Campos de Invisibilidade”. Suas práticas se desdobram a partir da experiência do corpo e seus atravessamentos pelos espaços, relações e tecnologias. Participou de exposições e residências nacionais e internacionais, como “Videobrasil em Contexto”, 2012 (Delfina Foundation/Londres e Casa Tomada/São Paulo), “Where the streets have no name”, Hessel Museum of Art/CCS Bard (Nova York); “Grau Zero”, Paço das Artes (São Paulo), entre outras. Realizou falas públicas em galerias e espaços culturais como Whitechapel Gallery (Londres), Humboldt-Universität (Berlim) e diversas universidades brasileiras. Recebeu prêmios como Menção Honrosa no Prix Ars Electronica (Linz), Rumos Arte Cibernética (São Paulo) e Transitio\_MX (Cidade do México). Atualmente integra O grupo inteiro (Carol Tonetti, Ligia Nobre, Vitor Cesar e Cláudio Bueno), com o qual participa da mostra “Playgrounds 2016”, MASP/Sesc e colabora com o artista Jorge Menna Barreto na espacialização da obra Restauro, em exibição na 32a Bienal de Artes de São Paulo; realiza o projeto Intervalo-Escola, junto com Tainá Azeredo, que pesquisa e experimenta modos de aprendizagem em artes, atualmente na Amazônia e em São Paulo; e pesquisa questões relacionadas a gênero, música e periferia através da plataforma Explode!, da qual é cocurador ao lado de João Simões.
 
@@ -38,7 +38,7 @@ Artist, researcher, professor, designer and coordinator of graphic and digital p
 
  
 
-![danimattos01](images/danimattos01-e1470295389493-225x300.jpg)
+![danimattos01](../images/danimattos01-e1470295389493-225x300.jpg)
 
 _**Daniela Mattos**_ é Artista, educadora e curadora independente. Desenvolve sua produção em artes visuais desde o início dos anos 2000 com enfoque nas práticas da performance, fotografia, videoarte e escrita de artista. Tem atuado em instituições culturais, galerias, espaços geridos por artistas e a universidade, no Brasil e em outros países como Costa Rica, Chile, Eslovênia, França, Estados Unidos, entre outros. Atualmente é Pós-Doutoranda no PPGAV-EBA/UFRJ, com pesquisa acerca das relações entre a escrita e a imagem produzidas por mulheres. Alguns de seus trabalhos e projetos encontram-se documentados em seu website: [http://www.danielamattos.art.br](http://www.danielamattos.art.br/)
 
@@ -46,7 +46,7 @@ _**Daniela Mattos**_ is an artist, educator and independent curator. She develop
 
  
 
-![Danna Lisboa](images/13549612_1653440768315311_333898371_n-300x300.jpg)
+![Danna Lisboa](../images/13549612_1653440768315311_333898371_n-300x300.jpg)
 
 _**Danna Lisboa**_ é uma artista que traz as próprias influencias da cultura e do movimento Hip Hop. Mulher Trans, professora de dança e performer, Danna expressa a sua identidade por meio da arte, direcionando o seu foco na musica e na dança. Por meio de timbres graves, rimas estilosas e beats dançantes. Em seus trabalhos, apresenta conteúdos e questões contemporâneas e socialmente engajadas sem perder o lado divertido da música para pista.
 
@@ -54,7 +54,7 @@ _**Danna Lisboa**_ é uma artista que traz as próprias influencias da cultura e
 
  
 
-![danilabustamante](images/DANILAbustamante-2-300x200.jpg)
+![danilabustamante](../images/DANILAbustamante-2-300x200.jpg)
 
 **Danila Bustamante** é videomaker, fotógrafa e produtora cultural. Criadora de pensamentos ilustres busca através da produção de imagens, formas diferentes e inusitadas para eternizar um momento. Participou com criações, colaborações, fotografias, videos, video-instalações de festivais internacionais e nacionais, como o FILE – Festival Internacional de Linguagem Eletrônica e “City One Minutes São Paulo”, The Oneminutes Foundation, Amsterdã, Holanda. Foi bolsista no “Seminário Internacional no Festival de Filme de Munique / Stipendium Für Kulturmittler / FilmFest München”, 2009 – Alemanha. Atualmente colabora com o Instituto Goethe São Paulo (SP), Mostra Live Cinema (RJ), Cineclube Socioambiental Crisantempo (SP) e MirellaBrandi x Muepetmo (SP). Criou a marca Bijoux di Buate e faz parte do projeto DIANA, sobre estudos em Waacking e a vida afora.
 
@@ -64,7 +64,7 @@ _**Danna Lisboa**_ é uma artista que traz as próprias influencias da cultura e
 
  
 
-![Ezio Rosa](images/tumblr_inline_o9numq0ixs1t050sn_1280-650x433.jpg)
+![Ezio Rosa](../images/tumblr_inline_o9numq0ixs1t050sn_1280-650x433.jpg)
 
 _**Ézio Rosa**_ é educador, integra o bloco afro Ilu Obá de Min e escreve o [blog Bicha Nagô](http://bichanago.tumblr.com/), no qual relata experiências de pessoas gays e negras nas periferias, frente à elitização da cultura LGBTQ. Leia seu texto "[Ser gay no RAP](http://bichanago.tumblr.com/post/98921378961/ser-bicha-no-rap)".
 
@@ -79,7 +79,7 @@ _**Félix Pimenta**_, 26 anos, dançarino performer, pesquisador, professor e co
 
  
 
-![João Simões](images/Screen-Shot-2016-08-03-at-12.22.11-AM-300x300.png)
+![João Simões](../images/Screen-Shot-2016-08-03-at-12.22.11-AM-300x300.png)
 
 _**João Simões**_, Rio de Janeiro, 1979. É curador, produtor, designer e educador. Possui graduação em comunicação social pela ESPM-SP e pós-graduação em gestão de mídias digitais pelo Senac-SP. Com o Projeto Arrastão, atua na elaboração e execução de oficinas de empreendedorismo, inovação social e tecnologia para jovens de baixa renda. É co-curador do projeto Explode! de música, audiovisual, periferia, gênero e artes. Desenvolveu trabalhos gráficos e sonoros para artistas e instituições culturais, como Paço das Artes, Videobrasil, CCSP e LabMovel. Além disso, realiza pesquisa em comunicação, política, gênero e redes digitais. Tem sua atenção voltada a música, moda, artes visuais, dança, performance, tecnologia e culinária vegana.
 
@@ -87,13 +87,13 @@ _**João Simões**_, Rio de Janeiro, 1979. É curador, produtor, designer e educ
 
  
 
-![Jo Gada](images/jogada-267x300.png)_**Jo Gada,**_ 25 anos, arte educadora e performer, trabalha com produções de arte, cultura e educação, e com performances em espaços públicos no Rio de Janeiro junto com o Grupo Mensageiros do Vento, através de poesia, musica, corpo, cultura popular, trazendo questões de gênero, o medo presente no cotidiano da cidade e ancestralidades.
+![Jo Gada](../images/jogada-267x300.png)_**Jo Gada,**_ 25 anos, arte educadora e performer, trabalha com produções de arte, cultura e educação, e com performances em espaços públicos no Rio de Janeiro junto com o Grupo Mensageiros do Vento, através de poesia, musica, corpo, cultura popular, trazendo questões de gênero, o medo presente no cotidiano da cidade e ancestralidades.
 
 **_Jo Gada,_** 25 years-old, art educator and performer, works with art, culture and education productions and perfomance in public spaces at Rio de Janeiro with the collective Grupo Mensageiros do Vento, using poetry, music, body and popular culture to question gender issues, fear in the daily urban life and ancestries.
 
  
 
-![Jota Mombaça](images/MG_1485-1-271x300.jpg)![2016-06-14 10.03.00](images/2016-06-14-10.03.00-225x300.jpg)
+![Jota Mombaça](../images/MG_1485-1-271x300.jpg)![2016-06-14 10.03.00](../images/2016-06-14-10.03.00-225x300.jpg)
 
 _**Jota Mombaça**_, 1991. Ensaísta e Performer. É uma bicha não binária, racializada como parda, nascida e criada no Nordeste do Brasil, que escreve, performa e faz estudos acadêmicos em torno das relações entre monstruosidade e humanidade, estudos kuir, giros descoloniais, interseccionalidade política e tensões entre ética, estética, arte e política nas produções de conhecimentos do sul-do-sul globalizado.
 
@@ -101,7 +101,7 @@ _**Jota Mombaça**_, 1991. Writer and performance artist. Is a non-binary bicha,
 
  
 
-![Lee Ann Norman-9](images/Lee-Ann-Norman-9.jpg)
+![Lee Ann Norman-9](../images/Lee-Ann-Norman-9.jpg)
 
 **_Lee Ann Norman_** é escritora e produtora cultural e ama contar boas histórias sobre artes no seu dia-a-dia. É co-gerente editorial da plataforma ArtsEverywhere. Suas pesquisas acadêmicas e criativas apontam para o interesse no desenho de espaços que permitem às pessoas aprender sobre os outros e sobre si mesmas através da arte. Essencialmente, seu interesse é sobre como os outros entendem o mundo e como essas leituras podem influenciá-lo. Especificamente, ela quer entender mais sobre o papel das conversas e investigações nas atividades artísticas. Seus textos foram publicados em diversas publicações como BOMB, Studio - the Studio Museum of Harlem's magazine e Penn GSE Journal of Urban Education. Lee Ann estudou crítica de arte e escrita na Escola de Artes Visuais, em Nova York. Atualmente, ela trabalha entre Chicago e Nova York.
 
@@ -109,13 +109,13 @@ _**Jota Mombaça**_, 1991. Writer and performance artist. Is a non-binary bicha,
 
  
 
-![received_10157198645275607](images/received_10157198645275607-300x200.jpeg)
+![received_10157198645275607](../images/received_10157198645275607-300x200.jpeg)
 
 _**Mavi Veloso,**_ 1985, nascida em Pacaembu, São Paulo, Brasil vive atualmente em Bruxelas, de onde estabelece pontes entre o Brasil e Europa trabalhando transdisciplinarmente em diferentes práticas artísticas. Estudou dança, teatro, música e circo através de processos de formação formais e informais.Graduação em artes na Universidade Estadual de Londrina, Paraná, Brasil (2009). Estudos continuados em performatividade com a plataforma COMO clube, São Paulo (2011-2014). Pós Mestrado em performance no A.PASS (Advanced Performance And Scenography Studies) (2014/2016), Bruxelas / Bélgica. Entre alguns trabalhos recentes são: O curta-metragem Eu Vou Me Piratear, dirigido por Daniel Favaretto e Dudu Quintanilha, que vem sendo exibido em alguns festivais de cinema internacional e internacional como o Mix Brasil, em São Paulo, Brasil e Visions du Réel, em Nyon, Suíça; Também, o filme Cor-de-rosa, dirigida por Octávio Tavares e Francisca Oyaneder, uma produção Brasil Argentina ainda em processo; Os projetos de performance Indementária Popular\_cut & paste, Private Room (com Dudu Quintanilha, Eidlgas Xavier e Glamour Garcia), o projeto PRETA (com Alex Cassimiro, Andrez magra Ghizze, Caio, Eidglas e Teresa Moura Neves). Atualmente desenvolve "iwannamakerevolution", projeto multimedia transdisciplinar sobre deslocamentos, transitos e corpos mutantes, iniciado no pós mestre A.PASS.
 
 Born in 1985 in Pacaembu in the state of São Paulo, Brazil currently lives in Brussels, Belgium from where she establishes bridges between Brazil and Europe working transdisciplinarily in different artistic practices. Studied dance, theatre, music and circus through varied formal and informal training processes. Has graduated in arts at the State University of Londrina, Paraná, Brazil (2009), continued studies in performativity with the COMO clube artist platform, São Paulo (2011-2014), did a post master in performance at A.PASS (Advanced Performance And Scenography Studies) (20142016), Brussels/Belgium. Among some recent works are: The short film The Get Up, directed by Daniel Favaretto and Dudu Quintanilha, touring to some film festivals such as Mix Brasil in São Paulo, Brazil and Vision du Réel in Nyon, Switzerland; Also the feature film The Pink Color, directed by Octávio Tavares and Francisca Oyaneder, a Brazil Argentina production still in process; The performance projects Indumentária Popular\_cut & paste, Private Room started with Dudu Quintanilha, Eidlgas Xavier and Glamour Garcia, the project PRETA with Alex Cassimiro, Andrez Lean Ghizze, Caio, Eidglas and Teresa Moura Neves presented in diverse places such as Verbo Performance Art Festival São Paulo and Centro Cultural São Paulo. Is currently developing I Wanna Make Revolution, a multimedia project on displacements, mutant and in-transit bodies, started at the post master at A.PASS.
 
-![michael_315799_290390740988360_1578890530_n](images/michael_315799_290390740988360_1578890530_n-300x285.jpg)
+![michael_315799_290390740988360_1578890530_n](../images/michael_315799_290390740988360_1578890530_n-300x285.jpg)
 
 _**Michael Roberson**_ é um profissional de saúde pública, defensor, ativista e liderança dentro da comunidade LGBTQ,  assim como professor-adjunto da The New School University/Lang College, em Nova York. Comprometido com as discrepâncias de saúde de homens negros e homens negros dentro das House/ball communities, Michael criou a The Federation of Ballroom Houses (Federação de Ballroom Houses), co-criou único grupo estadunidense de pesquisa sobre gays negros, além do The National Black Gay Men's Advocacy Group (Grupo de Defesa Nacional de Homens Gays Negros), e o Nationally Diffused CDC Behavioral Change HIV Prevention Intervention “ Many Men, Many Voices". Foi também diretor executivo de uma das maiores organizações de base da conunidade gay negra e atualmente faz consultoria para diversas outras organizações comunitárias focadas em pesquisa clínica/biomédica sobre HIV. Desenvolve estratégias de mobilização e combate as disparidades desproporcionais nas políticas de saúde que impactam as populações gays negras e lgbt negras/latinas dentro das ball communities. Michael possui Mestrado em Divindade pelo Union Theological Seminary e recentemente concluiu seu Mestrado em Teologia Sagrada pela mesma instituição. Somando a todas essas papéis como ativista e liderança LGBTQ, Michael é um procurado palestrante nacional e internacional; gerencia o Vogue Evolution, um grupo de dança estadunidense que busca engajamento sobre justiça social e prevenção ao HIV através do Vogue. É pai de muitos homens e mulheres dentro da House/ball community, assim como co-instrutor do curso de história da House/ball community na New School University em Nova York. Sua atual pesquisa de doutorado relaciona de forma interdisciplinar ética teológica social/sexual e história afro-americana. Ele é membro do coletivo de arte sonora internacional Ultra Red e foi Scholar in Residence no Center for Race Religion and Economic Democracy (CRRED) da Union Theological Seminary no ano acadêmico de 2014-2015. Continua a ocupar essa posição fora da insitituição sob a direção de Charlene Sinclair, doutoranda, líder comunitária, pesquisadora, criadora a fundadora do CRRED.
 
@@ -125,7 +125,7 @@ _**Michael Roberson**_ is a public health practitioner, advocate, activist and l
 {{< wp-caption src="images/Vogueology-Encuentro-2-300x225.jpg" alt="Vogueology Encuentro 2" caption="Michael Roberson, Arbert Santana Evisu, Vivika Sage Riviera, Robert Sember: Vogue'ology listening session" align="none" width="301" >}}
  
 
-![13872748_10206670746155917_4028763334996170160_n(3)](images/13872748_10206670746155917_4028763334996170160_n3-300x300.jpg)
+![13872748_10206670746155917_4028763334996170160_n(3)](../images/13872748_10206670746155917_4028763334996170160_n3-300x300.jpg)
 
 **_Nube Abe_****_._** Bicha, sapatão, mina, boy, ora tudo ora nada. Vive na Zona Leste, e desenvolve trabalhos e práticas que mesclam fotografia, audiovisual, música, performance, montação, kuir, transfeminismo, pós-pornografia, xamanismo, deriva, butô, cotidiano, cidade, natureza, dissidências, corpo, dança, relações, afetos. 
 
@@ -133,7 +133,7 @@ _**Michael Roberson**_ is a public health practitioner, advocate, activist and l
 
  
 
-![13061919_1185625951477908_9198208265532168297_n](images/13061919_1185625951477908_9198208265532168297_n-300x300.jpg)
+![13061919_1185625951477908_9198208265532168297_n](../images/13061919_1185625951477908_9198208265532168297_n-300x300.jpg)
 
 **_Paulo Scharlach_**, 1987, Cotia, é artista multimídia, educador e produtor. Bacharel em Artes Visuais pelo Instituto de Artes – UNESP/SP com o trabalho de conclusão de curso sobre as narrativas fragmentadas, a formação de redes de ideias e a experiência nos múltiplos processos de tradução. Participou de mostras coletivas e produziu eventos culturais autônomos conjuntamente a outros coletivos no Brasil e no exterior, sendo: KUIR BOGOTÁ , vídeo VÍTIMA(CO-2015); na casa de Cultura de Teresina, Atalho para bem ali (PI- 2014); Museu Murillo La Greca, Atalho para bem ali (PE-2014); Instalação Visual “Almanaque da Juventude de Ouro”(SP-2014) no Epicentro Cultural; Residencia artística e mostra em El Parche Artist Residency (CO-2013/2014); Intervenções urbanas pertencentes ao mesmo projeto “Almanaque da Juventude de Ouro” em Bogotá (CO-2014), La Paz (BO-2013), Tilcara(AR-2013), Cooperativa de Vivienda de San Telmo, Buenos Aires (AR-2013), Obra em video, Mostra SHORTS CURTS Teatro do Morro do Querosene (SP-2012). Durante 3 anos manteve uma plataforma independente ao lado de um de seus companheiros de trabalho Adler Murada, EDITORA ESPERTEZA. Participando das seguintes feiras, Tijuana #7(2012), Tijuana#9 (2014), Feira Plana (2014), Feira de publicações do SESC Pompéia (2014), dentre outras.
 
@@ -141,7 +141,7 @@ _**Michael Roberson**_ is a public health practitioner, advocate, activist and l
 
  
 
-![4af4d696f965e57809b174b3b0b3b5a4](images/4af4d696f965e57809b174b3b0b3b5a4-300x300.jpeg)
+![4af4d696f965e57809b174b3b0b3b5a4](../images/4af4d696f965e57809b174b3b0b3b5a4-300x300.jpeg)
 
 _**The Legendary Pony Zion Garcon**_ – Nascido e criado nas agitadas ruas do Harlem, Devon "Pony Zion" Webster tem dedicado sua vida à dança desde seus 10 anos. Coreografou diversos artistas como a cantora de R&B Ashanti, a cantora Lil Mo, o músico Shaggy, o artista de hip hop Big Pun (1971-2000), a estrela do RAP Remy Martin, a artista pop premiada pelo Grammy Fergie, o rapper Big Sean, e também uma das cantoras mais bem-sucedidas de todos os tempos, Mariah Carey… Sim, seu sucesso não para aqui. Pony também dominou a arte do Vogue, um estilo de dança que tira proveito e mostra os contornos do corpo através da exacerbação da flexibilidade e da elegância. Hoje, já como uma lenda do Vogue, é um dos fundadores do Vogue Evolution – grupo que participou da quarta temporada do programa da MTV America's Best Dance Crew –, primeiro grupo de dança negro/ latino abertamente gay e transgênero. Pony está atualmente viajando por todo o mundo performando, dirigindo artistas, fazendo direção artística de "bailes de celebridades" e ensinando Vogue para aqueles que tem interesse pela Ballroom culture.
 
@@ -149,7 +149,7 @@ _**O Lendário Pony Zion Garcon**_ – Born and raised in the busy streets of Ha
 
  
 
-![timthumb](images/timthumb.jpg)
+![timthumb](../images/timthumb.jpg)
 
 **_Raphael Daibert,_** 1988, nasceu em Minas Gerais, cresceu no Rio e vive em São Paulo. Graduou-se em Relações Internacionais na PUC-SP e se especializou Habitação e Cidades, na Escola da Cidade. Raphael é pesquisador, produtor cultural e ativista pelos direitos humanos e pelo direito à cidade. Já trabalhou com diferentes formas de engajamento comunitário, principalmente relacionado a questões LGBT, de moradia e migrações, especificamente em São Paulo, onde no começo de 2015 realizou uma pesquisa com refugiados e migrantes que estavam integrando o movimento de moradia do centro.  É um dos membros fundadores de Lanchonete.org, pelo qual é coordenador de programação do projeto Zona da Mata, um laboratório de experimentação no quintal do Goethe-Institut São Paulo que envolve arte e permacultura, além de integrante do programa de investigação curatorial coletiva Cidade Queer. Em 2015-2016 integra o experimento pedagógico-artístico Free Home University na cidade de Lecce, Itália.
 
@@ -157,7 +157,7 @@ _**O Lendário Pony Zion Garcon**_ – Born and raised in the busy streets of Ha
 
  
 
-![Robert Sember_620_620](images/Robert-Sember_620_620-300x263.jpg)
+![Robert Sember_620_620](../images/Robert-Sember_620_620-300x263.jpg)
 
 _**Robert Sember**_ trabalha na intersecção entre arte e saúde pública. Ele é membro do coletivo internacional de arte sonora Ultra Red que ajudou a fundar o Arbert Santana Ballroom Archive and Oral History Project – uma iniciativa feita por e para os membros da comunidade LGBT afro-americana e latina de Nova York. Sua pesquisa etnográfica nos EUA e na África do Sul está focada nos órgãos estatais e não governamentais com atuações relacionadas ao abuso de substâncias psicoativas, saúde mental e pessoas em situação de rua com ênfase em prevenção, teste e tratamento de HIV/AIDS. Ele é associado senior do Center for Social Innovation onde ele lidera iniciativas relativas ao impacto da Lei de Proteção e Cuidado ao Paciente dos EUA sobre a recuperação de dependentes químicos e de saúde mental. Robert é professor-assistente de Artes Intesdisciplinares na New School’s Eugene Lang College e na faculdade do Summer Institute on Sexuality, Culture, and Society da University of Amsterdam’s Graduate School of Social Sciences.
 
@@ -165,7 +165,7 @@ _**Robert Sember**_ works at the intersection of art and public health. He is a 
 
  
 
-![Shawn](images/static1.squarespace-293x300.jpg)
+![Shawn](../images/static1.squarespace-293x300.jpg)
 
 _**Shawn Van Sluys**_ é diretor executivo do Musagetes, fundação filantrópica que experimenta em pequenas cidades canadenses e europeias formas de conectar essas comunidades, de forma mais intensa, com as artes e a criatividade. A missão da fundação é tornar mais significativo o papel das artes na vida das pessoas, em suas comunidades e na sociedade. Ele se uniu ao Musagetes como seu primeiro diretor executivo em janeiro de 2009. Antes disso, ele foi o primeiro diretor executivo da Organização de Diretores de Museus de Arte Canadenses, uma organização de serviços de arte que representa 85 entidades. Shawn estudou história da arte na Universidade de Lethbridge. Ele também é vice-presidente do Guelph Jazz Festival e da Casa de Cultura Ammirato em Lecce, Itália. Como membro do time executivo do Instituto Internacional de Estudos Críticos em Improvisação (IICSI, na sigla em inglês) da Universidade de Guelph, lidera o grupo de trabalho que tem sua prática baseada em pesquisa.
 
@@ -173,7 +173,7 @@ _**Shawn Van Sluys**_ é diretor executivo do Musagetes, fundação filantrópic
 
  
 
-![Thiago Carrapatoso](images/Thiago-Carrapatoso2-e1447502704987-300x300.jpg)
+![Thiago Carrapatoso](../images/Thiago-Carrapatoso2-e1447502704987-300x300.jpg)
 
 **_Thiago Carrapatoso_** é jornalista, especialista em Comunicação, Arte e Tecnologia e mestre pelo Center for Curatorial Studies (CCS) da Bard College (NY). Ele é um dos idealizadores do Movimento BaixoCentro em São Paulo, que reivindica o uso da ruas pela sociedade civil. Faz parte da REPEP (Rede Paulista de Educação Patrimonial) que busca criar uma metodologia para usar a educação patrimonial contra a gentrificação.
 
@@ -181,7 +181,7 @@ _**Thiago Carrapatoso**_ is a journalist, specialist in Communication, Arts, and
 
  
 
-![Tiago Guiness](images/eu-300x300.jpg)
+![Tiago Guiness](../images/eu-300x300.jpg)
 
 _**Tiago Guiness**_ atua como dj desde 2004. Tendo começado em Fortaleza, atualmente promove a Tenda, festa que acontece mensalmente no centro da cidade de São Paulo. Participa do grupo Diana onde organiza workshops de dança voltados à prática do estilo waacking. É também formado em arquitetura e faz parte do Estúdio Risco, no qual desenvolve trabalhos de expografia, cenografia, design de objeto, entre outros.
 
@@ -189,13 +189,13 @@ _**Tiago Guiness**_ atua como dj desde 2004. Tendo começado em Fortaleza, atual
 
  
 
-![11155096_705544099574211_7759057894788922770_o](images/11155096_705544099574211_7759057894788922770_o-221x300.jpg)_**Todd Lester**_ Trabalhou com liderança, _advocacy_ e planejamento estratégico nas organizações Global Arts Corps, Reporters sans frontiers e Astraea Lesbian Justice Foundation.  Fundou freeDimensional, uma rede que apoia artistas em perigo provendo espaços seguros pela participação em residências artísticas pelo mundo. Todd é Colaborador Senior do World Policy Institute onde dirige o Arts-Policy Nexus; é co-curador para Arts & Society Team of Cities for People no Canada; e participa como membro de diversos conselhos em organizações de artes e direitos humanos na Índia, México, Brasil e Estados Unidos.  artist.roundtable (A.RT) é uma metodologia colaborativa que ele vem fazendo em conjunto com um grupo de artistas e não artistas.
+![11155096_705544099574211_7759057894788922770_o](../images/11155096_705544099574211_7759057894788922770_o-221x300.jpg)_**Todd Lester**_ Trabalhou com liderança, _advocacy_ e planejamento estratégico nas organizações Global Arts Corps, Reporters sans frontiers e Astraea Lesbian Justice Foundation.  Fundou freeDimensional, uma rede que apoia artistas em perigo provendo espaços seguros pela participação em residências artísticas pelo mundo. Todd é Colaborador Senior do World Policy Institute onde dirige o Arts-Policy Nexus; é co-curador para Arts & Society Team of Cities for People no Canada; e participa como membro de diversos conselhos em organizações de artes e direitos humanos na Índia, México, Brasil e Estados Unidos.  artist.roundtable (A.RT) é uma metodologia colaborativa que ele vem fazendo em conjunto com um grupo de artistas e não artistas.
 
 _**Todd Lester**_ He has worked in leadership, advocacy, and strategic planning roles at Global Arts Corps, Reporters sans frontiers, and Astraea Lesbian Justice Foundation.  He founded freeDimensional, a network that helps artists in danger by providing safe haven in participating artist residencies.  Todd is a Senior Fellow at the World Policy Institute where he directs the Arts-Policy Nexus; a co-curator for the Arts & Society Team of Cities for People in Canada; and serves as a board member for arts, rights and literary organizations in India, Mexico, Brazil, and the US.  artist.roundtable (A.RT) is a collaborative methodology that he is co-making with a broad group of artists and non-artists.
 
  
 
-![yet](images/yet.jpg)
+![yet](../images/yet.jpg)
 
 _**Yeti Agnew**_ é fundadora e diretora da Fundação Musagetes. Estudou Direito na Universidade de Toronto, Química Aplicada na Universidade de Waterloo e tem grande interesse nas artes. Sua prática jurídica é especialmente focada em ajudar pessoas, em especial artistas e colecionadores, com planejamento estatal. É casada com um artista e aproveitam bem a família com seus netos. Já teve um alto cargo político na Universidade de Waterloo e foi curadora do Royal Ontario Museum. Foi a diretora de A Space, um espaço alternativo de destaque no Canadá e diretora do Canadian Gay and Lesbian Archives no qual estão as melhores coleções de materiais de comunidades LGBT do Canadá. É a co-autora de _The Art World: Law Business and Practice in Canada_ e escreveu _Legaleasy: a step-by-step legal guide to collecting for Canadian art galleries and museums_ além de um grande número de artigos. Está muito grata por ter sido chamada a vir a São Paulo em nome de Musagetes para aprender com os outros participantes.
 
