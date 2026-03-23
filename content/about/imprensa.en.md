@@ -17,7 +17,7 @@ Here is a mixture of press coverage on Lanchonete.org as well as texts by its pa
 
 [“São Paulo, um mosaico visto a partir da Rua Paim” – Arq.Urb #23](https://revistaarqurb.com.br/arqurb/article/view/43)
 
-[São Paulo, um mosaico visto a partir da Rua Paim (PT)](/lanchonete/pdfs/43-Texto-do-artigo-73-1-10-20191206-1.pdf)
+[São Paulo, um mosaico visto a partir da Rua Paim (PT)](/lanchonete/pdfs/43-Texto-do-artigo-73-1-10-20191206-pt.pdf)
 
 [São Paulo, a mosaic as viewed from Paim Street (ING)](/lanchonete/pdfs/43-Texto-do-artigo-74-1-10-20191206-2.pdf)
 
