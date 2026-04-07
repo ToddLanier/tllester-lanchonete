@@ -59,7 +59,7 @@ Colaborações importantes dentro do projeto estão na parceria com o cozinheiro
 
 _Pipa e Abdoulaye cozinhando e montando os " baguncinhas", 2017_
 
-\*Nota editorial: A residência de Adler foi encerrada com um [evento de Festa Julina no Conjunto Santos Dumont](https://www.paim.lanchonete.org/2017/07/30/festa-julina-na-paim/). Na ocasião, exemplares do cordel [“Receitas da Paim”](/lanchonete/pdfs/Receitas-da-Paim_Adler-Murada.pdf) estiveram disponíveis para distribuição, o trabalho desenvolvido pelo artista junto aos moradores do local que envolveu o resgate de pratos típicos e histórias da migração nordestina.
+\*Nota editorial: A residência de Adler foi encerrada com um [evento de Festa Julina no Conjunto Santos Dumont](/posts/30/-julina-na-paim/). Na ocasião, exemplares do cordel [“Receitas da Paim”](/lanchonete/pdfs/Receitas-da-Paim_Adler-Murada.pdf) estiveram disponíveis para distribuição, o trabalho desenvolvido pelo artista junto aos moradores do local que envolveu o resgate de pratos típicos e histórias da migração nordestina.
 
 _Adler Murada é artista e pesquisador de Teresina, Piauí, vive e trabalha em São Paulo há mais de 5 anos e seus projetos partem de questões relativas à cultura contemporânea, articulando reflexões políticas encontradas nas narrativas históricas “invisibilizadas” e hegemônicas. Sua pesquisa se volta para histórias não concluídas e, a partir daí, elabora novas construções e relatos com trabalhos que circulam no híbrido entre produção de objetos, performances, publicações e curadoria, bem como de ações culturais e sociais. O processo do artista está ligado à criação de lugares e situações para entender e problematizar a função do artista, questionando noções do conhecimento e os instrumentos que o legitimam._
 

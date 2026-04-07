@@ -11,7 +11,7 @@ Dar a um programa de atividades o nome de Cidade Queer se anuncia como uma ocas
 
 _Queerness_ é um termo amplo e que certamente pode ser vinculado a uma série de políticas e realidades LGBT+, e também a diferentes histórias, futuros e lugares. Dentro dos nossos objetivos, a Cidade Queer inicia a discussão de como vivemos e trabalhamos, compartilhamos e sobrevivemos na cidade contemporânea, tendo São Paulo como panorama. Assim, estamos igualmente interessados em reconhecer as bases comuns e entender contranarrativas. No texto “[Queer Ecology: Nature, Sexuality and Heterotopic Alliances](http://epd.sagepub.com/content/30/4/727.abstract)” ["Ecologia queer: natureza, sexualidade e alianças heterotópicas"\], Matthew Gandy compartilha a visão de Aaron Betsky, historiador da arquitetura, que afirma que o “espaço _queer_ é um ‘espaço de diferença’, uma arena para dúvidas, autocrítica e para a ‘possibilidade de liberação’”.
 
-Esse ponto de partida faz sentido para um programa que surgiu da parceria entre a [Lanchonete.org](http://lanchonete.org/?lang=en) e a [Musagetes](http://musagetes.ca/), através de sua plataforma online [ArtsEverywhere](http://artseverywhere.ca/).
+Esse ponto de partida faz sentido para um programa que surgiu da parceria entre a [Lanchonete.org](/) e a [Musagetes](http://musagetes.ca/), através de sua plataforma online [ArtsEverywhere](http://artseverywhere.ca/).
 
 A Lanchonete.org é uma plataforma cultural tocada por artistas que toma emprestado o nome dos onipresentes balcões das lanchonetes — pontos de comércio amigáveis, sem barreiras, laboriosos e com suas luzes brancas — que ocupam todas as esquinas da cidade. São quase trinta pessoas participando do projeto, entre artistas, arquitetos, urbanistas, professores, estudantes, ativistas, integrantes dos movimentos de moradia, jardineiros, jornalistas e outros, e esse número não para de crescer.
 
@@ -39,7 +39,7 @@ Naming a program Queer City is an occasion to both admit that we don’t define 
 
 Queerness is a broad term, one that can certainly be linked to a range of LGBT+ politics and realities, as well as histories, futures and places. For our purposes, Queer City opens a discussion on how we live and work in, share and survive the contemporary city, with São Paulo as our outlook. We are therefore equally interested in acknowledging common ground and understanding counter narratives. In “[Queer Ecology: Nature, Sexuality and Heterotopic Alliances](http://epd.sagepub.com/content/30/4/727.abstract),” Matthew Gandy shares the view of architectural historian Aaron Betsky that the “queer space is ‘a space of difference’, an arena of doubt, self-criticism, and “the possibility of liberation.”
 
-This makes sense for a program that came out of a partnership between [Lanchonete.org](http://lanchonete.org/?lang=en) and [Musagetes](http://musagetes.ca/), via its ArtsEverywhere online platform.
+This makes sense for a program that came out of a partnership between [Lanchonete.org](/) and [Musagetes](http://musagetes.ca/), via its ArtsEverywhere online platform.
 
 Lanchonete.org is an artist-led cultural platform that gets its name from the ubiquitous lunch counters — convivial, fluorescent-lit, open-walled, laborious, points of commerce — that populate almost every street corner. There are approximately 30 people who participate in Lanchonete.org — artists, architects, urban planners, professors, students, activists, members of the housing movement, gardeners, journalists, etc. — and it is still growing.
 

@@ -11,7 +11,7 @@ title: "Mala embaixo da cama / Suitcase Under the Bed"
 type: "post"
 ---
 
-Como parte de uma série de eventos públicos com a presença de convidadxs internacionais e locais do [Cidade queer](http://cidadequeer.lanchonete.org/) ([Lanchonete.org](http://lanchonete.org/) + [Musagetes](http://musagetes.ca/)), dia **9 de setembro**, **às 18h** em parceria com .Aurora temos o prazer de convidá-lxs ao workshop **“Mala embaixo da cama”**, proposto pelos artistas Ajamu Ikwe-Tyehimba, Patrick Hebert e Eduardo Carrera.
+Como parte de uma série de eventos públicos com a presença de convidadxs internacionais e locais do [Cidade queer](/cidadequeer/) ([Lanchonete.org](/) + [Musagetes](http://musagetes.ca/)), dia **9 de setembro**, **às 18h** em parceria com .Aurora temos o prazer de convidá-lxs ao workshop **“Mala embaixo da cama”**, proposto pelos artistas Ajamu Ikwe-Tyehimba, Patrick Hebert e Eduardo Carrera.
 
  
 
@@ -23,9 +23,9 @@ Essa brincadeira única de caráter íntimo e informal irá incentivar participa
 
 O que pedimos é que você revire suas caixas e álbuns pessoais e venha compartilhar com outras pessoas a história que você viveu, de maneira estimulante, empolgante e atípica.
 
-Para informações sobre todas nossas atividades, acesse: [cidadequeer.lanchonete.org](http://cidadequeer.lanchonete.org/)
+Para informações sobre todas nossas atividades, acesse: [cidadequeer.lanchonete.org](/cidadequeer/)
 
-Evento no facebook: [www.facebook.com/events/1236011423110336/](https://www.facebook.com/events/1236011423110336/ "facebook")    --     **Suitcase Under the Bed** As part of a serie of public events by [Cidade Queer](http://cidadeDESVIANTE.lanchonete.org/) ([Lanchonete.org](http://lanchonete.org/) + [Musagetes](http://musagetes.ca/)), with local and international guests, for September 9th at 18h, in partnership with .Aurora, we would like to invite you to take part of the workshop “Suitcase Under the Bed” by the artists Ajamu Ikwe-Tyehimba, Patrick Hebert and Eduardo Carrera:
+Evento no facebook: [www.facebook.com/events/1236011423110336/](https://www.facebook.com/events/1236011423110336/ "facebook")    --     **Suitcase Under the Bed** As part of a serie of public events by [Cidade Queer](/cidadequeer/) ([Lanchonete.org](/) + [Musagetes](http://musagetes.ca/)), with local and international guests, for September 9th at 18h, in partnership with .Aurora, we would like to invite you to take part of the workshop “Suitcase Under the Bed” by the artists Ajamu Ikwe-Tyehimba, Patrick Hebert and Eduardo Carrera:
 
 ![mala_EN](../images/mala_EN.jpg)
 
@@ -35,6 +35,6 @@ This one-off intimate and informal play-shop will encourage participants to shar
 
 We are asking you to rummage through your boxes, private albums and come and share with each other your own lived history in stimulating, exciting and unusual ways.
 
-For more information about all our activities: [cidadequeer.lanchonete.org](http://cidadequeer.lanchonete.org/)
+For more information about all our activities: [cidadequeer.lanchonete.org](/cidadequeer/)
 
 Facebook event: [www.facebook.com/events/1236011423110336/](https://www.facebook.com/events/1236011423110336/ "facebook")

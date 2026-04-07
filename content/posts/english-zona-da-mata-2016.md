@@ -7,4 +7,4 @@ title: "Zona da Mata"
 type: "post"
 ---
 
-[Zona da Mata](https://www.zdm2016.lanchonete.org/)
+[Zona da Mata](/zonadamata/)

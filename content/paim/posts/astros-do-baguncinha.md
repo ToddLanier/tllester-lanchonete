@@ -30,6 +30,6 @@ type: "post"
 
 fotos ©Leandro Moraes
 
-Encontro no prédio 14 Bis de lançamento do [zine Cuiabá](http://cuiaba.lanchonete.org/), de George Ferraz e PogoLand. A tarde contou com projeções de vídeomapping do [Coletivo Coletores](http://www.dasding.org/coletores/) (São Mateus, São Paulo), e desenhos e intervenções "live" de Quinho (São Mateus, São Paulo) e de Sidd Joag (residente Lanchonete.org). Comida de Papel (São Paulo, SP) revisitou a receita do famoso sanduíche cuiabano "Baguncinha", trazendo novas misturas e ingredientes e formulando também uma versão vegana, preparados deliciosamente no Bar do Tarcísio com a ajuda de Abdoulaye Guibila (Bobo-Dioulasso, Burkina Faso).
+Encontro no prédio 14 Bis de lançamento do [zine Cuiabá](/), de George Ferraz e PogoLand. A tarde contou com projeções de vídeomapping do [Coletivo Coletores](http://www.dasding.org/coletores/) (São Mateus, São Paulo), e desenhos e intervenções "live" de Quinho (São Mateus, São Paulo) e de Sidd Joag (residente Lanchonete.org). Comida de Papel (São Paulo, SP) revisitou a receita do famoso sanduíche cuiabano "Baguncinha", trazendo novas misturas e ingredientes e formulando também uma versão vegana, preparados deliciosamente no Bar do Tarcísio com a ajuda de Abdoulaye Guibila (Bobo-Dioulasso, Burkina Faso).
 
-mais sobre o zine aqui: [cuiaba.lanchonete.org](http://cuiaba.lanchonete.org/ZineCUIABA_WEB.pdf)
+mais sobre o zine aqui: [cuiaba.lanchonete.org](/ZineCUIABA_WEB.pdf)

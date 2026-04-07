@@ -14,7 +14,7 @@ type: "arquivo"
 
 | [![lanchonete](/arquivo/images/lanchonete.jpg)](http://www.residencyunlimited.org/dialogue/lanchonete/) |
 | --- |
-| _Todd Lester writes a monthly blog post on RU’s Dialogues detailing the preparation and implementation of [Lanchonete.org](http://www.lanchonete.org), a 5-year residency project in Sao Paulo._  [View all Lanchonete posts here.](http://www.residencyunlimited.org/dialogue/lanchonete/)   |
+| _Todd Lester writes a monthly blog post on RU’s Dialogues detailing the preparation and implementation of [Lanchonete.org](/), a 5-year residency project in Sao Paulo._  [View all Lanchonete posts here.](http://www.residencyunlimited.org/dialogue/lanchonete/)   |
 
 In the third part of the series on ‘Embedded Residency’ (see part [one](http://residencyunlimited.org/dialogues/2015-6-lanchonete-org-on-embedded-residency-i/) and [two](http://residencyunlimited.org/dialogues/2015-7-lanchonete-org-on-embedded-residency-ii/)), I will discuss the role of a cultural center inside a housing occupation. To do this, I draw from experiences of Lanchonete.org working with the São João Occupation since 2011, sharing what we’ve learned in the process of hosting artist residents therein and, importantly, the function of the cultural center to a broader housing movement.
 

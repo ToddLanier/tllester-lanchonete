@@ -18,7 +18,7 @@ Estarão conosco, conduzindo nossa experiência de escuta, os integrantes do gru
 
 Entre os sons noturnos do bairro – do ladrão de galinhas no telhado ou do tiro seco do trêsoitão –, dançaremos ao som de funk, rap, samba, voguing, waacking, entre outros estilos sonoros de contestação, de resistência e de luta, que potencializam corpos negros, queers, transgêneros, gays, pobres, feministas, etc. Visitaremos espaços da cidade, nos abriremos para o bairro, e estaremos sempre atentos ao som da campainha, por alguém que possa querer estar conosco nessa longa conversa e escuta.
 
-Acreditamos nessa imersão e nesse modo de aprendizagem baseado na escuta, como intensificadores do debate e da explosão de questões urgentes a nós – por meio de longas conversas capazes de potencializar novos encontros, projetos, corpos, afetos, sensibilidades, políticas e ativações para fora dessa situação e localização temporária. Este evento é parte da plataforma Explode!, que pesquisa e experimenta noções de gênero, sonoridades, visualidades e cultura de periferia – em colaboração com Queer City, um projeto de [Lanchonete.org](http://lanchonete.org/) e [Musagetes](http://musagetes.ca).
+Acreditamos nessa imersão e nesse modo de aprendizagem baseado na escuta, como intensificadores do debate e da explosão de questões urgentes a nós – por meio de longas conversas capazes de potencializar novos encontros, projetos, corpos, afetos, sensibilidades, políticas e ativações para fora dessa situação e localização temporária. Este evento é parte da plataforma Explode!, que pesquisa e experimenta noções de gênero, sonoridades, visualidades e cultura de periferia – em colaboração com Queer City, um projeto de [Lanchonete.org](/) e [Musagetes](http://musagetes.ca).
 
  
 
@@ -36,7 +36,7 @@ Acreditamos nessa imersão e nesse modo de aprendizagem baseado na escuta, como 
 
  
 
-_**EXPLODE! Residency** é uma curadoria de_ Cláudio Bueno e João Simões, em colaboração com Queer City, um projeto de [Lanchonete.org](http://lanchonete.org/) e [Musagetes](http://musagetes.ca).
+_**EXPLODE! Residency** é uma curadoria de_ Cláudio Bueno e João Simões, em colaboração com Queer City, um projeto de [Lanchonete.org](/) e [Musagetes](http://musagetes.ca).
 
 **_Endereço da casa_:** [Rua Itamar Torino, 73, Vila Nova York, São Paulo, SP](https://goo.gl/maps/61CrLwnjoYH2) Seguir localização do link acima. Há dois números "56" na mesma rua
 
@@ -60,7 +60,7 @@ _Who will be with us, leading our listening experience, are the members of the s
 
 _Amidst the night sounds of the neighborhood – the “chicken thief” on the roof or the dry shot of trêsoitão (slang to define a simple weapon) – we will dance to Brazilian funk, rap, samba, voguing, waacking, between other kinds of sound styles of contestation, resistance and struggle, that empower black, queer, trans, gay, poor, migrant, feminist bodies. We will visit spaces of the city, opening ourselves to the neighborhood. We will also be very attentive with the sound of the doorbell, in case anyone would like to join us for our long hearings / conversations._
 
-_We believe that this immersion and this way of learning based on listening, intensifies the debate and the explosion of urgent matters to us – through long talks that will potencialize new meetings, projects, bodies, affections, policies and activations even for outside of this temporary situation and localization. This event is part of the Explode! platform, which researches and experiences notions of gender, sounds, visual arts and culture of the periphery –in collaboration with [Queer City](http://cidadequeer.lanchonete.org), a project by [Lanchonete.org](http://lanchonete.org) and _[Musagetes](http://musagetes.ca)_._ 
+_We believe that this immersion and this way of learning based on listening, intensifies the debate and the explosion of urgent matters to us – through long talks that will potencialize new meetings, projects, bodies, affections, policies and activations even for outside of this temporary situation and localization. This event is part of the Explode! platform, which researches and experiences notions of gender, sounds, visual arts and culture of the periphery –in collaboration with [Queer City](/cidadequeer/), a project by [Lanchonete.org](/) and _[Musagetes](http://musagetes.ca)_._ 
 
  
 
@@ -70,7 +70,7 @@ _We believe that this immersion and this way of learning based on listening, int
 
 _**EXPLODE! Residency**_
 
-_**Curators:** Cláudio Bueno and João Simões, in collaboration with [Queer City](http://cidadequeer.lanchonete.org) and [Lanchonete.org](http://lanchonete.org/) – sponsored by [Musagetes](http://musagetes.ca)._
+_**Curators:** Cláudio Bueno and João Simões, in collaboration with [Queer City](/cidadequeer/) and [Lanchonete.org](/) – sponsored by [Musagetes](http://musagetes.ca)._
 
 **Address:** [Rua Escânio Cerqueira, 56, Vila Nova York, São Paulo, SP](https://goo.gl/maps/61CrLwnjoYH2)
 

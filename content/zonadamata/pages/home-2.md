@@ -13,7 +13,7 @@ type: "page"
 
 \[cudazi\_column width='6' class='alpha' \]
 
-Concebido como um laboratório ambiental permanente, Zona da Mata inicia seu processo no começo de 2016 encubado por [Lanchonete.org](http://www.lanchonete.org/) (plataforma cultural urbana com o foco em como as pessoas vivem, trabalham, compartilham e sobrevivem na cidade contemporânea) em parceria com Ateliê Mata Adentro (Rodrigo Bueno e Carol Ramos). Construído através de dinâmicas processuais e participativas, o projeto têm como objetivo engajar a comunidade local e periférica ao fazer uma ponte com o quintal do Goethe-Institut. Durante o ano serão abordadas as dimensões artísticas de interação com a natureza no espaço urbano por meio de encontros voltados para a memória da Mata Atlântica que existiu em São Paulo, a regeneração do espaço e o pensamento sistêmico proposto pela permacultura.
+Concebido como um laboratório ambiental permanente, Zona da Mata inicia seu processo no começo de 2016 encubado por [Lanchonete.org](/) (plataforma cultural urbana com o foco em como as pessoas vivem, trabalham, compartilham e sobrevivem na cidade contemporânea) em parceria com Ateliê Mata Adentro (Rodrigo Bueno e Carol Ramos). Construído através de dinâmicas processuais e participativas, o projeto têm como objetivo engajar a comunidade local e periférica ao fazer uma ponte com o quintal do Goethe-Institut. Durante o ano serão abordadas as dimensões artísticas de interação com a natureza no espaço urbano por meio de encontros voltados para a memória da Mata Atlântica que existiu em São Paulo, a regeneração do espaço e o pensamento sistêmico proposto pela permacultura.
 
 \[cudazi\_column\_end\]
 

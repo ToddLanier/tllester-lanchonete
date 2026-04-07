@@ -19,9 +19,9 @@ type: "page"
 
 \-       Support to individual projects by local curators and artists, e.g. Thiago de Paulo Souza (Lambe Lambe workshop and ‘#What Body is it?’) , João Bertholini (trans portraiture), Aretha Sadick (‘Entre X e Y’ / migrating genders), Mavi Veloso, etc;
 
-\-       A collaboration with the other of [Lanchonete.org](http://lanchonete.org/)’s two main initiatives, Zona da Mata, which focuses on permaculture; KUIR City will work with MEXA (an LGBT homeless collective) in the city’s most intense drug usage area, Crackolandia;
+\-       A collaboration with the other of [Lanchonete.org](/)’s two main initiatives, Zona da Mata, which focuses on permaculture; KUIR City will work with MEXA (an LGBT homeless collective) in the city’s most intense drug usage area, Crackolandia;
 
-\-       Members of [Lanchonete.org](http://lanchonete.org/) presenting the work externally, e.g. Raphael Daibert at Free Home University (Lecce, Italy – 2015 & 2016);
+\-       Members of [Lanchonete.org](/) presenting the work externally, e.g. Raphael Daibert at Free Home University (Lecce, Italy – 2015 & 2016);
 
 \-       Engagement of public events such as Virada Cultural and Mix Brasil Festival
 
@@ -41,9 +41,9 @@ type: "page"
 
 \-       Support to individual projects by local curators and artists, e.g. Thiago de Paulo Souza (Lambe Lambe workshop and ‘#What Body is it?’) , João Bertholini (trans portraiture), Aretha Sadick (‘Entre X e Y’ / migrating genders), Mavi Veloso, etc;
 
-\-       A collaboration with the other of [Lanchonete.org](http://lanchonete.org/)’s two main initiatives, Zona da Mata, which focuses on permaculture; KUIR City will work with MEXA (an LGBT homeless collective) in the city’s most intense drug usage area, Crackolandia;
+\-       A collaboration with the other of [Lanchonete.org](/)’s two main initiatives, Zona da Mata, which focuses on permaculture; KUIR City will work with MEXA (an LGBT homeless collective) in the city’s most intense drug usage area, Crackolandia;
 
-\-       Members of [Lanchonete.org](http://lanchonete.org/) presenting the work externally, e.g. Raphael Daibert at Free Home University (Lecce, Italy – 2015 & 2016);
+\-       Members of [Lanchonete.org](/) presenting the work externally, e.g. Raphael Daibert at Free Home University (Lecce, Italy – 2015 & 2016);
 
 \-       Engagement of public events such as Virada Cultural and Mix Brasil Festival
 

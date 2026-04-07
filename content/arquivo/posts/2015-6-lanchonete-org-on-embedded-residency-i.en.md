@@ -14,7 +14,7 @@ type: "arquivo"
 
 | [![lanchonete](/arquivo/images/lanchonete.jpg)](http://www.residencyunlimited.org/dialogue/lanchonete/) |
 | --- |
-|   _Todd Lester writes a monthly blog post on RU’s Dialogues detailing the preparation and implementation of [Lanchonete.org](http://www.lanchonete.org), a 5-year residency project in Sao Paulo._  [View all Lanchonete posts here.](http://www.residencyunlimited.org/dialogue/lanchonete/)   |
+|   _Todd Lester writes a monthly blog post on RU’s Dialogues detailing the preparation and implementation of [Lanchonete.org](/), a 5-year residency project in Sao Paulo._  [View all Lanchonete posts here.](http://www.residencyunlimited.org/dialogue/lanchonete/)   |
 
 Lanchonete.org is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters that populate almost every street corner of São Paulo. Within this process we do a variety of activities, such as artist residency, conferences, publications and exhibiting artists works in atypical ways. Lanchonete.org invites international artists to the Center of São Paulo to work with local artists and the general public through an artist engagement program that focuses on contemporary urban issues, such as housing and food sovereignty. [Jakub Szczęsny was the first such resident](http://residencyunlimited.org/dialogues/2014-8-lanchonete-org-on-occupation/), hosted in March 2014. This process (or version of residency) is something we call ‘embedded’ in order to describe the process by which an artist or cultural worker is ‘attached’ to a space, community or demographic in São Paulo’s rapidly changing Center.
 

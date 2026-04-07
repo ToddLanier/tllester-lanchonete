@@ -7,4 +7,4 @@ title: "[:pb]Cidade Queer[:en]Queer City[:]"
 type: "post"
 ---
 
-[Queer City](https://www.cidadequeer.lanchonete.org/)
+[Queer City](/cidadequeer/)

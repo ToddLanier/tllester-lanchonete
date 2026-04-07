@@ -7,9 +7,9 @@ title: "Participants"
 type: "arquivo"
 ---
 
-_\*Whilst Lanchonete.org was originally a five-year process, we continue hosting artists and urbanists on site at the lunch counter and its environs up until now, such as [Lavi Kasongo](https://lanchonete.org/en/2021/01/lavi-kasongo/), [Abdoulaye Guibila](https://lanchonete.org/en/2020/10/abdoulaye-guibila/), [Fernando Pereira dos Santos](https://lanchonete.org/en/2020/10/fernando-pereira-dos-santos/), [Margem](https://lanchonete.org/en/2020/09/margem/), [Edgar Calel](https://lanchonete.org/en/2020/09/edgar-calel/), [Thiago Correia Gonçalves](https://lanchonete.org/en/2020/09/thiago-goncalves/), [Andrew O'Connor](https://lanchonete.org/en/2019/09/andrew-oconnor-em-residencia-com-lanchonete-org-e-residencia-sao-joao/), [Vertical Studio](https://lanchonete.org/en/2019/07/evento-final-de-trabalho-de-estudantes-do-estudio-vertical-escola-da-cidade-no-conjunto-santos-dumont/), [Anat Litwin](https://lanchonete.org/en/2019/05/anat-litwin-participa-de-seminario-internacional-da-escola-da-cidade/), [Adler Murada](https://lanchonete.org/en/2017/06/adler-murada-em-residencia-na-paim-cultura-e-comida-uma-experiencia-sobre-o-entendimento-da-migracao-habitacao-e-trabalho-2/) (review of one participant by another, Carina Paoletti), [Passeio Urbano](https://lanchonete.org/en/2017/06/passeio-urbano-bela-vista-2/), and [Umlilo & Stash Crew.](https://lanchonete.org/en/2017/04/conversa-com-umlilo-stash-crew/) 2018 was originally conceived as a public programme or [Post-Planning Cycle](https://lanchonete.org/en/2018/09/programacao-de-encerramento/) after the initial five-year project._
+_\*Whilst Lanchonete.org was originally a five-year process, we continue hosting artists and urbanists on site at the lunch counter and its environs up until now, such as [Lavi Kasongo](/posts/lavi/-kasongo/), [Abdoulaye Guibila](/posts/abdoulaye/-guibila/), [Fernando Pereira dos Santos](/posts/fernando/-pereira-dos-santos/), [Margem](/posts/margem/), [Edgar Calel](/posts/edgar/-calel/), [Thiago Correia Gonçalves](/posts/thiago/-goncalves/), [Andrew O'Connor](/posts/andrew/-oconnor-em-residencia-com-lanchonete-org-e-residencia-sao-joao/), [Vertical Studio](/posts/evento/-final-de-trabalho-de-estudantes-do-estudio-vertical-escola-da-cidade-no-conjunto-santos-dumont/), [Anat Litwin](/posts/anat/-litwin-participa-de-seminario-internacional-da-escola-da-cidade/), [Adler Murada](/posts/adler/-murada-em-residencia-na-paim-cultura-e-comida-uma-experiencia-sobre-o-entendimento-da-migracao-habitacao-e-trabalho-2/) (review of one participant by another, Carina Paoletti), [Passeio Urbano](/posts/passeio/-urbano-bela-vista-2/), and [Umlilo & Stash Crew.](/posts/conversa/-com-umlilo-stash-crew/) 2018 was originally conceived as a public programme or [Post-Planning Cycle](/posts/programacao/-de-encerramento/) after the initial five-year project._
 
-All guests and participants since the beginning of 2019 can be seen on the [homepage blog](https://lanchonete.org/en/). Biographies for long-term participants not featured in the archive, such as Thiago de Paula Souza, Thiago Carrapatoso, Abdoulaye Guibila, Joel Borges and Paula Querido Van Erven are on the [People page](https://lanchonete.org/en/sobre/). The Lanchonete history (2013-2016) can also be [viewed as a chronogram](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and some artist/urbanist interactions, such as Publication Studio, FICA and HabitaCidade are best explained in the archive's THEMES section.
+All guests and participants since the beginning of 2019 can be seen on the [homepage blog](/). Biographies for long-term participants not featured in the archive, such as Thiago de Paula Souza, Thiago Carrapatoso, Abdoulaye Guibila, Joel Borges and Paula Querido Van Erven are on the [People page](/sobre/). The Lanchonete history (2013-2016) can also be [viewed as a chronogram](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and some artist/urbanist interactions, such as Publication Studio, FICA and HabitaCidade are best explained in the archive's THEMES section.
 
   
   
@@ -26,7 +26,7 @@ All guests and participants since the beginning of 2019 can be seen on the [home
 
 Akinbode Akinbiyi is, by way of photography and poetry, a chronicler of the quotidian. He is interested in “everydaylifeness” rather than everydayness; two states differentiated by Akinbiyi’s profound interest in being—human beings, among other beings, and the way that they craft, navigate, and relate to societies and spaces.
 
-See [Post-Project Cycle](https://lanchonete.org/en/2018/09/programacao-de-encerramento/)
+See [Post-Project Cycle](/posts/programacao/-de-encerramento/)
 
 [https://www.goethe.de/ins/br/en/kul/sup/echoes/exp.html](https://www.goethe.de/ins/br/en/kul/sup/echoes/exp.html)
 
@@ -40,7 +40,7 @@ See [Post-Project Cycle](https://lanchonete.org/en/2018/09/programacao-de-encerr
 
 Coletivo COLETORES is an art/urban intervention Collective, formed in 2008 in the periphery of the East Zone of the city of São Paulo, by the artists Toni William and Flávio Camargo. With a history of actions that think about the city, its people, and the relationships between art, the city, technology, and the public, Coletivo COLETORES has sought paths that explore different ways of playing and of interacting with the city. Since the year of 2016, Coletores has collaborated with Lanchonete.org, realizing a series of projects that promote the articulation between territory, memory, and corporality. During these three years of activities, Coletores was able to contribute to various actions, such as: QUEER City, Open Doors -- Goethe Institut, the Neighborhood Museum - Paim, 13th Contemporary Art Biennial of Dakar, and the project Cartographic Bodies, which was realized as a parallel program to the 33rd Contemporary Art Biennial of São Paulo.
 
-See [Post-Project](https://lanchonete.org/en/2018/09/programacao-de-encerramento/) Cycle [facebook.com/coletorescoletivo](https://www.facebook.com/coletorescoletivo/) [saomateusemmovimento.org/medialab](http://saomateusemmovimento.org/medialab/) [youtube.com/channel/UCC7-Y\_kXrCoNVAI1S8k0aWg](https://www.youtube.com/channel/UCC7-Y_kXrCoNVAI1S8k0aWg) [www.dasding.org/coletores](http://www.dasding.org/coletores) E-mail: [arslab@hotmail.com](mailto:arslab@hotmail.com)  
+See [Post-Project](/posts/programacao/-de-encerramento/) Cycle [facebook.com/coletorescoletivo](https://www.facebook.com/coletorescoletivo/) [saomateusemmovimento.org/medialab](http://saomateusemmovimento.org/medialab/) [youtube.com/channel/UCC7-Y\_kXrCoNVAI1S8k0aWg](https://www.youtube.com/channel/UCC7-Y_kXrCoNVAI1S8k0aWg) [www.dasding.org/coletores](http://www.dasding.org/coletores) E-mail: [arslab@hotmail.com](mailto:arslab@hotmail.com)  
   
 
 ![image68](/arquivo/images/image68-500x333.jpg)
@@ -49,7 +49,7 @@ See [Post-Project](https://lanchonete.org/en/2018/09/programacao-de-encerramento
 
 Thiago Correia Gonçalves (\*1983, Brazil) lives and works in São Paulo and New York. He studied Cinema at FAAP(SP-BR) and Architecture at the Escola da Cidade (SP-BR) and Architectural Association (LDN-UK). Among the institutions where he has shown his works are: Niklas Schechinger Gallery (2014), Hamburg (GER); Vitrina, MASP (2014); Memorial da América Latina (2014); Centro Cultural São Paulo (2013), all in Sao Paulo; Casa de Cultura Mário Quintana (2013) and Galeria Península (2014) in Porto Alegre (BR); and Dox Center in Prague (CZK).
 
-See [Post-Project](https://lanchonete.org/en/2018/09/programacao-de-encerramento/) Cycle.
+See [Post-Project](/posts/programacao/-de-encerramento/) Cycle.
 
 See [Lanchonete.org Brochure](/lanchonete/pdfs/Paim-2018-HResEng.pdf) featuring Thiago's work.
 
@@ -71,7 +71,7 @@ Raphael Daibert is a researcher, curator, cultural producer and activist, based 
 
 Mickaël Marchand graduated at ENSAG (Grenoble, FR) and UDK (Berlin, D). He received the “bourse des arts plastiques de la ville de Grenoble 2012.” His shows include CNAC Grenoble, Centre d’Art de la Bastille, Galleria Suzy Shammah, Palazzo Rizo: Museo d'arte Contemporanea della Sicilla (Palermo) , the Latvian Centre for Contemporary Art and Künstlerhaus Bethanien (Berlin). Mickaël Marchand conceptual approach of installation incorporate photographs and videos as documentation. Repetition as a protocole of research create series of works linked to the cities he is traveling. Whatever humor that can be perceived, Marchands work has to do with the construction, the structure and the limits of balance. His artistic conscience has always been leading by the need to keep his installations real : “My pieces are in balance without cheating.”
 
-Mickaël was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+Mickaël was a guest of the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 [mickaelmarchand.com/](http://mickaelmarchand.com/)  
   
@@ -80,7 +80,7 @@ Mickaël was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org
 
 #### **Leandro Moraes** (2017, 2018)
 
-Leandro Moraes has been a photographer and documentary maker for twelves years, collaborating with national and international vehicles such as Folha de São Paulo, Revista Época, Portal UOL, Libération Newspaper, among others, as well as independent media, such as Mídia Ninja and Vai de Pé Magazine. Besides articles and portraits for communication vehicles, he also dedicates himself to personal projects which, in their majority, involve political and social matters. Leandro implemented the storytelling framework, conceptualized with Carina Paoletti, for the first year of actions of Lanchonete.org at Conjunto Santos Dumont ([Encontros na Paim](http://www.paim.lanchonete.org)).
+Leandro Moraes has been a photographer and documentary maker for twelves years, collaborating with national and international vehicles such as Folha de São Paulo, Revista Época, Portal UOL, Libération Newspaper, among others, as well as independent media, such as Mídia Ninja and Vai de Pé Magazine. Besides articles and portraits for communication vehicles, he also dedicates himself to personal projects which, in their majority, involve political and social matters. Leandro implemented the storytelling framework, conceptualized with Carina Paoletti, for the first year of actions of Lanchonete.org at Conjunto Santos Dumont ([Encontros na Paim](/)).
 
 [cargocollective.com/leandromoraes](https://cargocollective.com/leandromoraes)  
   
@@ -91,7 +91,7 @@ Leandro Moraes has been a photographer and documentary maker for twelves years, 
 
 Combines food, text and performance to create situations and happenings that question the value of labor, resources and social habits. She is author and editor of independent published works, and has presented her research, performance and visual work in seminars, exhibitions, and happenings at U-Jazdswski Castle Warsaw, AZB Skulptur Platz Zurich; 67 Ludlow Street Gallery NYC; Sesc and Casa do Povo São Paulo; FLUCA Austrian cultural pavilion Plovdiv; Q21 Museums Quartier Vienna; Wachauarena Melk; 32ª São Paulo Art Biennial; MATADERO Madrid; Villa Romana Florence; Jan van Eyck Academie Maastricht; Casa Daros Latinamerica; United Nations University Tokyo; ArteBA; and MAM Medellin, amongst others.
 
-Kadija was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+Kadija was a guest of the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 [https://kadijadepaula.hotglue.me/](https://kadijadepaula.hotglue.me/)
 
@@ -109,7 +109,7 @@ Kadija was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/m
 
 With a Bachelor’s Degree in sculpture by the Communication and Arts School of the University of São Paulo, in January of 2005, he participated in the Brazil’s main salons and prizes, such as the Exhibition Program and the Acquisition Prize of the Cultural Center of São Paulo, the 14th Salon of Bahia, Rio de Janeiro’s Funarte’s “Prêmio Projéteis de Arte Contemporânea,” April Salon in Fortaleza, Temporada de Projetos do Paço das Artes, among others. More recently, he participated in the artist research program of the Smithsonian Institution in Washington D.C. in the United States, and the exhibition Comic Sans in Quito, Ecuador.
 
-Chico was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+Chico was a guest of the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 [galeriapilar.com/artistas/chico-togni](http://galeriapilar.com/artistas/chico-togni)  
   
@@ -130,7 +130,7 @@ Chico was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/mu
 
 Livia Alexander is a curator, writer, and Chair of the Department of Art and Design at Montclair State University. Her work is focused on examining the relationship between art infrastructure and artistic production, urbanity, cultural politics of food and art, and contemporary art from the Middle East and Southeast Asia. She as curated and produced numerous art and film programs, exhibitions and events, showcased at the MoMA New York, Tate Modern, Sharjah Art Foundation, Queens Museum, The Film Society of Lincoln Center, Cinematheque Tangier, and many more. Alexander is co-producer of the research-based interactive documentary, Jerusalem, We Are Here (Canada/Palestine/Israel, 2016), directed by Dorit Naaman.
 
-Livia Alexander was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+Livia Alexander was a guest of the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 [www.livalex.net](https://www.livalex.net)  
   
@@ -139,7 +139,7 @@ Livia Alexander was a guest of the [Neighborhood Museum](http://www.paim.lanchon
 
 #### **Amber Art** (Sidd Joag/Keir Johnston/Rebecca Peeler)
 
-Amber Art and Design facilitates dynamic interactions between people and communities that create spaces for positive growth. With over a decade of collective experience, Amber Art & Design’s public projects, exhibitions and educational activities have engaged thousands of people, in hundreds of communities across the United States and internationally. We operate with the belief that art can be a collaborative and inclusive platform to initiate critical conversations. It can be collaborative and inclusive of marginalized voices. Amber Art & Design leverages resources from the art world for the purpose of community empowerment and public service. In April of 2017, Joag made a preliminary visit to Paim, which developed into the idea of the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/). [amberartanddesign.com](http://www.amberartanddesign.com)  
+Amber Art and Design facilitates dynamic interactions between people and communities that create spaces for positive growth. With over a decade of collective experience, Amber Art & Design’s public projects, exhibitions and educational activities have engaged thousands of people, in hundreds of communities across the United States and internationally. We operate with the belief that art can be a collaborative and inclusive platform to initiate critical conversations. It can be collaborative and inclusive of marginalized voices. Amber Art & Design leverages resources from the art world for the purpose of community empowerment and public service. In April of 2017, Joag made a preliminary visit to Paim, which developed into the idea of the [Neighborhood Museum](//museu-da-vizinhanca/). [amberartanddesign.com](http://www.amberartanddesign.com)  
   
 
 ![amem](/arquivo/images/amem-500x375.jpg)
@@ -148,7 +148,7 @@ Amber Art and Design facilitates dynamic interactions between people and communi
 
 Coletivo Amem is a São Paulo-based artistic collective that promotes festivals, performances and debates focusing on race, class, gender, and public health.
 
-Coletivo Amem was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+Coletivo Amem was a guest of the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 [https://www.facebook.com/ColetivoAmem/](https://www.facebook.com/Coletivo-Amem-284867401953444/)  
   
@@ -170,7 +170,7 @@ Andel included Lanchonete.org in [Modes of Democracy](/lanchonete/pdfs/dfd8e8_64
 
 El Departamento de la Comida is a non-government collective for sustainable, regenerative, and resilient food projects in Puerto Rico, in constant collaboration and solidarity with food movements worldwide. Founded in 2010 as a multi-farmer CSA, this grassroots project has experimented with various models, including a store, commercial kitchen, product line, workshops, restaurant, event space, queer food business, and more. In 2019 El Departamento de la Comida reopens after Hurricane María flooded its space in 2017, as a nonprofit organization with four core programs: the FARM, the AGENCY, the KITCHEN, and RESOURCE LIBRARY.
 
-El Departamento was a guest of the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+El Departamento was a guest of the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 In 2015, Tara and Isabel made their first collaboration in the theme of food justice, during the [San Juan Polygraphic Triennial](http://www.biennialfoundation.org/biennials/san-juan-polygraphic-triennial/).
 
@@ -181,7 +181,7 @@ In 2015, Tara and Isabel made their first collaboration in the theme of food jus
 
 #### **DIG Ferreira**
 
-Dig Ferreira (illustrator). Graduated in Interior Design by the European Institute of Design. His work as a visual artist is based on three pillars: the #DesenhoRegistro, Galeria Mobile and the Research / Study Group # Eunaoseidesenhar. Member of the Bela Vista and Saracura Erê Social Network. Dig was one of the first long-term residents at Conjunto Santos Dumont, and coincided with Amber Art Collective and the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+Dig Ferreira (illustrator). Graduated in Interior Design by the European Institute of Design. His work as a visual artist is based on three pillars: the #DesenhoRegistro, Galeria Mobile and the Research / Study Group # Eunaoseidesenhar. Member of the Bela Vista and Saracura Erê Social Network. Dig was one of the first long-term residents at Conjunto Santos Dumont, and coincided with Amber Art Collective and the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 [digferreira.com](https://digferreira.com)  
   
@@ -201,7 +201,7 @@ After a short-stay at Edificio Copan in Lanchonete.org's residency apartment, Fu
 
 #### **Jesse Hawkes**
 
-With a performance career including theater, opera, radio, and film, Jesse recently returned to New York after running youth theater, film and human rights programs in Rwanda, South Africa, Haiti, and Bosnia. Jesse holds a B.A. from Harvard University and lives in Harlem. As former executive director of [Global Youth Connect](https://www.globalyouthconnect.org/), Hawkes' visit to [Paim](http://www.paim.lanchonete.org), during the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/), for its activities on World Aids Day, was related to years of intercultural and LGBT activism.
+With a performance career including theater, opera, radio, and film, Jesse recently returned to New York after running youth theater, film and human rights programs in Rwanda, South Africa, Haiti, and Bosnia. Jesse holds a B.A. from Harvard University and lives in Harlem. As former executive director of [Global Youth Connect](https://www.globalyouthconnect.org/), Hawkes' visit to [Paim](/), during the [Neighborhood Museum](//museu-da-vizinhanca/), for its activities on World Aids Day, was related to years of intercultural and LGBT activism.
 
 [jessehawkes.com](http://jessehawkes.com)  
   
@@ -221,7 +221,7 @@ He had the original idea for Lanchonete.org.
 
 #### **Adler Murada** (2015, 2017)
 
-Adler was born in Teresina, Piauí, Brazil (1986). He lives and works between São Paulo and Teresina. Adler is a visual artist—publication, drawing, installation and a range of collaborations—and independent editor/publisher. He sees his hybrid working style as a proposition for a contemporary artistic practice comprised of objects as well as cultural and social actions. Adler was one of the first long-term residents at Conjunto Santos Dumont, and coincided with Amber Art Collective and the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
+Adler was born in Teresina, Piauí, Brazil (1986). He lives and works between São Paulo and Teresina. Adler is a visual artist—publication, drawing, installation and a range of collaborations—and independent editor/publisher. He sees his hybrid working style as a proposition for a contemporary artistic practice comprised of objects as well as cultural and social actions. Adler was one of the first long-term residents at Conjunto Santos Dumont, and coincided with Amber Art Collective and the [Neighborhood Museum](//museu-da-vizinhanca/) project.
 
 [Receitas da Paim cordel](/lanchonete/pdfs/Receitas-da-Paim_Adler-Murada.pdf) was produced during his residency at the Conjunto Santos Dumont. Murada also represented Lanchonete.org for its participation in [Cosmopolis #1 Collective Intelligence (2017)](https://c1.cosmopolis.woo.cat/en/) in Paris at Centre Pompidou.
 
@@ -232,7 +232,7 @@ Adler was born in Teresina, Piauí, Brazil (1986). He lives and works between S�
 
 #### **Carina Paoletti**
 
-Content Producer and Platform communicator. Graduated in International Relations by the Pontifícia Universidade Católica of São Paulo, Carina has passed through the editing of Editora Abril and Folha de São Paulo. She also develops works as a visual artist, mixing her experience as editor and trend researcher, in elaborating and constructing images. Along with Leandro Moraes, Carina conceptualized a storytelling framework for the first year of actions of Lanchonete.org at Conjunto Santos Dumont ([Encontros na Paim](http://www.paim.lanchonete.org)).  
+Content Producer and Platform communicator. Graduated in International Relations by the Pontifícia Universidade Católica of São Paulo, Carina has passed through the editing of Editora Abril and Folha de São Paulo. She also develops works as a visual artist, mixing her experience as editor and trend researcher, in elaborating and constructing images. Along with Leandro Moraes, Carina conceptualized a storytelling framework for the first year of actions of Lanchonete.org at Conjunto Santos Dumont ([Encontros na Paim](/)).  
   
 
 ![image44](/arquivo/images/image44-500x333.jpg)
@@ -269,7 +269,7 @@ Mavi is the mixture of patifaria with gambiarra-do-it-yourself. She is a transdi
 
 #### **Kholoud Bidak**
 
-Kholoud Bidak is an Egyptian philanthropist who has worked since 2002 with minorities and oppressed groups through NGOs and collectives in different areas of the world. She addresses topics such as women’s issues, gender, sexuality, well-being, and the environment through art, writings or self-expressing methods. In 2016, participated in the culmination of [Queer City](http://www.cidadequeer.lanchonete.org/), which was staged in the occasion of the 32nd São Paulo Bienal. After which, she attended the [AWID](https://www.awid.org/) meeting in Salvador, Bahia, for a women human rights defender wellness session. [AWID](https://www.awid.org/) is an international, feminist, membership organisation committed to achieving gender equality, sustainable development and women’s human rights.
+Kholoud Bidak is an Egyptian philanthropist who has worked since 2002 with minorities and oppressed groups through NGOs and collectives in different areas of the world. She addresses topics such as women’s issues, gender, sexuality, well-being, and the environment through art, writings or self-expressing methods. In 2016, participated in the culmination of [Queer City](/), which was staged in the occasion of the 32nd São Paulo Bienal. After which, she attended the [AWID](https://www.awid.org/) meeting in Salvador, Bahia, for a women human rights defender wellness session. [AWID](https://www.awid.org/) is an international, feminist, membership organisation committed to achieving gender equality, sustainable development and women’s human rights.
 
   
   
@@ -278,7 +278,7 @@ Kholoud Bidak is an Egyptian philanthropist who has worked since 2002 with minor
 
 #### **Paulo Bueno**
 
-Bueno is a Sao Paulo-based photographer. He documented the monthly dinner series, [janta: queer food/queer politics](https://www.cidadequeer.lanchonete.org/projetos-projects/janta/) throughout [the year-long Cidade Queer cycle](https://www.cidadequeer.lanchonete.org/). [hcargocollective.com/paulobueno](http://cargocollective.com/paulobueno)  
+Bueno is a Sao Paulo-based photographer. He documented the monthly dinner series, [janta: queer food/queer politics](/projetos-projects/janta/) throughout [the year-long Cidade Queer cycle](/). [hcargocollective.com/paulobueno](http://cargocollective.com/paulobueno)  
   
 
 ![image8](/arquivo/images/image8-353x500.png)
@@ -292,9 +292,9 @@ Danila Bustamante is a videomaker. Creator of illustrious thoughts, she seeks to
 
 #### **Edgar Calel** (2016, 2020)
 
-Edgar Calel. Edgar Calel Apen was born in Chi Xot, Comalapa, an Indigenous community called Maya Kaqchikel, Guatemala. In 2016, he was an artist-in-residence with Lanchonete.org and [Lastro](https://www.facebook.com/lastroarte/) at the Occupation São João in São Paulo. He returned in 2019/2020 to lead a [mural project at Conjunto Santos Dumont.](https://lanchonete.org/en/2020/09/paim-final-touch/)
+Edgar Calel. Edgar Calel Apen was born in Chi Xot, Comalapa, an Indigenous community called Maya Kaqchikel, Guatemala. In 2016, he was an artist-in-residence with Lanchonete.org and [Lastro](https://www.facebook.com/lastroarte/) at the Occupation São João in São Paulo. He returned in 2019/2020 to lead a [mural project at Conjunto Santos Dumont.](/2020/09/paim-final-touch/)
 
-See [Calel's intervention at the Sao Paulo Goethe Institute during Zona da Mata](https://www.zdm2016.lanchonete.org/textos/kit-kit-kit-kit-kit-kit-kit/).
+See [Calel's intervention at the Sao Paulo Goethe Institute during Zona da Mata](/posts/textos/kit-kit-kit-kit-kit-kit-kit/
 
   
   
@@ -303,7 +303,7 @@ See [Calel's intervention at the Sao Paulo Goethe Institute during Zona da Mata]
 
 #### **Eduardo Carrera**
 
-Eduardo Carrera is a curator, researcher, and art blogger. He received his degree in visual art from the Universidad Catolica in Ecuador. He worked as a curator for Center de Arte Contemporaneo in Quito, Ecuador (2011-13). Carrera is currently the Research Coordinator at Fundacion Museos de la Ciudad. He is also the Director and Curator of No Lugar-AC, a space for exhibitions and residencies. Carrera is the coordinator for Premio Brasil–Arte Emergente and has curated various exhibitions such as SEXO-DROGAS & ROCK N ROLL, Quito (2013); Situaciones de hacinamiento, Quito (2013); EL DESEO ES LA FORMA, CAC, Quito (2013); EVERNESS, Alianza Francesa, Quito (2013); La (in) materialidad de la linea, No Lugar-AC, Quito (2012); and PAROLE, No Lugar-AC, Quito (2012). In 2016, participated in the culmination of [Queer City](http://www.cidadequeer.lanchonete.org/), which was staged in the occasion of the 32nd São Paulo Bienal. Along with Pato Hebert and Todd Lanier Lester, created the concept of Queer City landing in Quito during its week of LGBT Pride celebration, in 2017, in partnership with [No Lugar](https://nolugar.org/) and [CAC](http://www.centrodeartecontemporaneo.gob.ec/).
+Eduardo Carrera is a curator, researcher, and art blogger. He received his degree in visual art from the Universidad Catolica in Ecuador. He worked as a curator for Center de Arte Contemporaneo in Quito, Ecuador (2011-13). Carrera is currently the Research Coordinator at Fundacion Museos de la Ciudad. He is also the Director and Curator of No Lugar-AC, a space for exhibitions and residencies. Carrera is the coordinator for Premio Brasil–Arte Emergente and has curated various exhibitions such as SEXO-DROGAS & ROCK N ROLL, Quito (2013); Situaciones de hacinamiento, Quito (2013); EL DESEO ES LA FORMA, CAC, Quito (2013); EVERNESS, Alianza Francesa, Quito (2013); La (in) materialidad de la linea, No Lugar-AC, Quito (2012); and PAROLE, No Lugar-AC, Quito (2012). In 2016, participated in the culmination of [Queer City](/), which was staged in the occasion of the 32nd São Paulo Bienal. Along with Pato Hebert and Todd Lanier Lester, created the concept of Queer City landing in Quito during its week of LGBT Pride celebration, in 2017, in partnership with [No Lugar](https://nolugar.org/) and [CAC](http://www.centrodeartecontemporaneo.gob.ec/).
 
 [Ataqueridas, Pato Hebert](https://nolugar.org/2017/06/15/ataqueridas-pato-hebert-queer-city-quito/), by Eduardo Carrera
 
@@ -316,16 +316,16 @@ Eduardo Carrera is a curator, researcher, and art blogger. He received his degre
 
 #### **Episode Haiti**
 
-Episode Haiti was a three month process of the artist residency of the Haitian photographer Pierre Michel Jean in the city of São Paulo, invited by Lanchonete.org in partnership with artist [Daniel Lima](https://www.danielcflima.com/) and with Novas Diásporas/Invisíveis Produções, with support by FOKAL - Fondasyon Konesas ak Libète / Fondation connaissance et liberté and ArtsEverywhere. [episodiohaiti.lanchonete.org](http://www.episodiohaiti.lanchonete.org)  
+Episode Haiti was a three month process of the artist residency of the Haitian photographer Pierre Michel Jean in the city of São Paulo, invited by Lanchonete.org in partnership with artist [Daniel Lima](https://www.danielcflima.com/) and with Novas Diásporas/Invisíveis Produções, with support by FOKAL - Fondasyon Konesas ak Libète / Fondation connaissance et liberté and ArtsEverywhere. [episodiohaiti.lanchonete.org](/)  
   
 
 ![image62](/arquivo/images/image62-500x375.png)
 
 #### **Paulo Goya** (2015, 2016)
 
-Paulo Goya is an actor, known for Confessions of a Brazilian Call Girl (2011), Carpe Aeternitatem (2014) and (fdp) (2012). After leading the [Queer City](http://www.cidadequeer.lanchonete.org) opening event, a walk with Thiago Carrapatoso that looked at changes in the city center through a queer lens, Paulo asked: "Why not keep meeting in such informal ways?" And offered a series of monthly dinners, with Carrapatoso, at his home, [Casarão do Belvedere](https://www.facebook.com/casaraodobelvedere/), a space that seeks to establish a constant dialogue with the city of São Paulo not only through cultural events, but also making proposals to improve the social and economic relations of its inhabitants.
+Paulo Goya is an actor, known for Confessions of a Brazilian Call Girl (2011), Carpe Aeternitatem (2014) and (fdp) (2012). After leading the [Queer City](/) opening event, a walk with Thiago Carrapatoso that looked at changes in the city center through a queer lens, Paulo asked: "Why not keep meeting in such informal ways?" And offered a series of monthly dinners, with Carrapatoso, at his home, [Casarão do Belvedere](https://www.facebook.com/casaraodobelvedere/), a space that seeks to establish a constant dialogue with the city of São Paulo not only through cultural events, but also making proposals to improve the social and economic relations of its inhabitants.
 
-The monthly dinner series, [janta: queer food/queer politics](https://www.cidadequeer.lanchonete.org/projetos-projects/janta/) became the 'backbone' of [the year-long Cidade Queer cycle](https://www.cidadequeer.lanchonete.org/).
+The monthly dinner series, [janta: queer food/queer politics](/projetos-projects/janta/) became the 'backbone' of [the year-long Cidade Queer cycle](/).
 
   
   
@@ -334,7 +334,7 @@ The monthly dinner series, [janta: queer food/queer politics](https://www.cidade
 
 #### **Pato Hebert** (2016, 2017)
 
-Patrick "Pato" Hebert is an artist, educator and organizer. His work explores the aesthetics, ethics and poetics of interconnectedness. The practice works across a range of media including photography, installation, sculpture, language, light, temporality and graphic design. Progressive praxis, spatial dynamics and the spirit of social topographies are of particular interest. In 2016, participated in the culmination of [Queer City](http://www.cidadequeer.lanchonete.org/), which was staged in the occasion of the 32nd São Paulo Bienal. Along with Eduardo Carrera and Todd Lanier Lester, created the concept of Queer City landing in Quito during its week of LGBT Pride celebration, in 2017, in partnership with [No Lugar](https://nolugar.org/) and [CAC](http://www.centrodeartecontemporaneo.gob.ec/).
+Patrick "Pato" Hebert is an artist, educator and organizer. His work explores the aesthetics, ethics and poetics of interconnectedness. The practice works across a range of media including photography, installation, sculpture, language, light, temporality and graphic design. Progressive praxis, spatial dynamics and the spirit of social topographies are of particular interest. In 2016, participated in the culmination of [Queer City](/), which was staged in the occasion of the 32nd São Paulo Bienal. Along with Eduardo Carrera and Todd Lanier Lester, created the concept of Queer City landing in Quito during its week of LGBT Pride celebration, in 2017, in partnership with [No Lugar](https://nolugar.org/) and [CAC](http://www.centrodeartecontemporaneo.gob.ec/).
 
 [Ataqueridas, Pato Hebert](https://nolugar.org/2017/06/15/ataqueridas-pato-hebert-queer-city-quito/), by Eduardo Carrera
 
@@ -365,18 +365,18 @@ Diane Lima is an independent curator, researcher, and creative director She has 
 
 #### **Pierre Jean Michel**
 
-Pierre Michel Jean is a photojournalist based in Port-au-Prince. He was invited by Lanchonete.org and FOKAL to complete a three-month residency in São Paulo, where he developed [research portal on Haitians living in São Paulo](http://www.episodiohaiti.lanchonete.org/) since the 2010 earthquake.
+Pierre Michel Jean is a photojournalist based in Port-au-Prince. He was invited by Lanchonete.org and FOKAL to complete a three-month residency in São Paulo, where he developed [research portal on Haitians living in São Paulo](//) since the 2010 earthquake.
 
 This project was supported by artist [Daniel Lima](https://www.danielcflima.com/).
 
-[http://pmfotografi.visura.co/](http://pmfotografi.visura.co/) [episodiohaiti.lanchonete.org](http://www.episodiohaiti.lanchonete.org)  
+[http://pmfotografi.visura.co/](http://pmfotografi.visura.co/) [episodiohaiti.lanchonete.org](/)  
   
 
 ![image63](/arquivo/images/image63-328x500.jpg)
 
 #### **Lucia Nhamo**
 
-Lucia Nhamo is a Zimbabwean visual artist. She explores counter-narratives and power relations through performance, animation, video, printmaking and sculpture. She was awarded the Goethe/Lanchonete residency prize at Bamako Encounters in 2015. The Goethe Institut and Musagetes/ArtsEverywhere support the juried prize of a two- month residency for an artist from [Bamako Encounters with Lanchonete.org](https://lanchonete.org/en/2015/10/lanchonete-org-the-10th-bamako-encounters-african-biennale-of-photography-telling-time/) in São Paulo. The residency prize is awarded to a female artist whose work broadens and/or challenges perspectives on contemporary African migrations.
+Lucia Nhamo is a Zimbabwean visual artist. She explores counter-narratives and power relations through performance, animation, video, printmaking and sculpture. She was awarded the Goethe/Lanchonete residency prize at Bamako Encounters in 2015. The Goethe Institut and Musagetes/ArtsEverywhere support the juried prize of a two- month residency for an artist from [Bamako Encounters with Lanchonete.org](/2015/10/lanchonete-org-the-10th-bamako-encounters-african-biennale-of-photography-telling-time/) in São Paulo. The residency prize is awarded to a female artist whose work broadens and/or challenges perspectives on contemporary African migrations.
 
 [https://www.goethe.de/ins/br/pt/sta/sal/ueb/res/luc.html](https://www.goethe.de/ins/br/pt/sta/sal/ueb/res/luc.html)
 
@@ -393,9 +393,9 @@ Lucia Nhamo is a Zimbabwean visual artist. She explores counter-narratives and p
 
 Jean-François Prost is a visual artist based in Montreal, Quebec. He has a degree in environmental design at Université du Québec à Montréal and in Architecture at Carleton University (Ottawa). He is mostly known for his investigations in spatial and social practices in the city, his practice in relational art and for being the foundator of the artistic platform Adaptive Actions. Among other projects, he has worked and exposed at La Biennale de Montreal(2002), International Architecture Biennal Rotterdam (2003), Liverpool Biennial (2006), Lisbon Architecture Triennal (2013) and International Architecture Biennale in São Paulo (2013).
 
-Jean-Francois visited Lanchonete.org on two occasions, both during the 2016 cycle of Queer City. The first visit was a research trip to consider an intervention in São Paulo by his platform, [Adaptive Actions](https://adaptiveactions.net/about/) and to present at U[rban Policies for Transitional Public Spaces, a conference convened by OUTROS](http://outrosurbanismos.fau.usp.br/espacos-transitorios/): Laboratory on Other Urbanisms at the architecture faculty of the University of São Paulo and hosted by the Goethe Institute. On his second visit during the culmination of Queer City, Jean-Francois produced an intervention on the Minhocão (elevated street that becomes a pedestrian walking area on the weekends) and collaborated with MEXA on a project at Casa Florescer, a transgender support center. The latter was called [Acronymia em São Paulo](https://www.cidadequeer.lanchonete.org/2017/05/16/acronymia-jean-francois-prost/).
+Jean-Francois visited Lanchonete.org on two occasions, both during the 2016 cycle of Queer City. The first visit was a research trip to consider an intervention in São Paulo by his platform, [Adaptive Actions](https://adaptiveactions.net/about/) and to present at U[rban Policies for Transitional Public Spaces, a conference convened by OUTROS](http://outrosurbanismos.fau.usp.br/espacos-transitorios/): Laboratory on Other Urbanisms at the architecture faculty of the University of São Paulo and hosted by the Goethe Institute. On his second visit during the culmination of Queer City, Jean-Francois produced an intervention on the Minhocão (elevated street that becomes a pedestrian walking area on the weekends) and collaborated with MEXA on a project at Casa Florescer, a transgender support center. The latter was called [Acronymia em São Paulo](/2017/05/16/acronymia-jean-francois-prost/).
 
-[Prost's book Heterotopia](https://artseverywhere.ca/creative-maintenance-michael-hardt/) was one of the influences we considered in making the [Cidade Queer queer cycle](https://www.cidadequeer.lanchonete.org/).
+[Prost's book Heterotopia](https://artseverywhere.ca/creative-maintenance-michael-hardt/) was one of the influences we considered in making the [Cidade Queer queer cycle](/).
 
 [jean-francoisprost.blogspot.com](http://jean-francoisprost.blogspot.com/)
 
@@ -408,7 +408,7 @@ Jean-Francois visited Lanchonete.org on two occasions, both during the 2016 cycl
 
 Born and raised in the busy streets of Harlem, Devon “Pony” Webster has dedicated his life to dance since the tender age of 10. Pony has also mastered the Art of “Vogue”. A form of dance that capitalizes and displays the contours of the body through enhanced flexibility and finesse. Battling in competitions for voguing, Pony is a Legend in the underground “Ballroom” community where Voguing was created and has been deemed so for the last 5 years. He has been a member of the House/ball community since 1998.. More recently Pony is taking Vogue to the next level by creating the first Vogue Dance Company “Vogue Evolution”, whose mission was to do social justice and HIV Prevention through the art of vogueing. They have traveled across the world performing and standing for Gay Rights while teaching Vogue Classes to the public in workshops called “Vogue Theory”.
 
-Pony Zion visited in 2016 as a part of Queer City and the [EXPLODE! Residency](https://www.cidadequeer.lanchonete.org/projetos-projects/explode/). Along with Michael Roberson he led the process of planning São Paulo's 1st international 'ball', [ATAQUE!](https://www.cidadequeer.lanchonete.org/projetos-projects/ataque/) at Praça das Artes in the Center, free and open to the public. ATAQUE was a day-long event that included a variety of workshops and discussions on themes on public health, HIV, questioning the dichotomy of Center/Periphery, and historicizing 'ballroom' through the lens of black and hispanic social struggles for access to healthcare. At the end of this day, he invited two participants, Kon and Felix Pimenta to be the Mother and Father of Brazil's House of Zion. Pony returned in January 2019 to witness and support the third annual Ball that started after ATAQUE.
+Pony Zion visited in 2016 as a part of Queer City and the [EXPLODE! Residency](/projetos-projects/explode/). Along with Michael Roberson he led the process of planning São Paulo's 1st international 'ball', [ATAQUE!](/projetos-projects/ataque/) at Praça das Artes in the Center, free and open to the public. ATAQUE was a day-long event that included a variety of workshops and discussions on themes on public health, HIV, questioning the dichotomy of Center/Periphery, and historicizing 'ballroom' through the lens of black and hispanic social struggles for access to healthcare. At the end of this day, he invited two participants, Kon and Felix Pimenta to be the Mother and Father of Brazil's House of Zion. Pony returned in January 2019 to witness and support the third annual Ball that started after ATAQUE.
 
 See the [House of Zion Debut at Luv ‘Til It Hurts launch](https://luvhurts.co/mixed-media/house-of-zion-debut-at-luv-til-it-hurts-launch/).
 
@@ -419,7 +419,7 @@ See the [House of Zion Debut at Luv ‘Til It Hurts launch](https://luvhurts.co/
 
 #### **Queer City** (2016, 2017)
 
-Todd Lester, Raphael Daibert, Pato Hebert, Edições Aurora, Coletivo Amem, and EXPLODE! (Outbound: Quito, 2017) (Outbound: NYC, 2017) Queerness is a broad term, one that can certainly be linked to a range of LGBT+ politics and realities, as well as histories, futures and places. For our purposes, Queer City opens a discussion on how we live and work in, share and survive the contemporary city, with São Paulo as our outlook. We are therefore equally interested in acknowledging common ground and understanding counter narratives. During the program, there were thematic [Jantas](http://www.cidadequeer.lanchonete.org/projetos-projects/janta/) at the actor Paulo Goya's [Casarão do Belvedere](https://www.facebook.com/casaraodobelvedere/). During the festa julina event, the [Transarau](http://www.cidadequeer.lanchonete.org/2016/06/27/janta-5-transarau-julino-queerdrilha/), in partnership with Cursinho Popular Transformação, Jup do Bairro and Linn da Quebrada were headliners with a performance that took place in front of the house. ["Janta Dispatches: Technoqueer"](https://artseverywhere.ca/2016/07/22/janta-dispatches-technoqueer/), by Thiago Carrapatoso. ["Janta—Comida Queer, Política Queer: Notes on a Methodology"](https://artseverywhere.ca/2017/03/07/janta-comida-queer-politica-queer/), by Thiago Carrapatoso. [cidadequeer.lanchonete.org](http://www.cidadequeer.lanchonete.org/)  
+Todd Lester, Raphael Daibert, Pato Hebert, Edições Aurora, Coletivo Amem, and EXPLODE! (Outbound: Quito, 2017) (Outbound: NYC, 2017) Queerness is a broad term, one that can certainly be linked to a range of LGBT+ politics and realities, as well as histories, futures and places. For our purposes, Queer City opens a discussion on how we live and work in, share and survive the contemporary city, with São Paulo as our outlook. We are therefore equally interested in acknowledging common ground and understanding counter narratives. During the program, there were thematic [Jantas](/projetos-projects/janta/) at the actor Paulo Goya's [Casarão do Belvedere](https://www.facebook.com/casaraodobelvedere/). During the festa julina event, the [Transarau](/2016/06/27/janta-5-transarau-julino-queerdrilha/), in partnership with Cursinho Popular Transformação, Jup do Bairro and Linn da Quebrada were headliners with a performance that took place in front of the house. ["Janta Dispatches: Technoqueer"](https://artseverywhere.ca/2016/07/22/janta-dispatches-technoqueer/), by Thiago Carrapatoso. ["Janta—Comida Queer, Política Queer: Notes on a Methodology"](https://artseverywhere.ca/2017/03/07/janta-comida-queer-politica-queer/), by Thiago Carrapatoso. [cidadequeer.lanchonete.org](/)  
   
 
 ![image9](/arquivo/images/image9.png)
@@ -428,7 +428,7 @@ Todd Lester, Raphael Daibert, Pato Hebert, Edições Aurora, Coletivo Amem, and 
 
 Ultra-red are a sound-based art and political collective founded in 1994 by two AIDS activists. Originally based in Los Angeles, the collective has expanded over the years with members across North America and Europe. Members in Ultra-red range from artists, researchers, and organizers from different social movements including the struggles of migration, anti-racism, participatory community development, and the politics of HIV/AIDS. In 2008 they began working explicitly with practices of popular education, setting up learning experiments for students, artists, and community organisers under the name the School of Echoes.
 
-Michael Roberson and Robert Sember participated in the [EXPLODE! Residency](https://www.cidadequeer.lanchonete.org/projetos-projects/explode/) and other culminating activities of [the Cidade Queer cycle](https://www.cidadequeer.lanchonete.org/).
+Michael Roberson and Robert Sember participated in the [EXPLODE! Residency](/projetos-projects/explode/) and other culminating activities of [the Cidade Queer cycle](/).
 
 www.ultra-red.org  
   
@@ -437,7 +437,7 @@ www.ultra-red.org
 
 #### **Lorena Vicini** (2013, 2014, 2015, 2016 Outbound: Malta)
 
-Lorena Vicini comes from São Paulo, works as publisher and cultural management and at the moment is PHD student at the Kunsthoschule Kassel. She is journalist and holds a Master on German Literature (Universidade de São Paulo). From 2015-2017 she coordinated Episodes of the South a project from Goethe-Institut São Paulo, in which context she developed projects aiming to decolonize knowledge from a “south” perspective. Lorena is co-author of the following publications: “Inspirador: international guidelines for sustainable cultural management” and [Developing identities to improve collectivity](https://lanchonete.org/en/2016/11/en-developing-identities-to-improve-collectivity/).
+Lorena Vicini comes from São Paulo, works as publisher and cultural management and at the moment is PHD student at the Kunsthoschule Kassel. She is journalist and holds a Master on German Literature (Universidade de São Paulo). From 2015-2017 she coordinated Episodes of the South a project from Goethe-Institut São Paulo, in which context she developed projects aiming to decolonize knowledge from a “south” perspective. Lorena is co-author of the following publications: “Inspirador: international guidelines for sustainable cultural management” and [Developing identities to improve collectivity](/2016/11/en-developing-identities-to-improve-collectivity/).
 
 [Vicini interviewed Todd Lester for BOMB Magazine](https://bombmagazine.org/articles/todd-lester/) at the launch of Lanchonete.org and joined the project thereafter, leading on projects with Cidades Sem Fome and Occupation São João.
 
@@ -452,7 +452,7 @@ See the [Lanchonete.org brochure](/lanchonete/pdfs/pdf_lanchonete_preview_201311
 
 Ajamu X is a British artist, curator, archivist and activist. He best known for his fine art photography, which explores same-sex desire and the Black male body, and his work as an archivist and activist to document the lives and experiences of black LGBTQ people in the UK.
 
-Ajamu participated in the culminating activities of [Cidade Queer](http://www.cidadequeer.lanchonete.org/) including the [ATAQUE! Ball](https://www.cidadequeer.lanchonete.org/projetos-projects/ataque/) and [Suitcase Under the Bed](https://www.cidadequeer.lanchonete.org/2016/08/26/mala-embaixo-da-cama/), a workshop he offered in collaboration with Ponto Aurora.
+Ajamu participated in the culminating activities of [Cidade Queer](/) including the [ATAQUE! Ball](/projetos-projects/ataque/) and [Suitcase Under the Bed](/2016/08/26/mala-embaixo-da-cama/), a workshop he offered in collaboration with Ponto Aurora.
 
   
   
@@ -478,7 +478,7 @@ The Zona da Mata (ZdM) project was conceived as a permanent environmental lab, t
 
 Zona da Mata was a three-way partnership between [artist Rodrigo Bueno](http://artist Rodrigo Bueno) (its author), the Goethe Institute and Lanchonete.org (its producer).
 
-[zdm2016.lanchonete.org](http://www.zdm2016.lanchonete.org)  
+[zdm2016.lanchonete.org](/)  
   
 
 * * *
@@ -553,14 +553,14 @@ Roberto Tejada is author of the poetry collections Full Foreground (Arizona, 201
 
 #### **Steph Yates**
 
-Steph Yates is an artist, musician, and bookmaker living and working in Guelph, Ontario, Canada. Her practice involves stop-motion animation, installation, kinetic sculpture, printmaking, and mixed media work, which she is currently exploring as an artist in residence at The Boarding House Arts Incubator Program. Since 2013, Yates has been working with Publication Studio Guelph as its studio coordinator, bookmaker, member of the editorial group, and teacher of various hands-on workshops. Yates can often be seen performing in a slew of local bands, and her own musical projects include garage-pop outfit Esther Grey and sparkle-punk duo Cupcake Ductape. Yates' [residency between Ponto Aurora and Lanchonete.org](https://lanchonete.org/en/2015/10/2015-6-lanchonete-org-on-embedded-residency-i/) was a part of creating [Publication Studio-São Paulo](https://publicationstudio.biz/studios/sao-paulo/) and drew from her experience managing a Publication Studio in Guelph, Ontario. [stephyates.com](https://stephyates.com)  
+Steph Yates is an artist, musician, and bookmaker living and working in Guelph, Ontario, Canada. Her practice involves stop-motion animation, installation, kinetic sculpture, printmaking, and mixed media work, which she is currently exploring as an artist in residence at The Boarding House Arts Incubator Program. Since 2013, Yates has been working with Publication Studio Guelph as its studio coordinator, bookmaker, member of the editorial group, and teacher of various hands-on workshops. Yates can often be seen performing in a slew of local bands, and her own musical projects include garage-pop outfit Esther Grey and sparkle-punk duo Cupcake Ductape. Yates' [residency between Ponto Aurora and Lanchonete.org](/2015/10/2015-6-lanchonete-org-on-embedded-residency-i/) was a part of creating [Publication Studio-São Paulo](https://publicationstudio.biz/studios/sao-paulo/) and drew from her experience managing a Publication Studio in Guelph, Ontario. [stephyates.com](https://stephyates.com)  
   
 
 ![image35](/arquivo/images/image35-500x333.png)
 
 #### **Jaime Lauriano**
 
-Jaime Lauriano (\*1985, São Paulo, Brazil) holds a degree in Visual Arts from São Paulo’s Centro Universitário Belas Artes. His work discusses the structures involved in the formation of public space and the history of the development of the Brazilian state. It uses strategies present in contemporary audiovisual productions (such as advertising), of archival materials and field research, to leverage its discussions. Among his most recent exhibitions are the following solo shows: Impedimento, Centro Cultural São Paulo, São Paulo, Brazil, 2014; Em Exposição – Sesc Consolação, São Paulo, Brazil, 2013; Olhares, Escutas E Outras Histórias, SESC, Ribeirão Preto, Brazil, 2010. And the group shows: PIESP Exhibition 2013-14 / Programa Independente da Escola São Paulo, Casa do Povo, São Paulo, Brazil, 2014; Tatu: futebol, adversidade e cultura da caatinga, Rio Art Museum (MAR), Rio de Janeiro, Brazil, 2014; Taipa-Tapume, Galeria Leme, São Paulo, Brazil, 2014; Espaços Independentes: A Alma É O Segredo Do Negócio, São Paulo, Brazil, in 2013. Lauriano along with Todd Lester and Thiago Goncalves produced ['Maniçoba' an intervention at the 10th Bamako Encounters](https://lanchonete.org/en/2015/10/lanchonete-org-the-10th-bamako-encounters-african-biennale-of-photography-telling-time/). [galerialeme.com/en/artist/jaime-lauriano/?section=bio](http://galerialeme.com/en/artist/jaime-lauriano/?section=bio)  
+Jaime Lauriano (\*1985, São Paulo, Brazil) holds a degree in Visual Arts from São Paulo’s Centro Universitário Belas Artes. His work discusses the structures involved in the formation of public space and the history of the development of the Brazilian state. It uses strategies present in contemporary audiovisual productions (such as advertising), of archival materials and field research, to leverage its discussions. Among his most recent exhibitions are the following solo shows: Impedimento, Centro Cultural São Paulo, São Paulo, Brazil, 2014; Em Exposição – Sesc Consolação, São Paulo, Brazil, 2013; Olhares, Escutas E Outras Histórias, SESC, Ribeirão Preto, Brazil, 2010. And the group shows: PIESP Exhibition 2013-14 / Programa Independente da Escola São Paulo, Casa do Povo, São Paulo, Brazil, 2014; Tatu: futebol, adversidade e cultura da caatinga, Rio Art Museum (MAR), Rio de Janeiro, Brazil, 2014; Taipa-Tapume, Galeria Leme, São Paulo, Brazil, 2014; Espaços Independentes: A Alma É O Segredo Do Negócio, São Paulo, Brazil, in 2013. Lauriano along with Todd Lester and Thiago Goncalves produced ['Maniçoba' an intervention at the 10th Bamako Encounters](/2015/10/lanchonete-org-the-10th-bamako-encounters-african-biennale-of-photography-telling-time/). [galerialeme.com/en/artist/jaime-lauriano/?section=bio](http://galerialeme.com/en/artist/jaime-lauriano/?section=bio)  
   
 
 ![image41](/arquivo/images/image41-375x500.jpg)
@@ -581,14 +581,14 @@ Niki Singleton works in drawing, painting, digital art, found material sculpture
 
 #### **Carlos Motta**
 
-Carlos Motta is a multi-disciplinary artist whose work draws upon political history in an attempt to create counter narratives that recognize suppressed histories, communities, and identities. His work is known for its engagement with histories of queer culture and activism and for its insistence that the politics of sex and gender represent an opportunity to articulate definite positions against social and political injustice. Motta joined Maya Mikdashi for the first [Cidade Queer cycle](https://lanchonete.org/en/2016/04/en-cidade-queer-picks-up-pace-in-2016/) in late 2015 when their film 'Deseos' was screened at MIX Brasil. [carlosmotta.com](https://carlosmotta.com)  
+Carlos Motta is a multi-disciplinary artist whose work draws upon political history in an attempt to create counter narratives that recognize suppressed histories, communities, and identities. His work is known for its engagement with histories of queer culture and activism and for its insistence that the politics of sex and gender represent an opportunity to articulate definite positions against social and political injustice. Motta joined Maya Mikdashi for the first [Cidade Queer cycle](/2016/04/en-cidade-queer-picks-up-pace-in-2016/) in late 2015 when their film 'Deseos' was screened at MIX Brasil. [carlosmotta.com](https://carlosmotta.com)  
   
 
 ![image37](/arquivo/images/image37.jpg)
 
 #### **Maya Mikdashi**
 
-Maya Mikdashi is a Mellon Postdoc at the Institute for Research on Women and the Department of Women and Gender Studies at Rutgers University. Maya works at the intersection of legal anthropology, feminism, queer theory, and theories of sovereignty, secularism and religion. She has worked on a number of documentary and narrative film projects, and continues to edit and write for Jadaliyya, an e-zine that she co-founded and that is centered on critical approaches to studying the transnational Middle East. Mikdashi joined Carlos Motta for the [first Cidade Queer cycle](https://lanchonete.org/en/2016/04/en-cidade-queer-picks-up-pace-in-2016/) in late 2015 when their film 'Deseos' was screened at MIX Brasil. [mayamikdashi.com](http://mayamikdashi.com)  
+Maya Mikdashi is a Mellon Postdoc at the Institute for Research on Women and the Department of Women and Gender Studies at Rutgers University. Maya works at the intersection of legal anthropology, feminism, queer theory, and theories of sovereignty, secularism and religion. She has worked on a number of documentary and narrative film projects, and continues to edit and write for Jadaliyya, an e-zine that she co-founded and that is centered on critical approaches to studying the transnational Middle East. Mikdashi joined Carlos Motta for the [first Cidade Queer cycle](/2016/04/en-cidade-queer-picks-up-pace-in-2016/) in late 2015 when their film 'Deseos' was screened at MIX Brasil. [mayamikdashi.com](http://mayamikdashi.com)  
   
 
 * * *
@@ -605,7 +605,7 @@ Maya Mikdashi is a Mellon Postdoc at the Institute for Research on Women and the
 
 #### **Jakub Szczęsny** (2014, 2015)
 
-Jakub Szczęsny is a co-founder of Centrala, a design platform from Warsaw, Poland. He operates globally with both architectural and artistic assignments, one of which takes place in frame of the Lanchonete.org project in São João Occupation in São Paulo’s downtown. His project of writer’s studio named Keret House was included in the permanent collection of MoMA in 2013. Jakub was the first resident of Lanchonete.org, and, during his stay at the São João Occupation, [developed a flag-making workshop](https://lanchonete.org/en/2016/11/en-developing-identities-to-improve-collectivity/)\*, with Isabel Gandía, Raphael Daibert, e Lorena Vicini. Jakub Szczęsny returned the following year to help conduct a [garden-making workshop](http://worldpolicy.org/2015/10/15/immersed-in-context-jakub-szczesny/) at Occupation São João on which [the Hortas Livres guide](https://mapeamentojardinagemterritorialidade.files.wordpress.com/2016/05/hortas_livres_a4.pdf) was based.
+Jakub Szczęsny is a co-founder of Centrala, a design platform from Warsaw, Poland. He operates globally with both architectural and artistic assignments, one of which takes place in frame of the Lanchonete.org project in São João Occupation in São Paulo’s downtown. His project of writer’s studio named Keret House was included in the permanent collection of MoMA in 2013. Jakub was the first resident of Lanchonete.org, and, during his stay at the São João Occupation, [developed a flag-making workshop](/2016/11/en-developing-identities-to-improve-collectivity/)\*, with Isabel Gandía, Raphael Daibert, e Lorena Vicini. Jakub Szczęsny returned the following year to help conduct a [garden-making workshop](http://worldpolicy.org/2015/10/15/immersed-in-context-jakub-szczesny/) at Occupation São João on which [the Hortas Livres guide](https://mapeamentojardinagemterritorialidade.files.wordpress.com/2016/05/hortas_livres_a4.pdf) was based.
 
 \*See the workshop process in Portuguese on [the Mapeamento Jardinagem territorialidade site](https://mapeamentojardinagemterritorialidade.wordpress.com/hortas-livres-lanchonete-org/).
 

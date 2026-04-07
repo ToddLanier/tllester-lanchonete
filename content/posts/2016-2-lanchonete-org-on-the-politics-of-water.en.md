@@ -12,7 +12,7 @@ type: "post"
 
  
 
-_[Lanchonete.org](http://www.lanchonete.org/) is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner. One of its members, Todd Lanier Lester blogged regularly for [Residency Unlimited](http://www.residencyunlimited.org/) DIALOGUES over the course of the five-year project. Originally appearing in the World Policy Journal's Arts-Policy Nexus, [HYDROTROPISM: LESSONS FROM FICUS ELASTICA](http://worldpolicy.org/2015/04/03/hydrotropism-lessons-from-ficus-elastica/) by Thiago Gonçalves considers the politics of water given Brazil's 2014-2017 drought._ 
+_[Lanchonete.org](/) is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner. One of its members, Todd Lanier Lester blogged regularly for [Residency Unlimited](http://www.residencyunlimited.org/) DIALOGUES over the course of the five-year project. Originally appearing in the World Policy Journal's Arts-Policy Nexus, [HYDROTROPISM: LESSONS FROM FICUS ELASTICA](http://worldpolicy.org/2015/04/03/hydrotropism-lessons-from-ficus-elastica/) by Thiago Gonçalves considers the politics of water given Brazil's 2014-2017 drought._ 
 
 [View video interviews here.](http://www.residencyunlimited.org/dialogue/lanchonete/)
 

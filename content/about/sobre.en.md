@@ -7,17 +7,17 @@ title: "People/Team"
 type: "page"
 ---
 
-From 2013-2017, [Lanchonete.org](http://lanchonete.org/) was an artist-led, cultural platform focused on how people live and work in, navigate and share the contemporary city with the Center of São Paulo as its outlook. The name comes from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner.  [Lanchonete.org](http://lanchonete.org/) was about the issues that big cities face, the different forms of ‘urban power’, and the Right to the City, but not insomuch as to define these constructs…rather to stretch the platform as far as is necessary to consider diverse viewpoints. Now, Lanchonete.org makes its transition into the Associação Espaço Cultural Lanchonete.
+From 2013-2017, [Lanchonete.org](/) was an artist-led, cultural platform focused on how people live and work in, navigate and share the contemporary city with the Center of São Paulo as its outlook. The name comes from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner.  [Lanchonete.org](/) was about the issues that big cities face, the different forms of ‘urban power’, and the Right to the City, but not insomuch as to define these constructs…rather to stretch the platform as far as is necessary to consider diverse viewpoints. Now, Lanchonete.org makes its transition into the Associação Espaço Cultural Lanchonete.
 
 * * *
 
 2018 Post-Planning Cycle
 
-The future of Lanchonete.org is to be [left open](https://lanchonete.org/en/2018/09/open-call/). While the 5 year project of Lanchonete.org is over you can view the culminating actions, which taper off to a sole focus on the physical lanchonete on rua Paim under [Post-Project Cycle](https://lanchonete.org/en/2018/09/programacao-de-encerramento/).
+The future of Lanchonete.org is to be [left open](/posts/open-call/). While the 5 year project of Lanchonete.org is over you can view the culminating actions, which taper off to a sole focus on the physical lanchonete on rua Paim under [Post-Project Cycle](/posts/programacao-de-encerramento/).
 
 * * *
 
-Below are the names and respective years of involvement of the participants of Lanchonete.org’s projects. The Lanchonete history (2013-2016) can also be [viewed as a chronogram](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and the project's [Archive can be viewed here](https://arquivo.lanchonete.org/?lang=en).
+Below are the names and respective years of involvement of the participants of Lanchonete.org’s projects. The Lanchonete history (2013-2016) can also be [viewed as a chronogram](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and the project's [Archive can be viewed here](/arquivo/).
 
 [Click here](/lanchonete/pdfs/Lanchonete.org-Participants-2012-2018.pdf) to download a file with all participants' information.
 

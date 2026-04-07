@@ -12,11 +12,11 @@ De 2013-2017, Lanchonete.org foi uma plataforma cultural conduzida por artistas,
 
 Ciclo de Pós-Planejamento 2018
 
-O futuro da Lanchonete.org é para ser deixado em [aberto](http://lanchonete.org/2018/09/open-call/). Por mais que o projeto de 5 anos da Lanchonete.org tenha acabado, você pode ver as ações culminantes, que se concentram apenas na lanchonete física, na rua Paim, no [Ciclo do Pós-Projeto](https://lanchonete.org/en/2018/09/programacao-de-encerramento/).
+O futuro da Lanchonete.org é para ser deixado em [aberto](/posts/open-call/). Por mais que o projeto de 5 anos da Lanchonete.org tenha acabado, você pode ver as ações culminantes, que se concentram apenas na lanchonete física, na rua Paim, no [Ciclo do Pós-Projeto](/posts/programacao-de-encerramento/).
 
 * * *
 
-Abaixo estão os nomes dos participantes e os respectivos anos em que se envolveram nos projetos do Lanchonete.org. A história do Lanchonete (2013-2016) também pode ser [vista como um cronograma](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), e o [arquivo do projeto pode ser visto aqui](https://arquivo.lanchonete.org/?lang=en).
+Abaixo estão os nomes dos participantes e os respectivos anos em que se envolveram nos projetos do Lanchonete.org. A história do Lanchonete (2013-2016) também pode ser [vista como um cronograma](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), e o [arquivo do projeto pode ser visto aqui](/arquivo/).
 
 [Clique aqui](/lanchonete/pdfs/Participantes-Lanchonete.org-2012-2018.pdf) para fazer o download da ficha técnica dos participantes.
 

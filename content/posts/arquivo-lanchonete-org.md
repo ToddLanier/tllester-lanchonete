@@ -7,4 +7,4 @@ title: "Arquivo Lanchonete.org"
 type: "post"
 ---
 
-[Arquivo Lanchonete](https://arquivo.lanchonete.org/)
+[Arquivo Lanchonete](/arquivo/)

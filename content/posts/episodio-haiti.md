@@ -7,4 +7,4 @@ title: "Episódio Haiti"
 type: "post"
 ---
 
-[Episódio Haiti](http://www.episodiohaiti.lanchonete.org/)
+[Episódio Haiti](/episodiohaiti/)

@@ -7,4 +7,4 @@ title: "[:pb]Encontros na Paim[:en]Encounters at Paim[:]"
 type: "post"
 ---
 
-[Encounters at Paim](https://www.paim.lanchonete.org/)
+[Encounters at Paim](/paim/)
