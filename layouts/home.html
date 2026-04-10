@@ -68,4 +68,32 @@
   {{ end }}
 </div>
 
+<script>
+(function() {
+  var gap = 24;
+  function layout() {
+    var grid = document.querySelector('.posts-grid');
+    if (!grid) return;
+    var items = Array.from(grid.children);
+    if (window.innerWidth <= 767) {
+      grid.style.height = '';
+      items.forEach(function(el) { el.style.cssText = ''; });
+      return;
+    }
+    var colWidth = (grid.offsetWidth - gap) / 2;
+    var colHeights = [0, 0];
+    items.forEach(function(el, i) {
+      var col = i % 2;
+      el.style.position = 'absolute';
+      el.style.width = colWidth + 'px';
+      el.style.left = col * (colWidth + gap) + 'px';
+      el.style.top = colHeights[col] + 'px';
+      colHeights[col] += el.offsetHeight + gap;
+    });
+    grid.style.height = Math.max(colHeights[0], colHeights[1]) + 'px';
+  }
+  window.addEventListener('load', layout);
+  window.addEventListener('resize', layout);
+})();
+</script>
 {{ end }}

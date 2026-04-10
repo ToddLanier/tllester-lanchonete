@@ -1,0 +1,125 @@
+{{ if .IsHome }}
+<div class="intro">
+  <div class="intro-inner">
+    <div class="intro-slideshow" id="intro-slideshow">
+
+      {{/* Slide 1 */}}
+      <div class="intro-slide active" data-index="0">
+        <div class="intro-slide-media">
+          <img src="/lanchonete/images/paim-1920x1080.jpg" alt="">
+        </div>
+        <p class="intro-slide-title">
+          <a href="{{ "posts/open-call/" | relLangURL }}">
+            {{- if eq .Site.Language.Lang "en" -}}Leaving Open{{- else -}}Deixando em aberto{{- end -}}
+          </a>
+        </p>
+      </div>
+
+      {{/* Slide 2 */}}
+      <div class="intro-slide" data-index="1">
+        <div class="intro-slide-media">
+          <img src="/lanchonete/images/Closing-Programme-1920x1080.jpg" alt="">
+        </div>
+        <p class="intro-slide-title">
+          <a href="{{ "posts/programacao-de-encerramento/" | relLangURL }}">
+            {{- if eq .Site.Language.Lang "en" -}}Post-Planning Cycle{{- else -}}Ciclo de Pos-Planejamento{{- end -}}
+          </a>
+        </p>
+      </div>
+
+      {{/* Slide 3 */}}
+      <div class="intro-slide" data-index="2">
+        <div class="intro-slide-media">
+          <img src="/lanchonete/images/Open-Call-1920x1080.jpg" alt="">
+        </div>
+        <p class="intro-slide-title">
+          <a href="{{ "paim/" | relLangURL }}">
+            {{- if eq .Site.Language.Lang "en" -}}Encounters at Paim{{- else -}}Encontros na Paim{{- end -}}
+          </a>
+        </p>
+      </div>
+
+      {{/* Slide 4 */}}
+      <div class="intro-slide" data-index="3">
+        <div class="intro-slide-media">
+          <img src="/lanchonete/images/qcity5-1920x1080.jpg" alt="">
+        </div>
+        <p class="intro-slide-title">
+          <a href="{{ "cidadequeer/" | relLangURL }}">
+            {{- if eq .Site.Language.Lang "en" -}}Queer City{{- else -}}Cidade Queer{{- end -}}
+          </a>
+        </p>
+      </div>
+
+      {{/* Slide 5 */}}
+      <div class="intro-slide" data-index="4">
+        <div class="intro-slide-media">
+          <img src="/lanchonete/images/haitinobrasil-1920x1080.jpg" alt="">
+        </div>
+        <p class="intro-slide-title">
+          <a href="{{ "episodiohaiti/" | relLangURL }}">
+            {{- if eq .Site.Language.Lang "en" -}}Haiti Episode{{- else -}}Episodio Haiti{{- end -}}
+          </a>
+        </p>
+      </div>
+
+      {{/* Slide 6 */}}
+      <div class="intro-slide" data-index="5">
+        <div class="intro-slide-media">
+          <img src="/lanchonete/images/bg-1280x1080.jpg" alt="">
+        </div>
+        <p class="intro-slide-title">
+          <a href="{{ "zonadamata/" | relLangURL }}">Zona da Mata</a>
+        </p>
+      </div>
+
+      {{/* Logo overlay */}}
+      <a class="intro-logo" href="{{ .Site.Home.RelPermalink }}">
+        <img src="/images/logo_associacao.png" alt="{{ .Site.Title }}">
+      </a>
+
+      {{/* Social media icons */}}
+      <nav class="intro-social" aria-label="Social">
+        <a href="https://www.facebook.com/saopaulolanchonete" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+        </a>
+        <a href="https://vimeo.com/user33288316" target="_blank" rel="noopener" aria-label="Vimeo">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 7.42c-.1 2.13-1.58 5.06-4.47 8.78C14.57 19.73 12.17 21 10.23 21c-1.2 0-2.22-1.1-3.05-3.33-.56-2.03-1.1-4.06-1.66-6.1-.62-2.22-1.28-3.33-1.99-3.33-.15 0-.7.33-1.63.98L1 8.04c1.03-.9 2.04-1.8 3.04-2.7C5.5 4.08 6.6 3.4 7.36 3.33c1.44-.14 2.33.85 2.67 2.96.37 2.28.62 3.7.77 4.25.43 1.94.9 2.92 1.4 2.92.4 0 1-.63 1.8-1.88.8-1.26 1.22-2.21 1.28-2.86.12-1.08-.31-1.62-1.28-1.62-.46 0-.93.1-1.42.32.94-3.1 2.75-4.6 5.42-4.52 1.98.06 2.92 1.34 2.82 3.86z"/></svg>
+        </a>
+        <a href="https://www.flickr.com/photos/127065277@N05" target="_blank" rel="noopener" aria-label="Flickr">
+          <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="7" cy="12" r="4.5"/><circle cx="17" cy="12" r="4.5"/></svg>
+        </a>
+        <a href="https://www.instagram.com/lanchonetepontoorg/" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.5"/></svg>
+        </a>
+      </nav>
+
+      {{/* Horizontal divider line */}}
+      <hr class="intro-divider">
+
+      {{/* White gradient overlay */}}
+      <div class="intro-overlay"></div>
+
+      {{/* Navigation arrows */}}
+      <button class="intro-arrow intro-prev" aria-label="Previous">
+        <span class="intro-arrow-icon">&lsaquo;</span>
+      </button>
+      <button class="intro-arrow intro-next" aria-label="Next">
+        <span class="intro-arrow-icon">&rsaquo;</span>
+      </button>
+
+      {{/* Numbered pagination */}}
+      <ul class="intro-dots">
+        <li class="active"><button aria-label="1 of 6">1</button></li>
+        <li><button aria-label="2 of 6">2</button></li>
+        <li><button aria-label="3 of 6">3</button></li>
+        <li><button aria-label="4 of 6">4</button></li>
+        <li><button aria-label="5 of 6">5</button></li>
+        <li><button aria-label="6 of 6">6</button></li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+<script src="/js/slideshow.js"></script>
+{{ end }}
