@@ -23,7 +23,7 @@
     <div class="eh-container">
       {{ if .Params.coverImage }}
       <a href="{{ .Permalink }}">
-        <img src="/episodiohaiti/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="eh-post-thumbnail">
+        <img src="{{ printf "episodiohaiti/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="eh-post-thumbnail">
       </a>
       {{ end }}
       <div class="eh-entry-meta">

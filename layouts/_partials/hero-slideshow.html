@@ -6,7 +6,7 @@
       {{/* Slide 1 */}}
       <div class="intro-slide active" data-index="0">
         <div class="intro-slide-media">
-          <img src="/lanchonete/images/paim-1920x1080.jpg" alt="">
+          <img src="{{ "lanchonete/images/paim-1920x1080.jpg" | relURL }}" alt="">
         </div>
         <p class="intro-slide-title">
           <a href="{{ "posts/open-call/" | relLangURL }}">
@@ -18,7 +18,7 @@
       {{/* Slide 2 */}}
       <div class="intro-slide" data-index="1">
         <div class="intro-slide-media">
-          <img src="/lanchonete/images/Closing-Programme-1920x1080.jpg" alt="">
+          <img src="{{ "lanchonete/images/Closing-Programme-1920x1080.jpg" | relURL }}" alt="">
         </div>
         <p class="intro-slide-title">
           <a href="{{ "posts/programacao-de-encerramento/" | relLangURL }}">
@@ -30,7 +30,7 @@
       {{/* Slide 3 */}}
       <div class="intro-slide" data-index="2">
         <div class="intro-slide-media">
-          <img src="/lanchonete/images/Open-Call-1920x1080.jpg" alt="">
+          <img src="{{ "lanchonete/images/Open-Call-1920x1080.jpg" | relURL }}" alt="">
         </div>
         <p class="intro-slide-title">
           <a href="{{ "paim/" | relLangURL }}">
@@ -42,7 +42,7 @@
       {{/* Slide 4 */}}
       <div class="intro-slide" data-index="3">
         <div class="intro-slide-media">
-          <img src="/lanchonete/images/qcity5-1920x1080.jpg" alt="">
+          <img src="{{ "lanchonete/images/qcity5-1920x1080.jpg" | relURL }}" alt="">
         </div>
         <p class="intro-slide-title">
           <a href="{{ "cidadequeer/" | relLangURL }}">
@@ -54,7 +54,7 @@
       {{/* Slide 5 */}}
       <div class="intro-slide" data-index="4">
         <div class="intro-slide-media">
-          <img src="/lanchonete/images/haitinobrasil-1920x1080.jpg" alt="">
+          <img src="{{ "lanchonete/images/haitinobrasil-1920x1080.jpg" | relURL }}" alt="">
         </div>
         <p class="intro-slide-title">
           <a href="{{ "episodiohaiti/" | relLangURL }}">
@@ -66,7 +66,7 @@
       {{/* Slide 6 */}}
       <div class="intro-slide" data-index="5">
         <div class="intro-slide-media">
-          <img src="/lanchonete/images/bg-1280x1080.jpg" alt="">
+          <img src="{{ "lanchonete/images/bg-1280x1080.jpg" | relURL }}" alt="">
         </div>
         <p class="intro-slide-title">
           <a href="{{ "zonadamata/" | relLangURL }}">Zona da Mata</a>
@@ -75,7 +75,7 @@
 
       {{/* Logo overlay */}}
       <a class="intro-logo" href="{{ .Site.Home.RelPermalink }}">
-        <img src="/images/logo_associacao.png" alt="{{ .Site.Title }}">
+        <img src="{{ "images/logo_associacao.png" | relURL }}" alt="{{ .Site.Title }}">
       </a>
 
       {{/* Social media icons */}}
@@ -121,5 +121,5 @@
     </div>
   </div>
 </div>
-<script src="/js/slideshow.js"></script>
+<script src="{{ "js/slideshow.js" | relURL }}"></script>
 {{ end }}

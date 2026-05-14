@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }} — Zona da Mata</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
-  <link rel="stylesheet" href="/zonadamata/zonadamata.css">
+  <link rel="stylesheet" href="{{ "zonadamata/zonadamata.css" | relURL }}">
 </head>
 
 <body class="zonadamata">
@@ -17,14 +17,14 @@
       <div class="zdm-header-inner">
         <div class="zdm-logo-cell">
           <a href="{{ .Site.Home.RelPermalink }}" class="zdm-back-link" aria-label="Voltar para Lanchonete">Lanchonete</a>
-          <h1 id="zdm-logo"><a href="/zonadamata/">Zona da Mata</a></h1>
+          <h1 id="zdm-logo"><a href="{{ "zonadamata/" | relURL }}">Zona da Mata</a></h1>
         </div>
         <div class="zdm-nav-cell">
           <nav class="zdm-nav" role="navigation" aria-label="Navegação principal">
             <ul>
-              <li><a href="/zonadamata/posts/">Publicações</a></li>
-              <li><a href="/zonadamata/pages/sobre/">Sobre Zona da Mata</a></li>
-              <li><a href="/zonadamata/pages/contact/">Contato</a></li>
+              <li><a href="{{ "zonadamata/posts/" | relURL }}">Publicações</a></li>
+              <li><a href="{{ "zonadamata/pages/sobre/" | relURL }}">Sobre Zona da Mata</a></li>
+              <li><a href="{{ "zonadamata/pages/contact/" | relURL }}">Contato</a></li>
             </ul>
             {{ partial "lang-switcher.html" . }}
           </nav>

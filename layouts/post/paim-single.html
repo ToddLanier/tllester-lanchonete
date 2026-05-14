@@ -7,14 +7,14 @@
       <article>
 
         {{ if .Params.coverImage }}
-        <img src="/paim/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="paim-single-featured">
+        <img src="{{ printf "paim/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="paim-single-featured">
         {{ end }}
 
         <div class="paim-single-meta">
           <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 January 2006" }}</time>
           {{ if .Params.categories }}
           {{ range .Params.categories }}
-          &nbsp;&middot;&nbsp;<a href="/paim/posts/">{{ . }}</a>
+          &nbsp;&middot;&nbsp;<a href="{{ "paim/posts/" | relURL }}">{{ . }}</a>
           {{ end }}
           {{ end }}
         </div>

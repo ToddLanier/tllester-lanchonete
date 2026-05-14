@@ -13,7 +13,7 @@
       <div class="site-branding">
         {{ if not .IsHome }}
         <a href="{{ .Site.Home.RelPermalink }}" aria-label="{{ .Site.Title }}">
-          <img class="custom-logo" src="/images/logo_associacao.png" alt="{{ .Site.Title }}">
+          <img class="custom-logo" src="{{ "images/logo_associacao.png" | relURL }}" alt="{{ .Site.Title }}">
         </a>
         <div class="site-branding-text">
           <p class="site-title"><a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></p>

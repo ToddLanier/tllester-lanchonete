@@ -17,7 +17,7 @@
           {{ if and (not .IsSection) (not .IsHome) (in .File.Path "custom/artist") }}
           <div class="arq-card">
             {{ if .Params.coverImage }}
-            <img class="arq-card-img" src="/arquivo/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+            <img class="arq-card-img" src="{{ printf "arquivo/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
             {{ end }}
             <div class="arq-card-body">
               <h3 class="arq-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
@@ -43,7 +43,7 @@
           {{ if in .File.Path "posts/" }}
           <div class="arq-card">
             {{ if .Params.coverImage }}
-            <img class="arq-card-img" src="/arquivo/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+            <img class="arq-card-img" src="{{ printf "arquivo/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
             {{ end }}
             <div class="arq-card-body">
               <div class="arq-card-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></div>

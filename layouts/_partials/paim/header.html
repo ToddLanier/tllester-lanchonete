@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap">
-  <link rel="stylesheet" href="/paim/paim.css">
+  <link rel="stylesheet" href="{{ "paim/paim.css" | relURL }}">
 </head>
 
 <body class="paim">
@@ -18,12 +18,12 @@
   <div class="paim-navbar-inner">
     <div class="paim-navbar-brand">
       <a href="{{ .Site.Home.RelPermalink }}" class="paim-back-link" aria-label="Voltar para Lanchonete">Lanchonete</a>
-      <a href="/paim/">A Rua Paim</a>
+      <a href="{{ "paim/" | relURL }}">A Rua Paim</a>
     </div>
     <ul class="paim-nav">
-      <li><a href="/paim/pages/apresentacao/">Apresentação</a></li>
-      <li><a href="/paim/pages/museu-da-vizinhanca/">Museu da Vizinhança</a></li>
-      <li><a href="/paim/posts/">Posts</a></li>
+      <li><a href="{{ "paim/pages/apresentacao/" | relURL }}">Apresentação</a></li>
+      <li><a href="{{ "paim/pages/museu-da-vizinhanca/" | relURL }}">Museu da Vizinhança</a></li>
+      <li><a href="{{ "paim/posts/" | relURL }}">Posts</a></li>
     </ul>
     {{ partial "lang-switcher.html" . }}
   </div>

@@ -8,7 +8,7 @@
       {{ if not .Params.private }}
       <div class="arq-card">
         {{ if .Params.coverImage }}
-        <img class="arq-card-img" src="/arquivo/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+        <img class="arq-card-img" src="{{ printf "arquivo/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
         {{ end }}
         <div class="arq-card-body">
           <div class="arq-card-meta">

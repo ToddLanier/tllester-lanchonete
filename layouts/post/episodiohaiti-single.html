@@ -12,7 +12,7 @@
       <h1 class="eh-single-title">{{ .Title }}</h1>
 
       {{ if .Params.coverImage }}
-      <img src="/episodiohaiti/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="eh-single-featured">
+      <img src="{{ printf "episodiohaiti/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="eh-single-featured">
       {{ end }}
 
       <div class="eh-single-body">

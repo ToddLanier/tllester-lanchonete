@@ -13,7 +13,7 @@
     </div>
 
     {{ if .Params.coverImage }}
-    <img class="lanch-single-cover" src="/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+    <img class="lanch-single-cover" src="{{ printf "posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
     {{ end }}
 
     <div class="lanch-single-content">

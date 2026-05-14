@@ -11,7 +11,7 @@
       </div>
 
       {{ if .Params.coverImage }}
-      <img class="arq-single-cover" src="/arquivo/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+      <img class="arq-single-cover" src="{{ printf "arquivo/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
       {{ end }}
 
       <div class="arq-single-content">

@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap">
-  <link rel="stylesheet" href="/cidadequeer/cidadequeer.css">
+  <link rel="stylesheet" href="{{ "cidadequeer/cidadequeer.css" | relURL }}">
 </head>
 
 <body class="cidadequeer">
@@ -18,34 +18,34 @@
 
   <header id="cq-masthead" role="banner">
     <div class="cq-branding">
-      <a href="{{ .Site.Home.RelPermalink }}" aria-label="Home"><img src="/cidadequeer/logo_associacaoPQ.png" class="back-to-lanchonete"></a>
-            <h1 class="cq-site-title"><a href="/cidadequeer/" rel="home">cidade queer</a></h1>
-      <a href="/cidadequeer/"><p class="cq-site-description">queer city</p></a>
+      <a href="{{ .Site.Home.RelPermalink }}" aria-label="Home"><img src="{{ "cidadequeer/logo_associacaoPQ.png" | relURL }}" class="back-to-lanchonete"></a>
+            <h1 class="cq-site-title"><a href="{{ "cidadequeer/" | relURL }}" rel="home">cidade queer</a></h1>
+      <a href="{{ "cidadequeer/" | relURL }}"><p class="cq-site-description">queer city</p></a>
 
     </div>
 
     <nav id="cq-navigation" role="navigation">
       <ul class="cq-nav">
         <li class="cq-has-dropdown">
-          <a href="/cidadequeer/pages/sobre-about/">sobre / about</a>
+          <a href="{{ "cidadequeer/pages/sobre-about/" | relURL }}">sobre / about</a>
           <ul class="cq-dropdown">
-            <li><a href="/cidadequeer/pages/partners-parceiros/">partners / parceiros</a></li>
-            <li><a href="/cidadequeer/pages/participantes-participants/">participantes / participants</a></li>
+            <li><a href="{{ "cidadequeer/pages/partners-parceiros/" | relURL }}">partners / parceiros</a></li>
+            <li><a href="{{ "cidadequeer/pages/participantes-participants/" | relURL }}">participantes / participants</a></li>
           </ul>
         </li>
-        <li><a href="/cidadequeer/pages/calendario-events/">calendário / events</a></li>
-        <li><a href="/cidadequeer/pages/referencias-archive/">referências / archive</a></li>
+        <li><a href="{{ "cidadequeer/pages/calendario-events/" | relURL }}">calendário / events</a></li>
+        <li><a href="{{ "cidadequeer/pages/referencias-archive/" | relURL }}">referências / archive</a></li>
         <li class="cq-has-dropdown">
-          <a href="/cidadequeer/pages/projetos-projects/">projetos / projects</a>
+          <a href="{{ "cidadequeer/pages/projetos-projects/" | relURL }}">projetos / projects</a>
           <ul class="cq-dropdown">
-            <li><a href="/cidadequeer/pages/ataque/">ATAQUE!</a></li>
-            <li><a href="/cidadequeer/pages/janta/">janta: queer food/queer politics</a></li>
-            <li><a href="/cidadequeer/pages/explode/">EXPLODE! Residency</a></li>
-            <li><a href="/cidadequeer/pages/laboratorio-grafico-desviante/">laboratório gráfico desviante</a></li>
-            <li><a href="/cidadequeer/pages/que-cidade-voce-queer/">que cidade você queer?</a></li>
+            <li><a href="{{ "cidadequeer/pages/ataque/" | relURL }}">ATAQUE!</a></li>
+            <li><a href="{{ "cidadequeer/pages/janta/" | relURL }}">janta: queer food/queer politics</a></li>
+            <li><a href="{{ "cidadequeer/pages/explode/" | relURL }}">EXPLODE! Residency</a></li>
+            <li><a href="{{ "cidadequeer/pages/laboratorio-grafico-desviante/" | relURL }}">laboratório gráfico desviante</a></li>
+            <li><a href="{{ "cidadequeer/pages/que-cidade-voce-queer/" | relURL }}">que cidade você queer?</a></li>
           </ul>
         </li>
-        <li><a href="/cidadequeer/posts/">notícias / news</a></li>
+        <li><a href="{{ "cidadequeer/posts/" | relURL }}">notícias / news</a></li>
       </ul>
       {{ partial "lang-switcher.html" . }}
     </nav>

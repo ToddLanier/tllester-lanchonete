@@ -11,7 +11,7 @@
     </div>
 
     {{ if .Params.coverImage }}
-    <img src="/zonadamata/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="zdm-single-featured">
+    <img src="{{ printf "zonadamata/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="zdm-single-featured">
     {{ end }}
 
     <div class="zdm-single-content">

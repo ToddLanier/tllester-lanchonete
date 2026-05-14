@@ -10,7 +10,7 @@
   <article class="zdm-post">
     {{ if .Params.coverImage }}
     <a href="{{ .Permalink }}">
-      <img src="/zonadamata/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="zdm-post-thumbnail">
+      <img src="{{ printf "zonadamata/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="zdm-post-thumbnail">
     </a>
     {{ end }}
     <h2 class="zdm-entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>

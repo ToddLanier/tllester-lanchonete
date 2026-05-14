@@ -18,7 +18,7 @@
   <div class="cq-fp-featured">
     <a href="{{ $first.Permalink }}" rel="bookmark">
       {{ if $first.Params.coverImage }}
-      <img src="/cidadequeer/posts/images/{{ $first.Params.coverImage }}" alt="{{ $first.Title }}">
+      <img src="{{ printf "cidadequeer/posts/images/%s" $first.Params.coverImage | relURL }}" alt="{{ $first.Title }}">
       {{ end }}
     </a>
     <span class="cq-post-date">{{ $first.Date.Format "January 2, 2006" }}</span>
@@ -30,7 +30,7 @@
     <div class="cq-fp-sidebar-item">
       <a href="{{ .Permalink }}" rel="bookmark">
         {{ if .Params.coverImage }}
-        <img src="/cidadequeer/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+        <img src="{{ printf "cidadequeer/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
         {{ end }}
       </a>
       <span class="cq-post-date">{{ .Date.Format "January 2, 2006" }}</span>
@@ -42,7 +42,7 @@
     <div class="cq-fp-sidebar-item">
       <a href="{{ .Permalink }}" rel="bookmark">
         {{ if .Params.coverImage }}
-        <img src="/cidadequeer/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+        <img src="{{ printf "cidadequeer/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
         {{ end }}
       </a>
       <span class="cq-post-date">{{ .Date.Format "January 2, 2006" }}</span>
@@ -61,7 +61,7 @@
   <div class="cq-fp-grid-item">
     <a href="{{ .Permalink }}" rel="bookmark">
       {{ if .Params.coverImage }}
-      <img src="/cidadequeer/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+      <img src="{{ printf "cidadequeer/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
       {{ end }}
     </a>
     <span class="cq-post-date">{{ .Date.Format "January 2, 2006" }}</span>
@@ -71,7 +71,7 @@
 </div><!-- .cq-fp-second -->
 
 <div class="cq-fp-readmore">
-  <a href="/cidadequeer/posts/" class="cq-read-more-link">Leia mais / read more</a>
+  <a href="{{ "cidadequeer/posts/" | relURL }}" class="cq-read-more-link">Leia mais / read more</a>
 </div>
 {{ end }}
 

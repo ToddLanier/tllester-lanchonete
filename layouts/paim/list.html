@@ -11,7 +11,7 @@
     <h1 class="paim-hero-title">A Rua Paim</h1>
     <p class="paim-hero-tagline">como você nunca viu</p>
     {{ if $posts }}
-    <a href="/paim/posts/" class="paim-hero-btn">Ver publicações</a>
+    <a href="{{ "paim/posts/" | relURL }}" class="paim-hero-btn">Ver publicações</a>
     {{ end }}
   </div>
   <span class="paim-hero-scroll" aria-hidden="true">&#8595;</span>
@@ -29,7 +29,7 @@
       <div class="paim-post-card">
         {{ if .Params.coverImage }}
         <a href="{{ .Permalink }}">
-          <img src="/paim/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="paim-post-card-img">
+          <img src="{{ printf "paim/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="paim-post-card-img">
         </a>
         {{ end }}
         <div class="paim-post-card-body">
@@ -47,7 +47,7 @@
 
     {{ if gt (len $posts) 6 }}
     <div class="paim-readmore">
-      <a href="/paim/posts/" class="paim-readmore-link">Ver todas as publicações</a>
+      <a href="{{ "paim/posts/" | relURL }}" class="paim-readmore-link">Ver todas as publicações</a>
     </div>
     {{ end }}
   </div>

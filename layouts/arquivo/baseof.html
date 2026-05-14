@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ .Site.Title }} — Arquivo{{ else }}{{ .Title }} — Arquivo{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ end }}{{ end }}">
-  <link rel="stylesheet" href="/arquivo/arquivo.css">
+  <link rel="stylesheet" href="{{ "arquivo/arquivo.css" | relURL }}">
 </head>
 
 <body class="arquivo">
@@ -16,15 +16,15 @@
     <div class="arq-container arq-nav-items">
       <div class="arq-navbar-inner">
         <div class="arq-brand">
-          <img src="/lanchonete.png">
-          <a href="/" class="arq-back-link" aria-label="Voltar para Lanchonete">&larr; Lanchonete</a>
+          <img src="{{ "lanchonete.png" | relURL }}">
+          <a href="{{ "" | relURL }}" class="arq-back-link" aria-label="Voltar para Lanchonete">&larr; Lanchonete</a>
         </div>
         <nav class="arq-nav" role="navigation" aria-label="Navegação principal">
           <ul>
 
-            <li><a href="/arquivo/">Arquivo</a></li>
-            <li><a href="/arquivo/pages/people/">Participantes</a></li>
-            <li><a href="/arquivo/posts/">Temas</a></li>
+            <li><a href="{{ "arquivo/" | relURL }}">Arquivo</a></li>
+            <li><a href="{{ "arquivo/pages/people/" | relURL }}">Participantes</a></li>
+            <li><a href="{{ "arquivo/posts/" | relURL }}">Temas</a></li>
           </ul>
         </nav>
         {{ partial "lang-switcher.html" . }}
@@ -38,7 +38,7 @@
 
   <footer id="arq-footer">
     <div class="arq-container">
-      Arquivo &copy; <a href="/">Lanchonete.org</a>
+      Arquivo &copy; <a href="{{ "" | relURL }}">Lanchonete.org</a>
     </div>
   </footer>
 

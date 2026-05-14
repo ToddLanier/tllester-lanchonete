@@ -14,7 +14,7 @@
 
   {{ if .Params.coverImage }}
   <div class="entry-media">
-    <img src="/lanchonete/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+    <img src="{{ printf "lanchonete/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
   </div>
   {{ end }}
 

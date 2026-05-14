@@ -15,7 +15,7 @@
     <header class="cq-entry-header">
       {{ if .Params.coverImage }}
       <a href="{{ .Permalink }}" rel="bookmark">
-        <img src="/cidadequeer/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+        <img src="{{ printf "cidadequeer/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
       </a>
       {{ end }}
 
@@ -28,7 +28,7 @@
         {{ if .Params.categories }}
         <span class="cq-cat-links">
           {{ range .Params.categories }}
-          <a href="{{ "/cidadequeer/posts/" | relURL }}">{{ . }}</a>
+          <a href="{{ "cidadequeer/posts/" | relURL }}">{{ . }}</a>
           {{ end }}
         </span>
         {{ end }}

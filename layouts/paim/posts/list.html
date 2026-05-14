@@ -16,7 +16,7 @@
         {{ if .Params.coverImage }}
         <div class="paim-post-item-img">
           <a href="{{ .Permalink }}">
-            <img src="/paim/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+            <img src="{{ printf "paim/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}">
           </a>
         </div>
         {{ end }}

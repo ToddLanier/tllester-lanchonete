@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }} — Episódio Haiti</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
-  <link rel="stylesheet" href="/episodiohaiti/episodiohaiti.css">
+  <link rel="stylesheet" href="{{ "episodiohaiti/episodiohaiti.css" | relURL }}">
 </head>
 
 <body class="episodiohaiti">
@@ -15,17 +15,17 @@
   <div class="eh-header-inside">
     <div class="eh-logo">
       <a href="{{ .Site.Home.RelPermalink }}" class="eh-back-link" aria-label="Voltar para Lanchonete">Lanchonete</a>
-      <h1><a href="/episodiohaiti/">Episódio Haiti</a></h1>
+      <h1><a href="{{ "episodiohaiti/" | relURL }}">Episódio Haiti</a></h1>
     </div>
     <div class="eh-nav-cell">
       <nav class="eh-nav" role="navigation" aria-label="Navegação principal">
         <ul>
-          <li><a href="/episodiohaiti/pages/contexto-haiti/">contexto</a></li>
-          <li><a href="/episodiohaiti/posts/hatianos-no-brasil/">Haitianos no Brasil</a></li>
-          <li><a href="/episodiohaiti/posts/caminho-eua/">Trânsito: EUA</a></li>
-          <li><a href="/episodiohaiti/pages/timeline/">timeline</a></li>
-          <li><a href="/episodiohaiti/pages/noticias-na-midia/">notícias na mídia</a></li>
-          <li><a href="/episodiohaiti/pages/agradecimentos/">agradecimentos</a></li>
+          <li><a href="{{ "episodiohaiti/pages/contexto-haiti/" | relURL }}">contexto</a></li>
+          <li><a href="{{ "episodiohaiti/posts/hatianos-no-brasil/" | relURL }}">Haitianos no Brasil</a></li>
+          <li><a href="{{ "episodiohaiti/posts/caminho-eua/" | relURL }}">Trânsito: EUA</a></li>
+          <li><a href="{{ "episodiohaiti/pages/timeline/" | relURL }}">timeline</a></li>
+          <li><a href="{{ "episodiohaiti/pages/noticias-na-midia/" | relURL }}">notícias na mídia</a></li>
+          <li><a href="{{ "episodiohaiti/pages/agradecimentos/" | relURL }}">agradecimentos</a></li>
         </ul>
       </nav>
     </div>
