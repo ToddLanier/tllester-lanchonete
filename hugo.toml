@@ -1,6 +1,9 @@
 baseURL = 'https://lanchonete.tllester.info/'
 title = 'Lanchonete'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 defaultContentLanguage = 'pt'
 defaultContentLanguageInSubdir = false
 
