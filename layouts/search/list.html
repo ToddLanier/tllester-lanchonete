@@ -1,13 +1,29 @@
 {{ define "main" }}
-    <h1>{{ .Page.Title }}</h1>
-    {{ .Content }}
-    {{ range sort .Pages "Date" "desc" }}
-        {{ if not .Params.private }}
-        <div class="post">
-            <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .PublishDate.Format "Jan. 2, 2006" }} - 
-                {{ .Title }}</a></h1>
-            <p>{{ .Summary }}</p>
+<div class="search-results">
+  <h1>Search Results</h1>
+  <p class="search-query"></p>
+  <p class="result-count"></p>
+
+  <div class="search-result-list">
+    {{ range where .Site.RegularPages "Section" "!=" "" }}
+      {{ if not .Params.private }}
+      <article class="search-result-item">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="search-result-meta">
+          <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+          <span>{{ .Section }}</span>
         </div>
-        {{ end }}
+        <p class="excerpt">{{ .Summary | plainify }}</p>
+      </article>
+      {{ end }}
     {{ end }}
+  </div>
+
+  <div class="no-results" style="display:none">
+    <p>No results found.</p>
+    <p><a href="{{ .Site.Home.RelPermalink }}">Back to home</a></p>
+  </div>
+</div>
+
+<script src="{{ "js/search.js" | relURL }}"></script>
 {{ end }}

@@ -1,0 +1,181 @@
+/* Search drawer + toggle (shared across all baseofs) */
+
+/* Main baseof + arquivo + paim + zdm: button flows inline next to nav items */
+.main-navigation-container .search-toggle,
+.arq-navbar-inner .search-toggle,
+.paim-navbar-inner .search-toggle,
+.zdm-nav .search-toggle {
+  position: static;
+  transform: none;
+  display: inline-flex;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+
+/* Haiti: button inside ul as <li>, no extra margin */
+.eh-nav .search-toggle {
+  position: static;
+  transform: none;
+  display: inline-flex;
+  vertical-align: middle;
+  width: auto;
+  height: auto;
+  padding: 0;
+}
+
+/* Cidadequeer: button inline inside nav ul li */
+.cq-nav .search-toggle {
+  position: static;
+  transform: none;
+  width: auto;
+  height: auto;
+  padding: 8px 14px;
+}
+
+.search-drawer {
+  display: none;
+  background: #fff;
+  width: 100%;
+  padding: 2em 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  box-sizing: border-box;
+}
+
+/* When drawer open, push fixed headers below it (drawer height ~120px) */
+body.search-open #eh-header,
+body.search-open #paim-navbar {
+  top: 120px;
+}
+
+.search-drawer .search-input {
+  border: 1px solid #ccc;
+  text-align: center;
+  font-size: 28px;
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+  background: transparent;
+  color: #1a1a1a;
+  padding: 0.5em;
+  font-family: inherit;
+}
+
+.search-drawer .search-input:focus,
+.search-drawer .search-input:active {
+  box-shadow: none;
+  outline: none;
+}
+
+.search-toggle {
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  z-index: 1000;
+  width: 40px;
+  height: 40px;
+  padding: 8px;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+}
+
+.search-toggle:hover {
+  opacity: 0.7;
+}
+
+.search-toggle .icon-search {
+  display: block;
+}
+
+.search-toggle .icon-close {
+  display: none;
+}
+
+/* Search results page */
+.search-results {
+  padding: 2em 0;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.search-results h1 {
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+.search-query {
+  font-size: 1.1em;
+  color: #5a5a5a;
+  margin-bottom: 1.5em;
+}
+
+.search-result-list {
+  margin-bottom: 2em;
+}
+
+.search-result-item {
+  margin-bottom: 2.5em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item h2 {
+  margin-bottom: 0.5em;
+  font-size: 1.4em;
+}
+
+.search-result-item h2 a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.search-result-item h2 a:hover {
+  color: #5a5a5a;
+}
+
+.search-result-meta {
+  font-size: 0.9em;
+  color: #5a5a5a;
+  margin-bottom: 0.5em;
+}
+
+.search-result-meta span {
+  margin-right: 1em;
+}
+
+.search-result-item .excerpt {
+  color: #333;
+  line-height: 1.6;
+  margin-top: 0.5em;
+}
+
+.result-count {
+  font-weight: bold;
+  margin-top: 1.5em;
+  color: #5a5a5a;
+}
+
+.no-results {
+  padding: 2em;
+  text-align: center;
+  color: #5a5a5a;
+}
+
+.no-results p {
+  margin-bottom: 1em;
+}

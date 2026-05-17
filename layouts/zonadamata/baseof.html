@@ -7,9 +7,18 @@
   <title>{{ block "title" . }}{{ .Title }} — Zona da Mata{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}Zona da Mata — no quintal do Goethe-Institut São Paulo{{ end }}{{ end }}">
   <link rel="stylesheet" href="{{ "zonadamata/zonadamata.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
 </head>
 
 <body class="zonadamata">
+
+<!-- Global Search Drawer -->
+<div class="search-drawer" aria-expanded="false" role="region">
+  <form role="search" method="get" class="searchform" action="{{ "search/" | relLangURL }}">
+    <input type="search" class="search-input" placeholder="Search …" value="" name="q">
+  </form>
+</div>
+
 <div id="zdm-outer">
 
   <div class="zdm-container">
@@ -26,6 +35,9 @@
               <li><a href="{{ "zonadamata/pages/sobre/" | relURL }}">Sobre Zona da Mata</a></li>
               <li><a href="{{ "zonadamata/pages/contact/" | relURL }}">Contato</a></li>
             </ul>
+            <button class="search-toggle" aria-label="Toggle search">
+              <svg class="icon-search" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg><svg class="icon-close" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display:none"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
           </nav>
         </div>
       </div>
@@ -47,5 +59,8 @@
   </div>
 
 </div>
+
+<script src="{{ "js/main.js" | relURL }}"></script>
+
 </body>
 </html>
