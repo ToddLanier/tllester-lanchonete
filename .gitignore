@@ -15,3 +15,7 @@ scripts/
 .backup/
 
 cleanup/
+
+# Python bytecode cache (from migration/scrape scripts)
+__pycache__/
+*.pyc

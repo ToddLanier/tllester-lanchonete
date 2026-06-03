@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ block "title" . }}{{ if .IsHome }}Arraiá da Paim{{ else }}{{ .Title }} — Arraiá da Paim{{ end }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}O Grande Arraiá da Paim — festival com atividades culturais, instalações artísticas e sustentabilidade.{{ end }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jacques+Francois&family=Montserrat:wght@300;400;700&family=Poppins:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="{{ "arraiadapaim/arraiadapaim.gen.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "arraiadapaim/arraiadapaim.css" | relURL }}">
+</head>
+
+<body class="arraiadapaim">
+
+{{ $base := "arraiadapaim/" }}
+<!-- host-site back link to parent Lanchonete -->
+<div class="aap-parentbar"><a href="{{ .Site.Home.RelPermalink }}">&#8617; Lanchonete</a></div>
+
+<!-- shared sticky navigation (Zyro BlockNavigation recreation) -->
+<nav id="aap-nav" aria-label="Arraiá da Paim">
+  <div class="aap-nav-inner">
+    <a class="aap-nav-logo" href="{{ $base | relURL }}" aria-label="Arraiá da Paim — início">
+      {{ with site.Data.arraiadapaim.chrome }}<img src="{{ .logo | relURL }}" alt="Arraiá da Paim">{{ end }}
+    </a>
+    <input type="checkbox" id="aap-nav-check" class="aap-nav-check">
+    <label class="aap-nav-toggle" for="aap-nav-check" aria-label="Menu"><span></span><span></span><span></span></label>
+    <ul class="aap-menu">
+      <li><a href="{{ $base | relURL }}">Home</a></li>
+      <li class="aap-has-sub">
+        <a href="{{ "arraiadapaim/2025/" | relURL }}" class="aap-sub-toggle">EVENTO</a>
+        <ul class="aap-submenu">
+          <li><a href="{{ "arraiadapaim/2025/" | relURL }}">2025</a></li>
+          <li><a href="{{ "arraiadapaim/2024/" | relURL }}">2024</a></li>
+        </ul>
+      </li>
+      <li><a href="{{ "arraiadapaim/oficinas/" | relURL }}">OFICINAS</a></li>
+      <li><a href="{{ "arraiadapaim/instalacoes/" | relURL }}">INSTALAÇÕES</a></li>
+      <li><a href="{{ "arraiadapaim/colaboradores/" | relURL }}">COLABORADORES</a></li>
+      <li><a href="{{ "arraiadapaim/sobre/" | relURL }}">SOBRE</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main>
+{{ block "main" . }}{{ end }}
+</main>
+
+{{ partial "arraiadapaim/footer.html" . }}
+
+</body>
+</html>

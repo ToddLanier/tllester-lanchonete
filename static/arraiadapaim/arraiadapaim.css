@@ -1,0 +1,235 @@
+/* ============================================================================
+   Arraiá da Paim — hand-written scaffolding for the pixel-exact Zyro clone.
+   Design tokens + ported Zyro typography live in arraiadapaim.gen.css.
+   This file: reset, absolute-grid layout, sticky nav, buttons, footer chrome.
+   Everything scoped under body.arraiadapaim so it never leaks into the
+   surrounding Lanchonete site.
+   ============================================================================ */
+
+body.arraiadapaim {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-secondary, 'Poppins', sans-serif);
+  color: rgb(26, 26, 26);
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+body.arraiadapaim *,
+body.arraiadapaim *::before,
+body.arraiadapaim *::after { box-sizing: border-box; }
+
+body.arraiadapaim img { max-width: none; }
+
+/* ---- parent-site back link (host-site addition, not part of the clone) ---- */
+.aap-parentbar {
+  background: rgb(47, 58, 41);
+  font-family: var(--font-secondary, 'Poppins', sans-serif);
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.aap-parentbar a {
+  display: inline-block;
+  padding: 6px 16px;
+  color: rgb(255, 245, 213);
+  text-decoration: none;
+}
+.aap-parentbar a:hover { color: #fff; }
+
+/* ----------------------------------------------------------- sticky nav bar */
+#aap-nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: rgb(255, 245, 213);
+  border-bottom: 1px solid rgba(0, 0, 0, .06);
+}
+.aap-nav-inner {
+  width: 1240px;
+  max-width: 100%;
+  margin: 0 auto;
+  min-height: 106px;
+  padding: 20px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+}
+.aap-nav-logo { display: flex; align-items: center; }
+.aap-nav-logo img { height: 66px; width: auto; display: block; }
+
+.aap-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  font-family: var(--nav-link-font-family, 'Poppins', sans-serif);
+  font-weight: var(--nav-link-font-weight, 500);
+  font-size: var(--nav-link-font-size, 14px);
+  letter-spacing: var(--nav-link-letter-spacing, .1em);
+  text-transform: var(--nav-link-text-transform, uppercase);
+}
+.aap-menu > li { position: relative; }
+.aap-menu a {
+  color: var(--nav-link-color, rgb(26, 26, 26));
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color .2s;
+}
+.aap-menu a:hover { color: var(--nav-link-color-hover, rgb(92, 103, 86)); }
+
+.aap-menu .aap-has-sub > .aap-sub-toggle { cursor: default; }
+.aap-submenu {
+  list-style: none;
+  margin: 0;
+  padding: 8px 0;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgb(255, 245, 213);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, .12);
+  min-width: 120px;
+  display: none;
+  text-align: center;
+}
+.aap-menu .aap-has-sub:hover .aap-submenu,
+.aap-menu .aap-has-sub:focus-within .aap-submenu { display: block; }
+.aap-submenu li { padding: 6px 18px; }
+
+/* mobile menu toggle (checkbox hack — no JS needed) */
+.aap-nav-toggle, .aap-nav-check { display: none; }
+
+@media (max-width: 920px) {
+  .aap-nav-inner { min-height: 77px; padding: 16px; }
+  .aap-nav-logo img { height: 29px; }
+  .aap-nav-toggle {
+    display: inline-flex; flex-direction: column; gap: 5px;
+    background: none; border: 0; cursor: pointer; padding: 6px;
+  }
+  .aap-nav-toggle span { width: 26px; height: 2px; background: rgb(26, 26, 26); display: block; }
+  .aap-menu {
+    position: absolute; top: 100%; left: 0; right: 0;
+    flex-direction: column; align-items: flex-end;
+    gap: 0; padding: 8px 16px 16px;
+    background: rgb(255, 245, 213);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .12);
+    display: none;
+  }
+  .aap-nav-check:checked ~ .aap-menu { display: flex; }
+  .aap-menu > li { padding: 10px 0; }
+  .aap-submenu { position: static; transform: none; box-shadow: none; display: block; padding: 6px 0 0; }
+}
+
+/* --------------------------------------------------------- absolute grid */
+.aap-section {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: var(--dth);
+  padding: var(--dtpad, 0);
+  background-size: cover;
+  background-position: var(--bgpos, center);
+  background-repeat: no-repeat;
+  overflow: hidden;            /* clip just like the Zyro block viewport */
+}
+.aap-section.aap-bgimg { background-image: var(--bgimg); }
+
+.aap-canvas {
+  position: relative;
+  width: 1224px;
+  max-width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.aap-el {
+  position: absolute;
+  top: var(--dt-t);
+  left: var(--dt-l);
+  width: var(--dt-w);
+  height: var(--dt-h);
+  display: flex;
+}
+.aap-el > .text-box { width: 100%; }
+.aap-el > .text-box > :first-child { margin-top: 0; }
+
+.aap-img img,
+.aap-el > img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+@media (max-width: 920px) {
+  .aap-section { min-height: var(--mbh); padding: var(--mbpad, 16px); }
+  .aap-canvas { width: var(--mbw, 328px); }
+  .aap-el {
+    top: var(--mb-t);
+    left: var(--mb-l);
+    width: var(--mb-w);
+    height: var(--mb-h);
+  }
+}
+
+/* ------------------------------------------------------------------ buttons */
+.aap-btn {
+  display: flex;
+  width: 100%;            /* Zyro buttons fill their element box (box is sized to the button) */
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 0 var(--grid-button-primary-padding-x, 40px);
+  color: var(--fc, inherit);
+  background: var(--bg, transparent);
+  border: var(--bw, 0) solid var(--bc, transparent);
+  border-radius: 999px;
+  font-family: var(--grid-button-primary-font-family, 'Poppins', sans-serif);
+  font-weight: var(--grid-button-primary-font-weight, 500);
+  font-size: var(--grid-button-primary-font-size, 14px);
+  line-height: 1.2;
+  letter-spacing: var(--grid-button-primary-letter-spacing, .22em);
+  text-transform: var(--grid-button-primary-text-transform, uppercase);
+  text-decoration: none;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color .2s, background .2s, border-color .2s;
+}
+.aap-btn-secondary {
+  padding: 0 var(--grid-button-secondary-padding-x, 40px);
+  font-weight: var(--grid-button-secondary-font-weight, 600);
+}
+.aap-btn:hover {
+  color: var(--hc, var(--fc));
+  background: var(--bg, transparent);
+  border-color: var(--hbc, var(--bc));
+}
+
+/* -------------------------------------------------------------- social icons */
+.aap-social { gap: 14px; align-items: center; }
+.aap-social a { display: inline-flex; color: inherit; }
+.aap-social svg { width: 24px; height: 24px; }
+
+/* ---------------------------------------------------------------- form (static) */
+.aap-form { display: block; }
+.aap-form form { display: flex; flex-direction: column; gap: 10px; width: 100%; height: 100%; }
+.aap-form label { font-size: 13px; font-family: var(--font-secondary, 'Poppins', sans-serif); }
+.aap-form input,
+.aap-form textarea {
+  font: inherit; padding: 10px 12px; border: 1px solid rgba(0, 0, 0, .25);
+  background: rgba(255, 255, 255, .9); border-radius: 4px; width: 100%;
+}
+.aap-form textarea { flex: 1; resize: vertical; min-height: 90px; }
+.aap-form button {
+  align-self: flex-start; padding: 10px 24px; border: 0; cursor: pointer;
+  background: rgb(47, 58, 41); color: rgb(255, 245, 213);
+  font-family: var(--font-secondary, 'Poppins', sans-serif); font-weight: 500;
+}
+.aap-form-dark label { color: rgb(255, 245, 213); }

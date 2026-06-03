@@ -1,0 +1,48 @@
+{
+ "logo": "/arraiadapaim/images/logo-texto-bk.png",
+ "footer": {
+  "id": "z45R0y",
+  "style": "--dth:225px;--mbh:905px;--dtpad:16px 0 16px 0;--mbpad:80px 16px 80px 16px;background-color:rgb(47, 58, 41);",
+  "cls": "",
+  "mbw": 328,
+  "els": [
+   {
+    "style": "--dt-t:162px;--dt-l:1031px;--dt-w:193px;--dt-h:25px;--mb-t:830px;--mb-l:0px;--mb-w:328px;--mb-h:25px;z-index:1;justify-content:flex-start;align-items:flex-start;text-align:left;",
+    "tag": "text",
+    "html": "<p dir=\"auto\" style=\"color: rgb(255, 245, 213)\" class=\"body-small\"><span style=\"text-transform: none\">arraiadapaim@gmail.com</span></p>"
+   },
+   {
+    "style": "--dt-t:50px;--dt-l:412px;--dt-w:194px;--dt-h:150px;--mb-t:40px;--mb-l:12px;--mb-w:304px;--mb-h:240px;z-index:2;justify-content:center;align-items:center;",
+    "tag": "img",
+    "src": "/arraiadapaim/images/logo-lanchonete-vermelho.png",
+    "alt": ""
+   },
+   {
+    "style": "--dt-t:50px;--dt-l:1030px;--dt-w:81px;--dt-h:76px;--mb-t:739px;--mb-l:0px;--mb-w:158px;--mb-h:76px;z-index:3;justify-content:flex-start;align-items:flex-start;text-align:left;",
+    "tag": "text",
+    "html": "<p dir=\"auto\" style=\"color: rgb(255, 245, 213)\" class=\"body-small\"><span style=\"text-transform: none\"><u><a rel=\"\" href=\"/arraiadapaim/2024/\" style=\"text-decoration: none;\" data-page-id=\"zztQQ5\">EVENTO</a></u><br><u>ATIVIDADES</u></span><br><span style=\"text-transform: none\"><u><a rel=\"\" href=\"/arraiadapaim/sobre/\" style=\"text-decoration: none;\" data-page-id=\"ze8nys\">SOBRE</a></u></span></p>"
+   },
+   {
+    "style": "--dt-t:50px;--dt-l:0px;--dt-w:361px;--dt-h:150px;--mb-t:624px;--mb-l:12px;--mb-w:304px;--mb-h:114px;z-index:4;justify-content:center;align-items:center;",
+    "tag": "img",
+    "src": "/arraiadapaim/images/14bis.png",
+    "alt": ""
+   },
+   {
+    "style": "--dt-t:50px;--dt-l:640px;--dt-w:147px;--dt-h:150px;--mb-t:302px;--mb-l:12px;--mb-w:304px;--mb-h:298px;z-index:5;justify-content:center;align-items:center;",
+    "tag": "img",
+    "src": "/arraiadapaim/images/whatsapp-image-2024-05-30-at-14.02.01.jpeg",
+    "alt": ""
+   },
+   {
+    "style": "--dt-t:3px;--dt-l:964px;--dt-w:260px;--dt-h:37px;--mb-t:855px;--mb-l:54px;--mb-w:219px;--mb-h:36px;z-index:6;justify-content:center;align-items:center;",
+    "tag": "btn",
+    "label": "@arraiadapaim",
+    "href": "https://www.instagram.com/",
+    "target": "_blank",
+    "variant": "primary",
+    "btnstyle": "--fc:rgba(245, 248, 251, 0.6);--bc:rgba(0, 0, 0, 0);--bw:3px;--bg:rgba(0, 0, 0, 0);--hc:rgb(47, 58, 41);--hbc:rgb(47, 58, 41);"
+   }
+  ]
+ }
+}

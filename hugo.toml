@@ -54,6 +54,11 @@ defaultContentLanguageInSubdir = false
       name = 'Zona da Mata'
       url = '/zonadamata/'
       weight = 70
+    [[languages.pt.menus.main]]
+      identifier = 'arraiadapaim'
+      name = 'Arraiá da Paim'
+      url = '/arraiadapaim/'
+      weight = 80
 
   [languages.en]
     languageCode = 'en-US'
@@ -98,6 +103,11 @@ defaultContentLanguageInSubdir = false
       name = 'Zona da Mata'
       url = '/zonadamata/'
       weight = 70
+    [[languages.en.menus.main]]
+      identifier = 'arraiadapaim'
+      name = 'Arraiá da Paim'
+      url = '/arraiadapaim/'
+      weight = 80
 
 [sitemap]
   changefreq = "weekly"

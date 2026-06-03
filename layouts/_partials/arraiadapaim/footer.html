@@ -1,0 +1,9 @@
+{{/* Shared Zyro footer block (slot "footer"), identical on every page.
+     Data generated into data/arraiadapaim/chrome.json by _arraia_extract.py. */}}
+{{ with site.Data.arraiadapaim.chrome }}
+  {{ with .footer }}
+    <footer class="aap-footer">
+      {{ partial "arraiadapaim/section.html" . }}
+    </footer>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,30 @@
+{{/* Renders one Zyro BlockLayout section (passed as context).
+     Schema: { id, style, cls, mbw, els:[ {tag, style, ...} ] } */}}
+{{ $s := . }}
+<section class="aap-section{{ with $s.cls }} {{ . }}{{ end }}" style="{{ $s.style | safeCSS }}">
+  <div class="aap-canvas" style="--mbw:{{ $s.mbw }}px;">
+    {{ range $s.els }}
+      {{ if eq .tag "text" }}
+        <div class="aap-el" style="{{ .style | safeCSS }}"><div class="text-box">{{ .html | safeHTML }}</div></div>
+      {{ else if eq .tag "img" }}
+        <div class="aap-el aap-img" style="{{ .style | safeCSS }}"><img src="{{ .src | relURL }}" alt="{{ .alt }}" loading="lazy"{{ with .mask }} style="{{ printf "-webkit-mask:url('%s') center/100%% 100%% no-repeat;mask:url('%s') center/100%% 100%% no-repeat;object-fit:cover" . . | safeCSS }}"{{ end }}></div>
+      {{ else if eq .tag "btn" }}
+        <div class="aap-el" style="{{ .style | safeCSS }}"><a class="aap-btn aap-btn-{{ .variant }}" href="{{ .href | relLangURL }}"{{ with .target }} target="{{ . }}"{{ end }} style="{{ .btnstyle | safeCSS }}">{{ .label | safeHTML }}</a></div>
+      {{ else if eq .tag "social" }}
+        <div class="aap-el aap-social" style="{{ .style | safeCSS }}">{{ range .links }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .svg | safeHTML }}</a>{{ end }}</div>
+      {{ else if eq .tag "form" }}
+        <div class="aap-el aap-form aap-form-{{ .theme }}" style="{{ .style | safeCSS }}">
+          <form onsubmit="return false">
+            {{ range .fields }}
+              <label>{{ .label }}{{ if .required }} *{{ end }}</label>
+              {{ if eq .type "long-answer" }}<textarea placeholder="{{ .placeholder }}"></textarea>
+              {{ else if eq .type "email" }}<input type="email" placeholder="{{ .placeholder }}">
+              {{ else }}<input type="text" placeholder="{{ .placeholder }}">{{ end }}
+            {{ end }}
+            <button type="submit">{{ .submit }}</button>
+          </form>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
