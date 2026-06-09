@@ -1,10 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="canonical" href="{{ .Permalink }}" />
-{{ range .AllTranslations }}
-  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
-{{ end }}
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+{{- partial "seo-head.html" . -}}
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 <link rel="stylesheet" href="{{ "style.css" | relURL }}">
 
 {{ with .OutputFormats.Get "RSS" }}
@@ -12,4 +9,5 @@
   <link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 {{- partial "opengraph.html" . -}}
-
+{{- partial "twitter_cards.html" . -}}
+{{- partial "schema.html" . -}}

@@ -1,5 +1,6 @@
 baseURL = 'https://lanchonete.tllester.info/'
 title = 'Lanchonete'
+enableRobotsTXT = true
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -9,6 +10,18 @@ defaultContentLanguageInSubdir = false
 
 [params]
   logo = 'lanchonete.png'
+  defaultHreflang = 'pt'
+  ogImage = 'lanchonete.png'
+  googleSiteVerification = ''
+
+  [params.schema]
+    type = 'Organization'
+    name = 'Lanchonete'
+    alternateName = ['Lanchonete.org', 'lanchonete.org', 'Cidade Queer', 'A Rua Paim', 'Episódio Haiti', 'Zona da Mata', 'cidadequeer.lanchonete.org', 'paim.lanchonete.org']
+    sameAs = [
+      'https://lanchonete.org/',
+      'https://tllester.info/',
+    ]
 
 [languages]
   [languages.pt]

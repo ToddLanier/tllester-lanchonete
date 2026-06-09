@@ -11,6 +11,10 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap">
   <link rel="stylesheet" href="{{ "paim/paim.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
+  {{- partial "seo-head.html" (dict "page" . "skipDesc" true) -}}
+  {{- partial "opengraph.html" . -}}
+  {{- partial "twitter_cards.html" . -}}
+  {{- partial "schema.html" . -}}
 </head>
 
 <body class="paim">

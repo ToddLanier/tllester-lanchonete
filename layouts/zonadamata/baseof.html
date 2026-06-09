@@ -8,6 +8,10 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}Zona da Mata — no quintal do Goethe-Institut São Paulo{{ end }}{{ end }}">
   <link rel="stylesheet" href="{{ "zonadamata/zonadamata.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
+  {{- partial "seo-head.html" (dict "page" . "skipDesc" true) -}}
+  {{- partial "opengraph.html" . -}}
+  {{- partial "twitter_cards.html" . -}}
+  {{- partial "schema.html" . -}}
 </head>
 
 <body class="zonadamata">
