@@ -14,7 +14,7 @@
     {{- if eq $lang $currentLang -}}
       <span class="lang-btn lang-current" aria-current="true">{{ $langName }}</span>
     {{- else if $hasTranslation -}}
-      <a href="{{ $translationURL }}" class="lang-btn" hreflang="{{ $lang }}">{{ $langName }}</a>
+      <a href="{{ $translationURL }}" class="lang-btn" hreflang="{{ $lang }}" onclick="localStorage.setItem('lanchonete-lang','{{ $lang }}')">{{ $langName }}</a>
     {{- else -}}
       <span class="lang-btn lang-disabled" aria-disabled="true" title="Not available in {{ $langName }}">{{ $langName }}</span>
     {{- end -}}

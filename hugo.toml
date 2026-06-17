@@ -1,12 +1,11 @@
 baseURL = 'https://lanchonete.tllester.info/'
 title = 'Lanchonete'
 enableRobotsTXT = true
+defaultContentLanguage = 'pt'
+defaultContentLanguageInSubdir = false
 
 [markup.goldmark.renderer]
   unsafe = true
-
-defaultContentLanguage = 'pt'
-defaultContentLanguageInSubdir = false
 
 [params]
   logo = 'lanchonete.png'

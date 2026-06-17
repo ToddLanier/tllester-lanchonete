@@ -1,0 +1,65 @@
+{{- /*
+  geo-lang-detect.html
+  Runs ONLY on the homepage (inject from home.html).
+
+  Language detection waterfall — fires on first visit, then respects localStorage:
+    1. localStorage 'lanchonete-lang' already set → honour it, redirect if needed, stop.
+    2. navigator.language starts with 'pt' → set PT, redirect if needed, stop.
+    3. IP geolocation API (ipapi.co) → check country code against Lusophone list.
+    4. API fails → fall back to browser language: non-PT browser → EN.
+
+  Manual language selection via lang-switcher.html writes to localStorage,
+  which wins on all future visits (step 1 above).
+
+  Lusophone country codes: BR PT AO MZ CV GW ST TL MO
+*/ -}}
+<script>
+(function () {
+  /* Skip detection on local dev servers — unless ?geotest is in the URL (manual testing) */
+  var host = window.location.hostname;
+  var testMode = window.location.search.indexOf('geotest') !== -1;
+  var isLocal = host === 'localhost' || host === '127.0.0.1' || host.endsWith('.local');
+  if (isLocal && !testMode) return;
+
+  var LUSOPHONE = ['BR','PT','AO','MZ','CV','GW','ST','TL','MO'];
+  var STORE_KEY  = 'lanchonete-lang';
+  var currentLang = '{{ .Site.Language.Lang }}';
+  var ptURL = '/';
+  var enURL = '/en/';
+
+  function go(lang) {
+    localStorage.setItem(STORE_KEY, lang);
+    if (lang !== currentLang) {
+      window.location.replace(lang === 'pt' ? ptURL : enURL);
+    }
+  }
+
+  /* 1. Honour stored preference */
+  var stored = localStorage.getItem(STORE_KEY);
+  if (stored === 'pt' || stored === 'en') {
+    if (stored !== currentLang) {
+      window.location.replace(stored === 'pt' ? ptURL : enURL);
+    }
+    return;
+  }
+
+  /* 2. Browser language — avoid API call for PT speakers */
+  var browserLang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+  if (browserLang.startsWith('pt')) {
+    go('pt');
+    return;
+  }
+
+  /* 3. IP geolocation for non-PT browser */
+  fetch('https://ipapi.co/json/', { cache: 'no-store' })
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var cc = (data.country_code || '').toUpperCase();
+      go(LUSOPHONE.indexOf(cc) >= 0 ? 'pt' : 'en');
+    })
+    .catch(function () {
+      /* 4. API failed — non-PT browser already established above → EN */
+      go('en');
+    });
+})();
+</script>
