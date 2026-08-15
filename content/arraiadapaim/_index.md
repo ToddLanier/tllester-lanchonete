@@ -1,6 +1,7 @@
 {
  "title": "Arraiá da Paim",
  "type": "arraiadapaim",
+ "aliases": ["/en/arraiadapaim/"],
  "blocks": [
   {
    "id": "zSvnzQ",
@@ -56,7 +57,7 @@
   },
   {
    "id": "zMCHjq",
-   "style": "--dth:782px;--mbh:1141px;--dtpad:0px 0px 0px 0px;--mbpad:80px 16px 80px 16px;background-color:rgb(255, 245, 213);",
+   "style": "--dth:782px;--mbh:1200px;--dtpad:0px 0px 0px 0px;--mbpad:80px 16px 80px 16px;background-color:rgb(255, 245, 213);",
    "cls": "",
    "mbw": 328,
    "els": [
@@ -71,13 +72,21 @@
      "html": "<p dir=\"auto\" style=\"color: rgb(26, 26, 26)\" class=\"body-small\">Depois de um intervalo de mais de 30 anos as festividades de São João, Santo Antônio e São Pedro estão de volta ao Conjunto Santos Dumont, símbolo da migração nordestina em São Paulo localizado no Bixiga. A comunidade da Paim e o grupo de artistas se unem para reavivar o evento do Arraiá, que irá ocupar a via pública interna do conjunto com músicas, comidas e danças típicas além de oficinas e instalações artísticas misturando diversas faixas etárias de moradores e público em geral. <br>O festival será gratuito e acontecerá dia 20 de Julho de 2024, no aniversário de 150 anos do inventor e aviador Santos Dumont!</p>"
     },
     {
-     "style": "--dt-t:657px;--dt-l:713px;--dt-w:202px;--dt-h:48px;--mb-t:1054px;--mb-l:80px;--mb-w:169px;--mb-h:36px;z-index:3;justify-content:flex-start;align-items:flex-start;",
+     "style": "--dt-t:657px;--dt-l:713px;--dt-w:202px;--dt-h:48px;--mb-t:1125px;--mb-l:80px;--mb-w:169px;--mb-h:36px;z-index:3;justify-content:flex-start;align-items:flex-start;",
      "tag": "btn",
      "label": "SOBRE O EVENTO",
      "href": "/arraiadapaim/2024/",
      "target": "_self",
      "variant": "primary",
      "btnstyle": "--fc:rgb(72, 83, 66);--bc:rgb(72, 83, 66);--bw:3px;--bg:rgba(0, 0, 0, 0);--hc:rgb(47, 58, 41);--hbc:rgb(47, 58, 41);"
+    },
+    {
+     "style": "--dt-t:560px;--dt-l:713px;--dt-w:64px;--dt-h:90px;--mb-t:1015px;--mb-l:80px;--mb-w:64px;--mb-h:90px;z-index:3;justify-content:flex-start;align-items:flex-start;",
+     "tag": "img",
+     "src": "/arraiadapaim/images/SantosDumontPoster.JPG",
+     "alt": "Cartaz Santos Dumont — abrir PDF",
+     "href": "/arraiadapaim/images/SantosDumontPoster.pdf",
+     "target": "_blank"
     },
     {
      "style": "--dt-t:0px;--dt-l:51px;--dt-w:555px;--dt-h:782px;--mb-t:104px;--mb-l:0px;--mb-w:328px;--mb-h:480px;z-index:4;justify-content:center;align-items:center;",

@@ -1,6 +1,7 @@
 {
  "title": "INSTALAÇÕES",
  "type": "arraiadapaim",
+ "aliases": ["/en/arraiadapaim/instalacoes/"],
  "blocks": [
   {
    "id": "zUMngj",

@@ -7,7 +7,7 @@
       {{ if eq .tag "text" }}
         <div class="aap-el" style="{{ .style | safeCSS }}"><div class="text-box">{{ .html | safeHTML }}</div></div>
       {{ else if eq .tag "img" }}
-        <div class="aap-el aap-img" style="{{ .style | safeCSS }}"><img src="{{ .src | relURL }}" alt="{{ .alt }}" loading="lazy"{{ with .mask }} style="{{ printf "-webkit-mask:url('%s') center/100%% 100%% no-repeat;mask:url('%s') center/100%% 100%% no-repeat;object-fit:cover" . . | safeCSS }}"{{ end }}></div>
+        <div class="aap-el aap-img" style="{{ .style | safeCSS }}">{{ if .href }}<a href="{{ .href | relURL }}"{{ with .target }} target="{{ . }}"{{ end }} rel="noopener">{{ end }}<img src="{{ .src | relURL }}" alt="{{ .alt }}" loading="lazy"{{ with .mask }} style="{{ printf "-webkit-mask:url('%s') center/100%% 100%% no-repeat;mask:url('%s') center/100%% 100%% no-repeat;object-fit:cover" . . | safeCSS }}"{{ end }}>{{ if .href }}</a>{{ end }}</div>
       {{ else if eq .tag "btn" }}
         <div class="aap-el" style="{{ .style | safeCSS }}"><a class="aap-btn aap-btn-{{ .variant }}" href="{{ .href | relLangURL }}"{{ with .target }} target="{{ . }}"{{ end }} style="{{ .btnstyle | safeCSS }}">{{ .label | safeHTML }}</a></div>
       {{ else if eq .tag "social" }}

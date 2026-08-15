@@ -1,6 +1,7 @@
 {
  "title": "SUSTENTABILIDADE",
  "type": "arraiadapaim",
+ "aliases": ["/en/arraiadapaim/sustentabilidade/"],
  "blocks": [
   {
    "id": "zYq0lP",

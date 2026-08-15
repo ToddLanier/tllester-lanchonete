@@ -1,6 +1,7 @@
 {
  "title": "OFICINAS",
  "type": "arraiadapaim",
+ "aliases": ["/en/arraiadapaim/oficinas/"],
  "blocks": [
   {
    "id": "zSZG8f",

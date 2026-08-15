@@ -1,6 +1,7 @@
 {
  "title": "COLABORADORES",
  "type": "arraiadapaim",
+ "aliases": ["/en/arraiadapaim/colaboradores/"],
  "blocks": [
   {
    "id": "zhyV9P",

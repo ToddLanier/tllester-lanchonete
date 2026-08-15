@@ -1,6 +1,7 @@
 {
  "title": "SOBRE",
  "type": "arraiadapaim",
+ "aliases": ["/en/arraiadapaim/sobre/"],
  "blocks": [
   {
    "id": "zKHlgs",
