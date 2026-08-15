@@ -423,7 +423,7 @@ p {
 .main-navigation-container {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 10px;
 }
 
 .main-navigation ul {
@@ -439,11 +439,12 @@ p {
   color: var(--color_header_text);
   font-size: 0.9rem;
   font-weight: 600;
-  padding: 6px 10px;
+  padding: 6px 8px;
   display: block;
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+  white-space: nowrap;
   transition: opacity 0.15s;
 }
 
