@@ -1,30 +1,11 @@
-{{ define "title" }}Publicações — Zona da Mata{{ end }}
+{{ define "title" }}{{ .Title }} — Zona da Mata{{ end }}
 
 {{ define "main" }}
 
-{{ $posts := sort .Pages "Date" "desc" }}
+<h1 class="zdm-page-title">{{ .Title }}</h1>
 
-{{ range $posts }}
-<article class="zdm-post">
-  {{ if .Params.coverImage }}
-  <a href="{{ .Permalink }}">
-    <img src="{{ printf "zonadamata/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="zdm-post-thumbnail">
-  </a>
-  {{ end }}
-  <h2 class="zdm-entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-  <div class="zdm-entry-meta">
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-    {{ with .Params.categories }}{{ range . }} &middot; {{ . }}{{ end }}{{ end }}
-  </div>
-  <div class="zdm-entry-content">
-    {{ if .Params.excerpt }}
-    <p>{{ .Params.excerpt }}</p>
-    {{ else }}
-    <p>{{ .Summary | truncate 200 }}</p>
-    {{ end }}
-  </div>
-  <a href="{{ .Permalink }}" class="zdm-read-more">continuar lendo &rarr;</a>
-</article>
-{{ end }}
+{{ $paginator := .Paginate (sort .Pages "Date" "desc") 8 }}
+{{ partial "zonadamata/card-grid.html" (dict "pages" $paginator.Pages) }}
+{{ partial "zonadamata/pagination.html" . }}
 
 {{ end }}

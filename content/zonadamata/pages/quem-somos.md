@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/en/zonadamata/pages/quem-somos/"
 author: "admin"
 date: 2016-06-20
 id: 385

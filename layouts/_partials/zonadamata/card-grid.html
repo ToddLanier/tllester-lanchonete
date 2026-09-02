@@ -1,0 +1,29 @@
+{{- /* Article card grid for Zona da Mata.
+
+   Reproduces the legacy `loop-textos.php` grid: 4 across, featured image cropped to
+   222x140, title, excerpt. The crop is done in CSS (aspect-ratio + object-fit) rather
+   than with Hugo image processing, because these images live in content/ rather than
+   assets/ and so are not page resources.
+
+   Deviation from legacy: the thumbnail links to the article rather than to the
+   full-size upload, since only one size per image is kept in the repo.
+
+   Context: a dict with `pages` (a page collection). */ -}}
+
+<div class="zdm-grid">
+  {{- range .pages }}
+  {{- $imgDir := "" -}}
+  {{- with .File }}{{ $imgDir = path.Join "/" .Dir "images" }}{{ end -}}
+  <article class="zdm-card">
+    {{- if and .Params.coverImage $imgDir }}
+    <a class="zdm-card-media" href="{{ .RelPermalink }}">
+      <img class="zdm-card-thumb" src="{{ path.Join $imgDir .Params.coverImage | relURL }}" alt="{{ .Title }}" loading="lazy">
+    </a>
+    {{- end }}
+    <div class="zdm-card-caption">
+      <h3 class="zdm-card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="zdm-card-excerpt">{{ with .Params.excerpt }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 180 }}{{ end }}</p>
+    </div>
+  </article>
+  {{- end }}
+</div>

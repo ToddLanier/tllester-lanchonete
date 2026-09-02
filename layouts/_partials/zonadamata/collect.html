@@ -1,0 +1,14 @@
+{{- /* Returns the Zona da Mata article set for a listing, newest first.
+
+   Includes `textos` (the migrated WordPress CPT) and `post` types. Zona da Mata is
+   Portuguese-only — it has no English content and no language switcher — so every
+   /en/ URL is served by an alias back to the Portuguese page instead. There is
+   therefore no cross-language collection to do here.
+
+   Context: the current page. Returns a page slice. */ -}}
+{{- $types := slice "textos" "post" -}}
+{{- $pages := slice -}}
+{{- range where site.RegularPages "Section" "zonadamata" -}}
+  {{- if in $types .Type -}}{{ $pages = $pages | append . }}{{- end -}}
+{{- end -}}
+{{- return sort $pages "Date" "desc" -}}

@@ -2,32 +2,21 @@
 
 {{ define "main" }}
 
-{{ $allZdm := where site.RegularPages "Section" "zonadamata" }}
-{{ $posts := sort (where $allZdm "Type" "post") "Date" "desc" }}
+{{- /* Front page, mirroring the legacy WordPress front page (page_on_front = 65,
+       template page-textos-grid.php): slideshow, then the page's own intro copy,
+       then a paginated grid of articles, 8 per page. */ -}}
 
-{{ if $posts }}
-  {{ range $posts }}
-  <article class="zdm-post">
-    {{ if .Params.coverImage }}
-    <a href="{{ .Permalink }}">
-      <img src="{{ printf "zonadamata/posts/images/%s" .Params.coverImage | relURL }}" alt="{{ .Title }}" class="zdm-post-thumbnail">
-    </a>
-    {{ end }}
-    <h2 class="zdm-entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <div class="zdm-entry-meta">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-      {{ with .Params.categories }}{{ range . }} &middot; {{ . }}{{ end }}{{ end }}
-    </div>
-    <div class="zdm-entry-content">
-      {{ if .Params.excerpt }}
-      <p>{{ .Params.excerpt }}</p>
-      {{ else }}
-      <p>{{ .Summary | truncate 200 }}</p>
-      {{ end }}
-    </div>
-    <a href="{{ .Permalink }}" class="zdm-read-more">continuar lendo &rarr;</a>
-  </article>
-  {{ end }}
-{{ end }}
+{{ partial "zonadamata/slideshow.html" . }}
+
+{{- with site.GetPage "/zonadamata/pages/home-2" }}
+<div class="zdm-intro">
+  {{ .Content }}
+</div>
+{{- end }}
+
+{{ $articles := partial "zonadamata/collect.html" . }}
+{{ $paginator := .Paginate $articles 8 }}
+{{ partial "zonadamata/card-grid.html" (dict "pages" $paginator.Pages) }}
+{{ partial "zonadamata/pagination.html" . }}
 
 {{ end }}

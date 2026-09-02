@@ -1,0 +1,81 @@
+{{- /* Front-page slideshow for Zona da Mata.
+
+   Replaces the legacy WordPress `[cudazi_slider categories="home" slide_delay="0"]`
+   shortcode, which drove the Slides jQuery plugin. Behaviour matched to the legacy
+   options: fade effect, prev/next arrows, numbered pagination, and NO autoplay
+   (slide_delay was 0).
+
+   Slides are headless pages under content/zonadamata/slides/, ordered newest first:
+   the legacy shortcode's WP_Query passed no `orderby`, so WordPress fell back to
+   date DESC — menu_order was never used. They are Portuguese-only, so fall back to
+   the default language site when the current one has none. */ -}}
+
+{{- $slides := slice -}}
+{{- with site.GetPage "/zonadamata/slides" -}}
+  {{- $slides = .Pages.ByDate.Reverse -}}
+{{- end -}}
+{{- if not $slides -}}
+  {{- range site.Sites -}}
+    {{- if not $slides -}}
+      {{- with .GetPage "/zonadamata/slides" -}}
+        {{- $slides = .Pages.ByDate.Reverse -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $slides }}
+<div class="zdm-slider" data-zdm-slider>
+  <div class="zdm-slider-viewport">
+    {{- range $i, $s := $slides }}
+    <div class="zdm-slide{{ if eq $i 0 }} is-active{{ end }}" data-index="{{ $i }}"{{ if ne $i 0 }} aria-hidden="true"{{ end }}>
+      {{ $s.Content }}
+    </div>
+    {{- end }}
+  </div>
+
+  <ol class="zdm-slider-dots">
+    {{- range $i, $s := $slides }}
+    <li><button type="button" data-goto="{{ $i }}"{{ if eq $i 0 }} class="is-active" aria-current="true"{{ end }} aria-label="{{ $s.Title }}"><span>{{ add $i 1 }}</span></button></li>
+    {{- end }}
+  </ol>
+
+  <div class="zdm-slider-nav">
+    <button class="zdm-slider-prev" type="button">Prev</button>
+    <button class="zdm-slider-next" type="button">Next</button>
+  </div>
+</div>
+
+<script>
+(function () {
+  var root = document.querySelector('[data-zdm-slider]');
+  if (!root) return;
+
+  var slides = Array.prototype.slice.call(root.querySelectorAll('.zdm-slide'));
+  var dots   = Array.prototype.slice.call(root.querySelectorAll('.zdm-slider-dots button'));
+  var current = 0;
+
+  if (slides.length < 2) root.classList.add('is-single');
+
+  function show(next) {
+    current = (next + slides.length) % slides.length;
+    slides.forEach(function (s, i) {
+      var on = i === current;
+      s.classList.toggle('is-active', on);
+      if (on) { s.removeAttribute('aria-hidden'); } else { s.setAttribute('aria-hidden', 'true'); }
+    });
+    dots.forEach(function (d, i) {
+      var on = i === current;
+      d.classList.toggle('is-active', on);
+      if (on) { d.setAttribute('aria-current', 'true'); } else { d.removeAttribute('aria-current'); }
+    });
+  }
+
+  root.querySelector('.zdm-slider-prev').addEventListener('click', function () { show(current - 1); });
+  root.querySelector('.zdm-slider-next').addEventListener('click', function () { show(current + 1); });
+  dots.forEach(function (d) {
+    d.addEventListener('click', function () { show(parseInt(d.getAttribute('data-goto'), 10)); });
+  });
+})();
+</script>
+{{- end }}

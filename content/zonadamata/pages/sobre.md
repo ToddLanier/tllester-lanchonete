@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/en/zonadamata/pages/sobre/"
 author: "admin"
 date: 2016-06-09
 id: 2

@@ -1,37 +1,24 @@
+{{- /* Standalone opening chrome for Zona da Mata single pages, which bypass
+       zonadamata/baseof.html (Hugo resolves them by frontmatter `type`).
+       Shares head.html and nav.html with the baseof so both stay identical.
+       Must be paired with zonadamata/footer.html. */ -}}
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.LanguageCode | default "pt-BR" }}">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }} — Zona da Mata</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
-  <link rel="stylesheet" href="{{ "zonadamata/zonadamata.css" | relURL }}">
+{{ partial "zonadamata/head.html" . }}
 </head>
 
 <body class="zonadamata">
+
+<!-- Global Search Drawer -->
+<div class="search-drawer" aria-expanded="false" role="region">
+  <form role="search" method="get" class="searchform" action="{{ "search/" | relLangURL }}">
+    <input type="search" class="search-input" placeholder="Search …" value="" name="q">
+  </form>
+</div>
+
 <div id="zdm-outer">
-
-  <div class="zdm-container">
-    <div id="zdm-header">
-      <div class="zdm-header-inner">
-        <div class="zdm-logo-cell">
-          <a href="{{ .Site.Home.RelPermalink }}" class="zdm-back-link" aria-label="Voltar para Lanchonete">Lanchonete</a>
-          <h1 id="zdm-logo"><a href="{{ "zonadamata/" | relURL }}">Zona da Mata</a></h1>
-        </div>
-        <div class="zdm-nav-cell">
-          <nav class="zdm-nav" role="navigation" aria-label="Navegação principal">
-            <ul>
-              <li><a href="{{ "zonadamata/posts/" | relURL }}">Publicações</a></li>
-              <li><a href="{{ "zonadamata/pages/sobre/" | relURL }}">Sobre Zona da Mata</a></li>
-              <li><a href="{{ "zonadamata/pages/contact/" | relURL }}">Contato</a></li>
-            </ul>
-            {{ partial "lang-switcher.html" . }}
-          </nav>
-        </div>
-      </div>
-    </div>
-  </div>
-
+{{ partial "zonadamata/nav.html" . }}
   <div id="zdm-main">
     <div class="zdm-container">

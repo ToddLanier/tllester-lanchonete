@@ -9,12 +9,30 @@ body.zonadamata {
   font-size: 14px;
   color: #333;
   line-height: 1.7;
+  background-color: #fff;
   background-image: url('/zonadamata/bg.jpg');
   background-repeat: repeat;
   background-attachment: fixed;
   background-position: -30px -50px;
   margin: 0;
   padding: 0;
+}
+
+/* The decorative tile is dense enough to sit on top of body copy once the page is
+   full of text. Veil it so it reads as a background rather than competing with the
+   content; the legacy site showed plain white here because its bg.jpg URL was dead. */
+body.zonadamata::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background: rgba(255, 255, 255, 0.82);
+  pointer-events: none;
+}
+
+body.zonadamata #zdm-outer {
+  position: relative;
+  z-index: 1;
 }
 
 body.zonadamata *,
@@ -100,9 +118,9 @@ body.zonadamata blockquote {
 
 /* ----- Container ----- */
 .zdm-container {
-  max-width: 1008px;
+  width: 1008px;
   margin: 0 auto;
-  padding: 0 30px;
+  padding: 0 15px;
 }
 
 /* ----- Header ----- */
@@ -270,13 +288,16 @@ body.zonadamata blockquote {
 }
 
 /* ----- Single Post ----- */
+/* Legacy single-textos / page templates render into grid_8 = 700px, not the full
+   978px column; the longer measure was the most visible difference on articles. */
 .zdm-single-wrap {
+  max-width: 700px;
   padding-bottom: 60px;
 }
 
 .zdm-single-title {
   line-height: 1.2;
-  padding: 0 0 10px;
+  padding: 0 0 30px;
 }
 
 .zdm-single-meta {
@@ -338,6 +359,7 @@ body.zonadamata blockquote {
 
 /* ----- Single Page ----- */
 .zdm-page-wrap {
+  max-width: 700px;
   padding-bottom: 60px;
 }
 
@@ -374,72 +396,254 @@ body.zonadamata blockquote {
   color: #999;
 }
 
-/* ----- Responsive ----- */
-@media screen and (max-width: 767px) {
-  .zdm-container {
-    padding: 0 20px;
-  }
-
-  #zdm-header {
-    margin: 30px 0;
-  }
-
-  .zdm-header-inner {
-    display: block;
-  }
-
-  .zdm-logo-cell,
-  .zdm-nav-cell {
-    display: block;
-    width: auto;
-    text-align: left;
-  }
-
-  .zdm-nav-cell {
-    padding-right: 0;
-    margin-top: 15px;
-  }
-
-  .zdm-nav a {
-    padding: 0 20px 0 0;
-    letter-spacing: 1px;
-    font-size: 12px;
-  }
+/* ===== Front-page Slideshow =====
+   Replaces the legacy Cudazi `[cudazi_slider]` / Slides jQuery carousel.
+   Legacy renders a FIXED 978x545 window with overflow:hidden — the height comes from
+   the first slide and every other slide is cropped to it. Expressed here as an
+   aspect-ratio so it stays responsive. Controls match the legacy theme: 8px dot
+   pagination bottom-left, small "Prev"/"Next" text bottom-right. No autoplay. */
+body.zonadamata .zdm-slider {
+  position: relative;
+  padding: 0 0 10px;
+  margin: 0 0 50px;
 }
 
-/* ===== Language Switcher ===== */
-body.zonadamata .lang-switcher {
+body.zonadamata .zdm-slider-viewport {
+  position: relative;
+  overflow: hidden;
+  width: 978px;
+  height: 545px;
+}
+
+/* Crossfade on opacity alone. Toggling `visibility` alongside it stops the opacity
+   transition from ever running, which left the frame blank on every slide change. */
+body.zonadamata .zdm-slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  z-index: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+
+body.zonadamata .zdm-slide.is-active {
+  opacity: 1;
+  z-index: 1;
+  pointer-events: auto;
+}
+
+body.zonadamata .zdm-slide > *:first-child { margin-top: 0; }
+
+body.zonadamata .zdm-slide img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+body.zonadamata .zdm-slide p { margin: 0 0 15px; }
+
+/* Slide bodies use the legacy two-column promo layout (grid_6 alpha/omega). */
+body.zonadamata .zdm-slide .zdm-col-6 {
+  float: left;
+  width: 48.5%;
+}
+
+body.zonadamata .zdm-slide .zdm-col-6 + .zdm-col-6 { margin-left: 3%; }
+
+body.zonadamata .zdm-slide::after,
+body.zonadamata .zdm-col-6::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+body.zonadamata .zdm-slider-dots {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
   display: flex;
-  align-items: center;
-  gap: 4px;
-  margin-top: 6px;
+  gap: 5px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-body.zonadamata .lang-btn {
-  padding: 2px 6px;
-  font-size: 0.75rem;
-  border: 1px solid rgba(191,219,0,0.4);
-  border-radius: 2px;
-  color: #bfdb00;
-  text-decoration: none;
+body.zonadamata .zdm-slider-dots li { margin: 0; }
+
+body.zonadamata .zdm-slider-dots button {
+  display: block;
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  border: 0;
+  border-radius: 8px;
+  background: #ddd;
+  cursor: pointer;
+  overflow: hidden;
 }
 
-body.zonadamata .lang-btn:hover {
-  background: #bfdb00;
-  color: #333;
-  border-color: transparent;
+body.zonadamata .zdm-slider-dots button span {
+  display: block;
+  text-indent: -9999px;
 }
 
-body.zonadamata .lang-current {
-  background: #bfdb00;
-  color: #333;
-  border-color: transparent;
-  font-weight: 700;
+body.zonadamata .zdm-slider-dots button:hover,
+body.zonadamata .zdm-slider-dots button.is-active { background: #999; }
+
+body.zonadamata .zdm-slider-nav {
+  position: absolute;
+  bottom: -4px;
+  right: 0;
+  z-index: 100;
 }
 
-body.zonadamata .lang-disabled {
+body.zonadamata .zdm-slider-nav button {
+  border: 0;
+  background: none;
+  padding: 0;
+  margin-left: 17px;
+  font-family: 'Lato', sans-serif;
+  font-size: 10px;
+  color: #777;
+  cursor: pointer;
+}
+
+body.zonadamata .zdm-slider-nav button:hover { color: #333; }
+
+body.zonadamata .zdm-slider.is-single .zdm-slider-nav,
+body.zonadamata .zdm-slider.is-single .zdm-slider-dots { display: none; }
+
+/* ===== Front-page Intro (legacy page_on_front content) ===== */
+body.zonadamata .zdm-intro {
+  display: grid;
+  grid-template-columns: repeat(2, 474px);
+  gap: 0 30px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #ddd;
+}
+
+body.zonadamata .zdm-intro > h2 {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: 0 0 30px;
+}
+
+body.zonadamata .zdm-col-6 > *:first-child { margin-top: 0; }
+
+body.zonadamata .zdm-promotext {
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.6;
   color: #555;
-  border-color: #444;
-  text-decoration: line-through;
-  cursor: default;
 }
+
+/* ===== Article Card Grid (legacy loop-textos.php) ===== */
+body.zonadamata .zdm-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 222px);
+  gap: 30px;
+  padding: 40px 0 0;
+}
+
+body.zonadamata .zdm-card-media {
+  display: block;
+  margin-bottom: 4px;
+}
+
+/* 222x140 was WordPress's hard crop for the grid_3 image size. */
+body.zonadamata .zdm-card-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 222 / 140;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 0 3px #ddd;
+  transition: opacity 0.2s ease;
+}
+
+body.zonadamata .zdm-card-media:hover .zdm-card-thumb { opacity: 0.85; }
+
+body.zonadamata .zdm-card-title {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.7;
+  margin: 0;
+  /* Global h3 adds 30px bottom padding; legacy zeroes it on grid cards. */
+  padding: 0;
+}
+
+body.zonadamata .zdm-card-title a { color: #333; }
+body.zonadamata .zdm-card-title a:hover { color: #741c1c; }
+
+body.zonadamata .zdm-card-excerpt {
+  font-size: 12px;
+  line-height: 1.5;
+  color: #333;
+  margin: 0;
+  padding: 0 0 20px;
+}
+
+/* ===== Grid Pagination ===== */
+body.zonadamata .zdm-pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin: 60px 0 20px;
+  padding-top: 25px;
+  border-top: 1px solid #ddd;
+  font-family: 'Oswald', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+body.zonadamata .zdm-pagination a { color: #777; }
+body.zonadamata .zdm-pagination a:hover { color: #741c1c; }
+body.zonadamata .zdm-page-count { color: #999; }
+body.zonadamata .zdm-page-next { text-align: right; }
+
+/* ===== WordPress image alignment classes (kept in migrated article bodies) ===== */
+body.zonadamata .alignleft {
+  float: left;
+  margin: 5px 25px 15px 0;
+}
+
+body.zonadamata .alignright {
+  float: right;
+  margin: 5px 0 15px 25px;
+}
+
+body.zonadamata .aligncenter {
+  display: block;
+  margin: 15px auto;
+}
+
+body.zonadamata .alignnone {
+  display: block;
+  margin: 15px 0;
+}
+
+body.zonadamata .zdm-single-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Migrated bodies carry WP's inline width/height attributes; keep them responsive. */
+body.zonadamata .zdm-single-content .size-full,
+body.zonadamata .zdm-single-content .size-medium,
+body.zonadamata .zdm-single-content .size-large {
+  max-width: 100%;
+  height: auto;
+}
+
+body.zonadamata .zdm-single-content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* ===== Responsive ===== */
+

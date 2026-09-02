@@ -1,0 +1,16 @@
+{{- /* Prev/next pagination for the Zona da Mata card grids, matching the legacy
+       theme's plain "Next Posts" / "Previous Posts" links (wp-pagenavi was never
+       activated, so the legacy site degraded to exactly this). Context: the page. */ -}}
+{{- with .Paginator }}
+{{- if gt .TotalPages 1 }}
+<nav class="zdm-pagination" aria-label="Paginação">
+  <span class="zdm-page-prev">
+    {{- with .Prev }}<a href="{{ .URL }}">&larr; Publicações recentes</a>{{ end -}}
+  </span>
+  <span class="zdm-page-count">{{ .PageNumber }} / {{ .TotalPages }}</span>
+  <span class="zdm-page-next">
+    {{- with .Next }}<a href="{{ .URL }}">Publicações anteriores &rarr;</a>{{ end -}}
+  </span>
+</nav>
+{{- end }}
+{{- end }}

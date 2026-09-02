@@ -1,0 +1,12 @@
+{{ define "title" }}Publicações — Zona da Mata{{ end }}
+
+{{ define "main" }}
+
+<h1 class="zdm-page-title">{{ .Title }}</h1>
+
+{{ $articles := partial "zonadamata/collect.html" . }}
+{{ $paginator := .Paginate $articles 8 }}
+{{ partial "zonadamata/card-grid.html" (dict "pages" $paginator.Pages) }}
+{{ partial "zonadamata/pagination.html" . }}
+
+{{ end }}

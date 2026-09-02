@@ -1,0 +1,29 @@
+{{- /* Single Zona da Mata article (the migrated WordPress `textos` CPT).
+
+   Legacy single-textos.php in its `standard` layout renders title + content only —
+   no featured image, no date, no taxonomy meta — so this does the same.
+
+   Resolved by frontmatter `type: "textos"` plus the `layout: "zonadamata-single"`
+   cascade in content/zonadamata/_index.md, matching the existing
+   layouts/post/zonadamata-single.html and layouts/page/zonadamata-single.html. */ -}}
+{{ partial "zonadamata/header.html" . }}
+
+<div class="zdm-single-wrap">
+  <article class="zdm-single">
+    <h1 class="zdm-single-title">{{ .Title }}</h1>
+    <div class="zdm-single-content">
+      {{ .Content }}
+    </div>
+  </article>
+
+  <nav class="zdm-post-nav">
+    <span class="zdm-nav-prev">
+      {{- with .PrevInSection }}<a href="{{ .RelPermalink }}">&larr; {{ .Title }}</a>{{ end -}}
+    </span>
+    <span class="zdm-nav-next">
+      {{- with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }} &rarr;</a>{{ end -}}
+    </span>
+  </nav>
+</div>
+
+{{ partial "zonadamata/footer.html" . }}

@@ -1,0 +1,14 @@
+{{- /* Shared <head> contents for Zona da Mata, minus <title> — `block` is only valid
+       in a base template, so each caller emits its own title tag. Used by both
+       zonadamata/baseof.html (list pages) and zonadamata/header.html (single pages)
+       so the two rendering paths cannot drift apart. Context: the page. */ -}}
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}Zona da Mata — no quintal do Goethe-Institut São Paulo{{ end }}{{ end }}">
+  <link rel="stylesheet" href="{{ "zonadamata/zonadamata.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
+  {{- partial "seo-head.html" (dict "page" . "skipDesc" true) -}}
+  {{- partial "opengraph.html" . -}}
+  {{- partial "twitter_cards.html" . -}}
+  {{- partial "schema.html" . -}}

@@ -1,17 +1,8 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="{{ .Site.Language.LanguageCode | default "pt-BR" }}">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ block "title" . }}{{ .Title }} — Zona da Mata{{ end }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}Zona da Mata — no quintal do Goethe-Institut São Paulo{{ end }}{{ end }}">
-  <link rel="stylesheet" href="{{ "zonadamata/zonadamata.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
-  {{- partial "seo-head.html" (dict "page" . "skipDesc" true) -}}
-  {{- partial "opengraph.html" . -}}
-  {{- partial "twitter_cards.html" . -}}
-  {{- partial "schema.html" . -}}
+{{ partial "zonadamata/head.html" . }}
 </head>
 
 <body class="zonadamata">
@@ -24,30 +15,7 @@
 </div>
 
 <div id="zdm-outer">
-
-  <div class="zdm-container">
-    <div id="zdm-header">
-      <div class="zdm-header-inner">
-        <div class="zdm-logo-cell">
-          <a href="{{ .Site.Home.RelPermalink }}" class="zdm-back-link" aria-label="Voltar para Lanchonete">Lanchonete</a>
-          <h1 id="zdm-logo"><a href="{{ "zonadamata/" | relURL }}">Zona da Mata</a></h1>
-        </div>
-        <div class="zdm-nav-cell">
-          <nav class="zdm-nav" role="navigation" aria-label="Navegação principal">
-            <ul>
-              <li><a href="{{ "zonadamata/posts/" | relURL }}">Publicações</a></li>
-              <li><a href="{{ "zonadamata/pages/sobre/" | relURL }}">Sobre Zona da Mata</a></li>
-              <li><a href="{{ "zonadamata/pages/contact/" | relURL }}">Contato</a></li>
-            </ul>
-            <button class="search-toggle" aria-label="Toggle search">
-              <svg class="icon-search" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg><svg class="icon-close" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display:none"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
-            </button>
-          </nav>
-        </div>
-      </div>
-    </div>
-  </div>
-
+{{ partial "zonadamata/nav.html" . }}
   <div id="zdm-main">
     <div class="zdm-container">
       {{ block "main" . }}{{ end }}
